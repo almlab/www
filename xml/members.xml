@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Members</Title>
+
+    <contentPane>
+        <h3>Lab Members</h3>
+    <h4>PI: Eric Alm</h4>
+    <div id="member">
+        <img class="floatRight" src="img/ericAlm.png" width="150" alt="ericAlm"/>
+        Research in my group includes both computational/theoretical
+        and experimental approaches to understanding the evolution of microorganisms, emphasizing a
+        'systems-level' perspective. Some areas of special interest include:
+        <ul class="square">
+        <li>Tools for detecting natural selection in microbes</li>
+        <li>The evolutionary origin of gene families</li>
+        <li>Mining metagenomic sequence data</li>
+        <li>Experimental evolution of microbes</li>
+        <li>Modeling bacterial ecology</li>
+        <li>Gene regulatory networks in bacteria</li>
+        <li>Protein structure and design</li>    
+        </ul>
+        <a href="ealm.html">Read more...</a>
+    </div>
+    <hr />
+    <h4>Postdoc</h4>
+    
+   
+    <div id="member">
+        <img class="floatLeft" src="img/corzett2.jpg" width="150" alt="mBansal"/>
+        <font class="fontTitle">Christopher Corzett</font><br/>
+        I am interested in how microbes survive and thrive in diverse and dynamic
+    environments. This includes understanding how bacteria sense and respond to
+    environmental change, the metabolic machinery required for different feeding
+    strategies, and how microbes adapt and evolve various lifestyles..... <a href="corzett.html">Read more</a>
+    </div>
+   
+    <div id="member">
+        <img class="floatLeft" src="img/12_Greg_Fournier.jpeg" width="150" alt="gregFournier"/>
+        <font class="fontTitle">Greg Fournier</font><br/>
+        My current research focuses on integrating phylogenetics and horizontal
+        gene transfer (HGT) with studies of microbial evolution and planetary
+        history. ... <a href="GFournier.html">Read more</a><p/><p/><br/>
+    </div>
+    <div id="member">
+        <img class="floatLeft" src="img/29_Aliso.jpeg" width="150" alt="sarahPreheim"/>
+        <font class="fontTitle">Sarah Pacocha Preheim</font><br/>
+        I am interested in bacterial diversity, especially within aquatic ecosystems.
+        The small size, genetic diversity and metabolic versatility of bacteria make them
+        ideal systems for studying principles in ecology and evolution... <a href="sPreheim.html">Read more</a>
+       
+
+    </div>
+    <div id="member">
+        <img class="floatLeft" src="img/12_Manu_Tamminen.jpeg" width="150" alt="manuTamminen"/>
+        <font class="fontTitle">Manu Tamminen</font><br/>
+        I'm investigating novel approaches to extract and analyze genomic and transcriptomic
+        information from single cells. To achieve this exciting objective I use a variety of
+        tools, including flow assisted cell sorting, microfluidics, molecular biology and
+        computational analysis. This combination of laboratory and computational approaches
+        has considerable benefits over metagenomics... <a href="mvtammin.html">Read more</a>
+
+    </div>
+    <div id="member">
+        <img class="floatLeft" src="img/avihu2.jpg" width="150" alt="avihu"/>
+        <font class="fontTitle">Avihu Yona</font><br/>
+        During my doctoral research I utilized experimental evolution to study
+        the evolutionary dynamics of genomic duplications like aneuploidy and
+        tRNA genes. Now, I’m interested in the way complex communities evolve as
+        an integral entity and in how evolutionary forces can be applied to
+        reshape such communities towards desirable traits.... <a href="avihuYona.html">Read more</a>
+       
+
+    </div>  
+     <hr/>
+    <h4>Staff</h4>
+    <div id="member">
+        <img class="floatLeft" src="img/antolik1.jpg" width="150" alt="seanClarke"/>
+        <font class="fontTitle">Caroline Antolik</font><br/>
+        As Technical Assistant in the Alm lab, I help out with various
+        aspects of lab members' projects. My main responsibilities include 16s
+        library prep for Illumina sequencing and training for users on
+        specialized equipment such as our Bioanalyzer and liquid handling robot.... <a href="antolik.html">Read more</a>
+    </div>
+    <hr/>
+    
+    <h4>Graduate Students</h4>
+    <div id="member">
+        <img class="floatLeft" src="img/6_Sean_Clarke.jpeg" width="150" alt="seanClarke"/>
+        <font class="fontTitle">Sean Clarke</font><br/>
+        I am a Biological Engineering (BE, MIT Course XX) graduate student in
+        the Alm lab (48-324). Our focus is on the evolution of microbial
+        genomes, and I am specifically working on engineering genetic diversity
+        and stress tolerance in Vibrio splendidus... <a href="saclarke.html">Read more</a>
+    </div>
+    <div id="member">
+        <img class="floatLeft" src="img/SeanPhoto1.jpg" width="150" alt="seanKearny"/>
+        <font class="fontTitle">Sean Kearney</font><br/>
+        Microbes rule the world; our very existence is dependent on the once
+        free-living oxygen-respiring bacteria now known as mitochondria. We
+        cannot even begin to imagine how interlocked our own lives are with
+        those of 4000 million year old organisms. I am interested in studying
+        how microorganisms influence evolution and ecology over vast temporal
+        and spatial scales.... <a href="skearney.html">Read more</a>
+    </div>
+     
+    <div id="member">
+        <img class="floatLeft" src="img/scotto_3.png" width="150" alt="scott"/>
+        <font class="fontTitle">Scott Olesen</font><br/>
+        Microbial metabolisms transform the world around us, mediating key
+        geochemical cycles and even determining human scent. I combine
+        experimental design and computational techniques to assess and engineer
+        the role of microbes in the environment and the human microbiome...<a href="scott_olesen.html">Read more</a> 
+    </div>
+    
+    <div id="member">
+        <img class="floatLeft" src="img/12_Allison_Perrota.jpeg" width="150" alt="allison"/>
+        <font class="fontTitle">Allison Perrotta</font><br/>
+        My current focus in the lab is to create and test high throughput
+        methods for preparing 16s Illumina sequencing libraries from diverse
+        environmental sources. Our lab researches the microbial ecology found in
+        a myriad of environments and under diverse conditions... <a href="aperrott.html">Read more</a>
+    </div>
+    
+    <div id="member">
+        <img class="floatLeft" src="img/shapeimage_4-1.png" width="150" alt="smillie"/>
+        <font class="fontTitle">Chris Smillie</font><br/>
+        I'm interested in using computational methods to study the evolution and
+        ecology of the human microbiome. Previously, I've collaborated with
+        Sarah, Eli, and Paco to develop SLiME, a tool that uses machine learning
+        to identify microbial signatures associated with disease... <a href="csmillie.html">Read more</a>
+    </div>
+    
+    <div id="member">
+        <img class="floatLeft" src="img/1_Mark_Smith.jpeg" width="150" alt="smith"/>
+        <font class="fontTitle">Mark Smith</font><br/>
+        Broadly, I am interested in understanding the many ways that the hidden
+        microbial majority influences the world around (and within) us.
+        Currently, my research is focused on uncovering and characterizing a
+        network of gene exchange in the human microbiome through comparative
+        genomics... <a href="mbsmith.html">Read more</a>
+    </div>
+    
+    <div id="member">
+        <img class="floatLeft" src="img/sspencer1.jpg" width="150" alt="spencer"/>
+        <font class="fontTitle">Sarah Spencer</font><br/>
+        I'm interested in how ecological principles play out at the resolution
+        of single cells. To explore this I'm developing high-throughput
+        sequencing technology that can immobilize interacting cells for
+        downstream 16S profiling. I'm starting to apply this technique to
+        aquatic communities, but eventually I'd like to adapt the protocol to
+        address other problems in microbial evolution and ecology.
+        <a href="sspencer.html">Read more</a>
+    </div>
+    
+    
+    <br />
+    <hr />
+    </contentPane>
+    
+    <rightPane>
+    <br/>
+    Current Members
+    <div id="memberDir">
+    <ul>
+    <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
+    <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
+    <li><a href="saclarke.html" class="nodec">Sean Clarke</a></li>
+    
+    <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
+    <li><a href="GFournier.html" class="nodec">Greg Fournier</a></li>
+    <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
+    <li><a href="scott_olesen.html" class="nodec">Scott Olesen</a></li>
+    <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
+    <li><a href="sPreheim.html" class="nodec">Sarah Preheim</a></li>
+    <li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>
+    <li><a href="mbsmith.html" class="nodec">Mark Smith</a></li>
+    <li><a href="sspencer.html" class="nodec">Sarah Spencer</a></li>
+    <li><a href="mvtammin.html" class="nodec">Manu Tamminen</a></li>
+    <li><a href="avihuYona.html" class="nodec">Avihu Yona</a></li>
+
+    </ul>
+    </div>
+    <br/>
+    Former Members
+    <div id="memberDir">
+    <ul>
+    <li><a href="http://www.engr.uconn.edu/~mukul/ " class="external">Mukul Bansal</a></li>    
+    <li><a href="http://microfluidics.epfl.ch/twiki/bin/view/MaerklLab/LbncPeople" class="external">Matthew Blackburn</a></li>
+    <li><a href="franciscocamas.html" class="nodec">Francisco Camas</a></li>
+    <li>Jonathan Friedman</li>
+    <li><a href="http://www.ladlab.org" class="external">Lawrence David</a></li>
+    <li><a href="http://www.linkedin.com/in/arnematerna" class="external">Arne Materna</a></li>
+    <li><a href="elipapa.html" class="nodec">Eli Papa</a></li>
+    <li><a href="http://www.shapirolab.ca/" class="external">B. Jesse Shapiro</a></li>
+    
+    <li><a href="http://www.linkedin.com/pub/sonia-timberlake/65/283/b13" class="external">Sonia Timberlake</a></li>
+    </ul>
+    </div>
+         
+    </rightPane>
+    <midPane>
+    
+    </midPane>
+   
+    
+    <footer>
+       
+    </footer>
+</Document>
+ <!---->
+ <!--<div id="member">-->
+ <!--       <img class="floatLeft" src="img/mbansal1.JPG" width="150" alt="mBansal"/>-->
+ <!--       <font class="fontTitle">Mukul Bansal</font><br/>-->
+ <!--       My research focuses on the development of new computational methods and-->
+ <!--       efficient algorithms to help answer fundamental questions in evolutionary-->
+ <!--       biology.... <a href="mbansal.html">Read more</a><br/><br/><br/><br/><br/>-->
+ <!--   </div>-->
+ <!--<div id="member">
+    <img class="floatLeft" src="img/1_Francisco_Camas.jpeg" width="150" alt="franciscoCamas"/>
+    <font class="fontTitle">Francisco Camas</font><br/>
+    I’m a physicist and system biologist currently working on the determinants
+    shaping the human microbiome and the evolutionary scenarios of microbiome
+    assembly. I’m also characterizing amino-acid/nucleotide recognition codes
+    that could define precise blueprint to reprogram the specificity of transcriptional
+    factors. <a href="franciscocamas.html">Read more</a>
+    </div>-->
+<!--<div id="member">
+        <img class="floatLeft" src="img/12_Eli_Papa.jpeg" width="150" alt="epapa"/>
+        <font class="fontTitle"> Eli Papa</font><br/>
+        My goal is to develop a set of tools capable of assessing the status and
+        dynamics of the immune system, with particular attention to the gut
+        mucosa. I have previously developed a technique named 'Microengraving,'
+        rooted in microfabrication and computational image analysis... <a href="elipapa.html">Read more</a>
+    </div>-->
+<!--<div id="member">
+        <img class="floatLeft" src="img/DSC_0266-filtered.jpeg" width="150" alt="timberlake"/>
+        <font class="fontTitle">Sonia Timberlake</font><br/>
+        I'm a PhD candidate in the Biological Engineering department and in the
+        last five years working in the Alm Lab I've worked on a really diverse
+        array of projects looking at microbial ecology and evolution from all
+        different angles. I like to try to imagine how a single-celled organism
+        can adapt its phenotype to respond to or exploit different environments... <a href="stimberlake.html">Read more</a>
+    </div>-->

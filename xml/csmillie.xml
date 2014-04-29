@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Chris Smillie</Title>
+
+    <contentPane>
+    <h3>Chris Smillie</h3>
+        <div id="member">
+        <img class="floatRight" src="img/csmillie1.png" width="200" alt="chrisSmillie"/>
+        <h4>Research Interests</h4>
+        I study the evolution and ecology of microbial communities. Research interests include horizontal gene transfer in the human microbiome, ecosystem stability, and applying machine learning techniques to the analysis of 16S sequence data. I'm also interested in high performance computing.
+        <p/>
+        <img class="floatLeft" src="img/csmillie2.png" width="200" alt="chrisSmillie"/>
+        <p/>
+      
+    </div>
+    </contentPane>
+    
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Chris Smillie</h4>
+        Graduate Student<br/>
+        Computational and Systems Biology, MIT<br/>
+        6172532726<br/>
+        csmillie @ mit . edu  <br/>
+        <p/>
+        <p/>
+        <img class="floatRight" src="img/csmillie3.png" width="200" alt="chrisSmillie"/>
+
+
+        </div>
+    
+    </rightPane>
+    <midPane>
+        
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

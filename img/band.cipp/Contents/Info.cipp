@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<root>
+    <Info Version='6' Name='' Description='' Product='CollageIt 3 Pro' Company='PearlMountain Technology'/>
+    <layoutSettings layoutType='Grid'>
+        <row>1</row>
+        <col>5</col>
+        <space>3</space>
+        <margin>0</margin>
+        <predefinedIndex>17</predefinedIndex>
+    </layoutSettings>
+    <photoSettings>
+        <enableBorder>1</enableBorder>
+        <borderColor>16777215</borderColor>
+        <borderWidth>2</borderWidth>
+        <photoRoundWidth>0</photoRoundWidth>
+        <enableShadow>1</enableShadow>
+        <shadowColor>0</shadowColor>
+        <shadowBlur>10</shadowBlur>
+        <shadowAlpha>50</shadowAlpha>
+        <shadowAngle>130</shadowAngle>
+        <shadowOffset>10</shadowOffset>
+        <IsFreedomMode>0</IsFreedomMode>
+    </photoSettings>
+    <SceneGraph Image='' AllEffectName='Bronze' Type='0' ImageType='0' ColorFillType='1' backgroundTileScale='1.000000' BackTextureBrushZoomFactor='1.000000' TextureTransparent='1.000000' FillColor='11447982' FillColor2='5723991' ImageSizeX='1000.000000' ImageSizeY='100.000000' Landscape='1' BackDPI='300' BackUnitType='pixel' CustomBackgroundImage='/Users/khhuang/Dropbox/AlmLabSite/img/band.cipp/Contents/Resources/Background/bk_custom.png'>
+        <Objects>
+            <SceneObject IsFreedomObj='0' FlipAngle='0' Version='6' Type='0' Angle='0.000000' BoundingBoxLeft='800.000000' BoundingBoxTop='0.000000' BoundingBoxRight='1000.000000' BoundingBoxBottom='100.000000' Visible='1' Transparent='1.000000' PhotoImage='Contents/Resources/photo/1_AdaptML-1.jpeg' EnableMask='0' MaskName='' EnableFrame='1' FrameName='' BorderType='0' ColorBorderColor='16777215' ColorBorderWidth='2' ColorBorderUnit='0' PhotoRotation='0.000000' CropLeft='0.000000' CropTop='0.950645' CropRight='1.000000' CropBottom='0.049355' EnableShadow='1' ShadowPrecise='2' ShadowColor='0' ShadowAlpha='50' ShadowSmooth='10.000000' ShadowOffsetX='10' ShadowOffsetY='10'/>
+            <SceneObject IsFreedomObj='0' FlipAngle='0' Version='6' Type='0' Angle='0.000000' BoundingBoxLeft='400.000000' BoundingBoxTop='0.000000' BoundingBoxRight='600.000000' BoundingBoxBottom='100.000000' Visible='1' Transparent='1.000000' PhotoImage='Contents/Resources/photo/18stool-master675.jpg' EnableMask='0' MaskName='' EnableFrame='1' FrameName='' BorderType='0' ColorBorderColor='16777215' ColorBorderWidth='2' ColorBorderUnit='0' PhotoRotation='0.000000' CropLeft='0.000000' CropTop='0.860008' CropRight='1.000000' CropBottom='0.139992' EnableShadow='1' ShadowPrecise='2' ShadowColor='0' ShadowAlpha='50' ShadowSmooth='10.000000' ShadowOffsetX='10' ShadowOffsetY='10'/>
+            <SceneObject IsFreedomObj='0' FlipAngle='0' Version='6' Type='0' Angle='0.000000' BoundingBoxLeft='0.000000' BoundingBoxTop='0.000000' BoundingBoxRight='200.000000' BoundingBoxBottom='100.000000' Visible='1' Transparent='1.000000' PhotoImage='Contents/Resources/photo/shapeimage_3.png' EnableMask='0' MaskName='' EnableFrame='1' FrameName='' BorderType='0' ColorBorderColor='16777215' ColorBorderWidth='2' ColorBorderUnit='0' PhotoRotation='0.000000' CropLeft='0.000000' CropTop='0.879827' CropRight='1.000000' CropBottom='0.120173' EnableShadow='1' ShadowPrecise='2' ShadowColor='0' ShadowAlpha='50' ShadowSmooth='10.000000' ShadowOffsetX='10' ShadowOffsetY='10'/>
+            <SceneObject IsFreedomObj='0' FlipAngle='0' Version='6' Type='0' Angle='0.000000' BoundingBoxLeft='200.000000' BoundingBoxTop='0.000000' BoundingBoxRight='400.000000' BoundingBoxBottom='100.000000' Visible='1' Transparent='1.000000' PhotoImage='Contents/Resources/photo/F3.cropped.png' EnableMask='0' MaskName='' EnableFrame='1' FrameName='' BorderType='0' ColorBorderColor='16777215' ColorBorderWidth='2' ColorBorderUnit='0' PhotoRotation='0.000000' CropLeft='0.000000' CropTop='0.830460' CropRight='1.000000' CropBottom='0.169540' EnableShadow='1' ShadowPrecise='2' ShadowColor='0' ShadowAlpha='50' ShadowSmooth='10.000000' ShadowOffsetX='10' ShadowOffsetY='10'/>
+            <SceneObject IsFreedomObj='0' FlipAngle='0' Version='6' Type='0' Angle='0.000000' BoundingBoxLeft='600.000000' BoundingBoxTop='0.000000' BoundingBoxRight='800.000000' BoundingBoxBottom='100.000000' Visible='1' Transparent='1.000000' PhotoImage='Contents/Resources/photo/nature10571-f3.2.jpeg' EnableMask='0' MaskName='' EnableFrame='1' FrameName='' BorderType='0' ColorBorderColor='16777215' ColorBorderWidth='2' ColorBorderUnit='0' PhotoRotation='0.000000' CropLeft='0.000000' CropTop='0.736589' CropRight='1.000000' CropBottom='0.263411' EnableShadow='1' ShadowPrecise='2' ShadowColor='0' ShadowAlpha='50' ShadowSmooth='10.000000' ShadowOffsetX='10' ShadowOffsetY='10'/>
+        </Objects>
+    </SceneGraph>
+</root>

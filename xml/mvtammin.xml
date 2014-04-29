@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: Manu Tamminen </Title> 
+
+    <contentPane>
+    <h3>Manu Tamminen</h3>
+        <div id="member">
+        <img class="floatRight" src="img/mvtammin1.jpeg" width="200" alt="image 1"/> <!--must store the image file in img folder-->
+        <h4>Research Interests</h4>
+	I'm investigating novel approaches to extract and analyze genomic and transcriptomic information from single cells. To achieve this exciting objective I use a variety of tools, including flow assisted cell sorting, microfluidics, molecular biology and computational analysis. This combination of laboratory and computational approaches has considerable benefits over metagenomics. First, it permits complete assembly of genomes of environmental microbes, including genomes consisting of several plasmids and multiple chromosomes. Second, it permits targeting the sequencing effort to particular microbial subpopulations of interest. Finally, it considerably reduces the computational costs of metagenomics because the genetic information of individual microbes is already partitioned into discreet bins. When not working on single cells or genomics, I enjoy books, music, traveling and simply trying out new things.
+	   <p/>
+	   <h4>Past Life</h4>
+           I studied chemistry and biochemistry in University of Turku, Finland and more recently received my Ph.D. in microbiology from University of Helsinki. My studies and research have also taken me to live and work in countries such as Germany, Switzerland, Italy and Japan.
+	   <p/>
+        
+        <img class="floatLeft" src="img/mvtammin2.jpeg" width="200" alt="image 2"/>
+        <p/>
+      
+    </div>
+    </contentPane>
+    
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Manu Tamminen </h4>
+        Post-doctoral affiliate<br/>
+        Alm Laboratory <br/>
+        mvtammin@mit.edu  <br/>
+        <p/>
+
+        <h4>Education</h4>
+        Ph.D., 2011, University of Helsinki, Finland
+        <p/>
+        <img class="floatRight" src="img/mvtammin3.jpeg" width="200" alt="image 3"/>
+
+
+        </div>
+    
+    </rightPane>
+    <midPane>
+        
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

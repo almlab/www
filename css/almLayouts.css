@@ -1,0 +1,261 @@
+html, body {
+  /* below provides a centered page*/
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  width:950px;
+  height: 100%;
+  margin: auto;
+
+  /* below deals with the default font and text alignment*/  
+  font-family: 'Questrial', sans-serif;
+  color: #000;
+  font-family:'Questrial', sans-serif;
+  font-size: 18px;
+  text-align: top;
+  background-color: #fff;
+  
+  /*background-image: url(../img/1_AdaptML-1.jpeg);*/
+  /*background-repeat: no-repeat;*/
+  /*background-attachment: fixed;*/
+
+
+}
+
+
+hr {
+  padding:0;
+  margin:0;
+  
+  color: #eee;
+}
+
+
+h1 {
+  font-size: 2.5em;
+  font-weight: 100;
+  color: #3b3b3b;
+  margin: 0em;
+  /*border-bottom: 1px solid #ddd;*/
+  /*letter-spacing: 0.1cm*/
+}
+
+h2 {font-size:1.875em; }
+h3 {font-size:1.25em; margin-bottom:0.5em;}
+h4 {font-size:1em; margin:0em; color:black}
+h5 {font-size:0.8em; margin:0em; color:black}
+
+/* image */
+img.floatLeft { 
+    float: left; 
+    margin:0 10px 0 0px;
+}
+img.floatRight { 
+    float: right; 
+    margin:0 0 0 10px;
+}
+img.floatTop { 
+    float: top; 
+    margin: 0em;
+}
+
+
+
+/*** DIV layout styling ***/
+
+/* for the press*/
+#div1 {position:inherit; width: 100%;} /*visibility:hidden}*/
+
+/* top navigation menu box */
+#topnav 
+{
+  padding: 0em;
+  background-color: #fff;
+  letter-spacing: 0.02cm;
+  margin-top: 33px;
+  font-size: 14px;
+  float:left;
+
+  /*border-bottom: 1px solid #ccc;*/
+}
+
+/* site banner box */
+#banner 
+{
+  font-size: 2em; 
+  padding: 0em;
+  margin-top: 30px;
+  background-color: #fff;
+  color: #4e91ab;
+  text-align:right;
+}
+
+
+#container
+{
+  text-align:left;
+  vertical-align: top; 
+  color: #000;
+  line-height: 150%; /* increase readability */
+  /*border-top: 1px outset #ddd;
+  border-left: 1px outset #ddd;
+  border-right: 3px outset #ccc;
+  border-bottom: 3px outset #ccc;*/
+  padding: 0em;
+  margin-left: 0.1em;
+  /*-moz-border-radius-topleft: 10px;
+  -webkit-border-top-left-radius: 10px;*/
+  -moz-border-radius-topright: 10px;
+  -webkit-border-top-right-radius: 10px;
+  /*background-color: #92C7C7;*/
+  /*border-left: 1px solid #777;*/
+  border-top: 1px solid #eee;
+  width: 100%
+
+}
+
+#content /*left side box*/
+{
+  float:left;
+  width: 650px;
+}
+
+#rightPane
+{
+  position:absolute;
+  z-index:1;
+  width: 300px;
+  margin-left:670px;
+  
+}
+
+#midPane /* wide middle box*/
+{
+  float:left;
+  background-color: #fff;
+  width:100%;
+  padding-bottom:0px;
+}
+#footer
+{
+  float:left;
+  color: #ccc;
+  width:100%;
+}
+
+#title
+{
+  font-size:14px;
+  clear: both;
+  margin: 0em;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+  text-align: left;
+  line-height:150%;
+
+}
+/*press page*/
+#press
+{
+  font-size:14px;
+  margin-left: 20px;
+  margin-bottom:20px;
+  padding: 0.2em;
+  text-align: left;
+  line-height:150%;
+  width: 600px;
+  /*border: 1px solid black;*/
+}
+/*publication page*/
+#journal
+{
+  font-size:12px;
+  clear: both;
+  margin-right: 1em;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+  text-align: left;
+  line-height:150%;
+}
+
+#abstract
+{
+  font-size:14px;
+  clear: both;
+  margin-right: 1em;
+  padding-right: 0.5em;
+  padding-left: 0.5em;
+  text-align: left;
+  line-height:150%;
+}
+/*software tool page*/
+#software
+{
+  font-size:12px;
+  padding: 0em;
+  margin: 0em;
+  text-align: left;
+  line-height:150%;
+  vertical-align:top;
+}
+#softwareIndent
+{
+  margin: 1em;
+}
+#softwareMed
+{
+  
+  font-size:13px;
+  margin: 1em;
+  text-align: left;
+  line-height:150%;
+  vertical-align:top;
+}
+#leftTool
+{
+  float: left;
+  font-size:14px;
+  margin-left: 20px;
+  margin-bottom:20px;
+  padding: 0.5em;
+  text-align: left;
+  line-height:150%;
+  width: 250px;
+  height: 300px;
+  border: 1px solid #c0c0c0;
+}
+/*lab member page*/
+#member
+{
+  font-size:14px;
+  margin-left: 20px;
+  margin-bottom:20px;
+  padding: 0.2em;
+  text-align: left;
+  line-height:150%;
+  width: 600px;
+
+  /*border: 1px solid black;*/
+}
+
+#memberDir
+{
+  font-size:14px;
+  padding: 0.5em;
+  text-align: left;
+  line-height:150%;
+  width: 290px;
+
+  /*border: 1px solid black;*/
+}
+
+/* Prevents slides from flashing */
+#slides {
+display:none;
+}
+
+.fontTitle{
+  font-size: 18px;
+  color: #222;
+}

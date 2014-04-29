@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Eric Alm</Title>
+
+    <contentPane>
+    <h3>Eric Alm</h3>
+        <div id="member">
+        <img class="floatRight" src="img/20111028165819-2.jpeg" width="150" alt="ericAlm"/>
+        <h4>Research Interests</h4>
+        Research in my group includes both computational/theoretical
+        and experimental approaches to understanding the evolution of microorganisms, emphasizing a
+        'systems-level' perspective. Some areas of special interest include:
+        <ul class="square">
+        <li>Tools for detecting natural selection in microbes</li>
+        <li>The evolutionary origin of gene families</li>
+        <li>Mining metagenomic sequence data</li>
+        <li>Experimental evolution of microbes</li>
+        <li>Modeling bacterial ecology</li>
+        <li>Gene regulatory networks in bacteria</li>
+        <li>Protein structure and design</li>    
+        </ul>
+        <p/>
+        <h4>Teaching Interests</h4>
+        I have enjoyed teaching a variety of classes at MIT, spanning my own
+        diverse interests in microbiology, computer algorithms, and
+        thermodynamics of biomolecules. I am currently looking forward to
+        teaching a new class on microbial evolution and genetics.<p/>
+        <img class="floatLeft" src="img/ericAlm.png" width="150" alt="ericAlm"/>
+        <p/>
+      
+    </div>
+    </contentPane>
+    
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Eric Alm, Ph.D. </h4>
+        Karl Van Tassel (1925) Career Development Associate Professor<br/>
+        Biological Engineering, MIT<br/>
+        Associate Member, Broad Institute<br/>
+        (617) 253-2726<br/>
+        ejalm @ mit.edu  <br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Postdoc, 2005, University of California, Berkeley/Lawrence Berkeley National Lab</li>
+        <li>Ph.D., 2001, University of Washington, Seattle</li>
+        <li>M.S., 1997, University of California, Riverside</li>
+        <li>B.S., 1995, University of Illinois, Urbana</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/photo_eric_alm.jpeg" width="150" alt="ericAlm"/>
+
+
+        </div>
+    
+    </rightPane>
+    <midPane>
+        
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

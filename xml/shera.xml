@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Software: SHE-RA</Title>
+
+    <contentPane>
+    
+    </contentPane>
+    
+    <rightPane>
+        
+    </rightPane>
+    
+    <midPane>
+    <br/>
+    <h4>SHE-RA </h4>
+    <h5>SHortread Error-Reducing Aligner</h5>
+    <div id="software">      
+    by Sonia Timberlake and Eric Alm <br/>
+    soniat at mit.edu <p/>
+    
+    <img class="floatRight" src="img/30_SHE-RA.jpeg" alt="SHERA"/>
+    The SHE-RA software turns error-prone short reads into Sanger-quality
+    composite reads by aligning the overlapping ends of each matepair. Given a
+    library of appropriately-sized inserts, paired-end reads of each insert
+    overlap in the middle, and can be aligned to produce a longer, more accurate
+    composite read, extending the scope of applications for high throughput
+    shortread sequencing. A single lane of Illumina can be processed to generate
+    upwards of 10 million ~200bp reads, allowing a deep look at complex
+    metagenomic samples. The algorithm is generally applicable to any short read
+    technology generating matepaired reads, and is open source.<br/>
+    
+    SHE-RA was used to process Illumina Genome Analyzer II reads for metagenomic analysis in this paper: 
+    <a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0011840">
+    Rodrigue S*, Materna AC*, Timberlake SC, Blackburn MC,
+    Malmstrom RR, et al. (2010) Unlocking Short Read Sequencing for
+    Metagenomics. PLoS ONE 5(7): e11840. doi:10.1371/journal.pone.0011840</a><p/>
+    <br/>
+    SHE-RA package was written by Sonia Timberlake, with inspiration from Sebastien
+    Roderigue, Arne Materna and Eric Alm. Website maintained by Sonia Timberlake
+    with many thanks to Albert Wang. <br/>
+    </div>
+    
+    <p/><hr></hr><p/>
+    
+    <h5>Downloads + Documentation Page</h5>
+    <div id="softwareMed">
+    <a href="shera/SHERA_doc4website_suppmethods.pdf">Documentation (pdf)</a><br/>
+    <a href="shera/fraction_reads_ovl_s7.pdf">Yield: how it varies by length (in v1.0)</a><br/>
+    All SHE-RA source code and example input files (Perl and *sh in tar.gz) can be downloaded <a href="shera/SHERA_files.tar.gz">here</a>.<br/>
+    </div>
+
+    <h5>NOTE ON NEW ILLUMINA HEADERS: </h5>
+    <div id="softwareMed">
+    Here's a patch to deal with them.<br/>
+    Edit concatReads.pl.<br/>
+    Replace this line (line ~140): check_seqNames($name1,$name2) or die "reads seem mislabeled";<br/>
+    with this new code: map { s/ /:/g }($name1, $name2);<p/>  
+    </div>
+    
+    <h5>FAQ</h5>
+    <div id="softwareMed">
+    0.) I'm confused. Where do I start? <br/>
+    Check out the readme file, and see
+    our PlosOne paper, "Unlocking Illumina for Metagenomics," and the
+    documentation section on this website.<p/>
+
+    1.) Why do you need the adapter sequences? Aren't they already trimmed from
+    the files? <br/>
+    If an insert is shorter than your read length, the
+    sequencing reactions "read" into the adapters. To capture these alignments,
+    I include the adapter sequences.<p/>
+
+    2.) You're doing an ungapped alignment. But what about indels in the reads?
+    <br/>
+    On the Illumina platform they are quite rare, so in this first version
+    of this software I stuck with an ungapped alignment. Practically speaking,
+    an indel in the putatively overlapping region will give you a poor alignment
+    score, and a misalignment with low confidence score will be reported.<p/>
+
+    3.) What's the deal with misalignments? <br/>
+    Finding the best alignment for a short fragment of relative high error-rate
+    sequence is not trivial, so misalignments are definitely something to think
+    about! SHE-RA returns the composite read constructed from the best alignment
+    of ALL sequences (preserving the input order), gives you a confidence score,
+    and allows you to filter as you like. Your filtering approach should be
+    based on your data, your downstream applications and your amount of free
+    time. I provided a little script filterReads.pl as part of the download, and
+    i think the threshold value 0.5 is a decent starting point to limit your
+    misalignments, but this will vary with your dataset. I suggest shuffling
+    your mate pairs and running SHE-RA to get a distribution of confidence
+    scores for mis-alignments.<p/>
+
+    4.) What does the program do if the reads don't actually overlap, ie if the
+    insert length is longer than 2*read_length ? <br/>
+    There's no way to know this, except in a probabilistic sense. The program
+    outputs the best alignment for each read pair, with a confidence metric.
+    Sequences from this scenario will largely be reported with the mates
+    (erroneously) joined with a short (ie 10-14bp) overlap, and with low
+    alignment confidence, which will allow you to filter them out as you choose.<p/>
+
+    5.) From the example shell script, it looks the program might need a "base
+    frequency file" - what is this, and how does it affect the data processing? <br/>
+    This is an option i included for calculating the new quality scores in genomes
+    with very high GC content. At present, it only effects the quality score, and
+    not that much. In theory it should improve the approximation of error
+    probability but I haven't tested whether it does in practice.<p/>
+    </div>
+    
+    </midPane>
+    <footer>
+       
+    </footer>
+</Document>
+
+
+
+ 

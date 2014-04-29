@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: Greg Fournier </Title> 
+
+    <contentPane>
+    <h3>Greg Fournier</h3>
+        <div id="member">
+        <img class="floatRight" src="img/GregImage1.JPG" width="200" alt="GregImage1.JPG"/> <!--must store the image file in img folder-->
+        <h4>Research Interests</h4>
+        My current research focuses on integrating phylogenetics and horizontal gene transfer (HGT) with studies of microbial evolution and planetary history.  Areas of focus include:
+
+-HGT based calibration of molecular clock models of microbial evolution;
+-The role of partial HGT on phylogenetic inference;
+-The impact of protein structure on partial HGT and evolutionary models;
+-Ancestral sequence reconstruction of ancient protein families;
+-The biogeochemical impact of HGT and microbial metabolism evolution;
+-Using HGT events to identify novel antibiotic drug targets for protozoan diseases.
+        
+        <img class="floatLeft" src="img/GregImage2.jpg" width="200" alt="GregImage2.jpg"/>
+        <p/>
+      
+    </div>
+    </contentPane>
+    
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Greg Fournier </h4>
+        Postdoctoral Associate<br/>
+        g4nier@mit.edu  <br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Postdoctoral Fellow, 2010, NASA Astrobiology Institute</li>
+        <li>Ph.D., 2009, University of Connecticut</li>
+        <li>B.A., 2001, Dartmouth College</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/GregImage3.jpg" width="200" alt="GregImage3.jpg"/>
+
+
+        </div>
+    
+    </rightPane>
+    <midPane>
+        
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

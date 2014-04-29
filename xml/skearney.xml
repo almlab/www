@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Sean Kearney</Title>
+
+    <contentPane>
+    <h3>Sean Kearney</h3>
+        <div id="member">
+        <img class="floatRight" src="img/SeanPhoto.jpg" width="150" alt="seanKearney"/>
+        <h4>Research Interests</h4>
+        Microbes rule the world; our very existence is dependent on the once
+        free-living oxygen-respiring bacteria now known as mitochondria. We
+        cannot even begin to imagine how interlocked our own lives are with
+        those of 4000 million year old organisms. I am interested in studying
+        how microorganisms influence evolution and ecology over vast temporal
+        and spatial scales. In particular, I want to develop statistical
+        learning and data mining techniques to extract information about the
+        assembly, maintenance, and stability of microbial communities in diverse
+        contexts. 
+        <img class="floatLeft" src="img/SeanPhoto1.jpg" width="150" alt="seanKearney"/>
+        <p/>
+      
+    </div>
+    </contentPane>
+    
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Sean Kearney</h4>
+        PhD Candidate, Department of Biological Engineering
+        skearney at mit dot edu  <br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>BS, Biological Engineering, Purdue University, 2013</li>
+        <li>BS, Mathematics and Statistics, Purdue University, 2013 </li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/SeanPhoto3.jpg" width="150" alt="seanKearney"/>
+
+
+        </div>
+    
+    </rightPane>
+    <midPane>
+        
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

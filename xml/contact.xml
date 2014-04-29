@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Contact Alm Lab</Title>
+
+    <contentPane>
+    
+    </contentPane>
+    
+    <rightPane>
+        
+    </rightPane>
+    <midPane>
+    <br/>
+    <h4>Eric Alm </h4>
+        <div id="member">
+        Associate Professor, <a href="http://web.mit.edu/be/index.shtml" target="_blank">Biological Engineering, MIT</a><br/>
+        Associate Member, Broad Institute<br/>
+        Office: NE47-379<br/>
+        Email: ejalm at mit dot edu<br/><br/>
+         
+        Administrative Assistant: Kristine Marzilli<br/>
+        Office: NE47-257
+        </div>
+            <img alt="front" src="img/band3.png" />
+
+    
+    </midPane>
+    <footer>
+    <div id="journal">Designed by Katherine Huang (katalyst001 at gmail)   </div>
+    </footer>
+</Document>

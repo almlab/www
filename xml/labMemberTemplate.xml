@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: (Your Name) </Title> 
+
+    <contentPane>
+    <h3>(Your Name)</h3>
+        <div id="member">
+        <img class="floatRight" src="img/(your photo image file)" width="150" alt="(image 1)"/> <!--must store the image file in img folder-->
+        <h4>(Heading)</h4>
+        <h5>(Subheading)</h5>
+        (more text: blah blah blah)
+        
+        <img class="floatLeft" src="img/(image file 2)" width="150" alt="image 2"/>
+        <p/>
+      
+    </div>
+    </contentPane>
+    
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>(your name) </h4>
+        (title)<br/>
+        (phone number?)<br/>
+        (email)  <br/>
+        <p/>
+
+        <h4>(C.V.)</h4>
+        <ul>
+        <li>(item 1)</li>
+        <li>(item 2)</li>
+        <li>(item 3)</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/(image file 3)" width="150" alt="(image3)"/>
+
+
+        </div>
+    
+    </rightPane>
+    <midPane>
+        
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
