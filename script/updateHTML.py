@@ -32,7 +32,7 @@ from xml.dom.minidom import parseString
 HOME_DIR = "/afs/athena.mit.edu/org/a/almlab/web_scripts"
 WORK_DIR = HOME_DIR
 XML_DIR = "%s/xml" %(WORK_DIR)
-HTML_TEMPLATE_FILE = "%s/almSite.template.html" %(WORK_DIR)
+HTML_TEMPLATE_FILE = "%s/templates/almSite.template.html" %(WORK_DIR)
 HTML_TEMPLATE = open(HTML_TEMPLATE_FILE, 'r').read()
 
 def makeHTML(fn):

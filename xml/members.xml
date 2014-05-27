@@ -2,6 +2,7 @@
 <Document>
     <Title>Alm Lab Members</Title>
 
+    <!-- Main panel content -->
     <contentPane>
         <h3>Lab Members</h3>
     <h4>PI: Eric Alm</h4>
@@ -164,6 +165,7 @@
     <hr />
     </contentPane>
     
+    <!-- Side panel content -->
     <rightPane>
     <br/>
     Current Members
@@ -172,7 +174,6 @@
     <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
     <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
     <li><a href="saclarke.html" class="nodec">Sean Clarke</a></li>
-    
     <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
     <li><a href="GFournier.html" class="nodec">Greg Fournier</a></li>
     <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
