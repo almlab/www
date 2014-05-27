@@ -22,8 +22,17 @@
         <a href="ealm.html">Read more...</a>
     </div>
     <hr />
-    <h4>Postdoc</h4>
+    <h4>Postdocs</h4>
     
+    <div id="member">
+        <img class="floatLeft" src="img/6_Sean_Clarke.jpeg" width="150" alt="seanClarke"/>
+        <font class="fontTitle">Sean Clarke</font><br/>
+        I use experimental evolution and whole genome resequencing 
+        to study how bacteria adapt to high salinity in the lab and the 
+        role of hypermutation in that process. I'm interested in how 
+        microbes affect our everyday environments and our food.
+        <a href="saclarke.html">Read more</a>
+    </div>
    
     <div id="member">
         <img class="floatLeft" src="img/corzett2.jpg" width="150" alt="mBansal"/>
@@ -41,6 +50,14 @@
         gene transfer (HGT) with studies of microbial evolution and planetary
         history. ... <a href="GFournier.html">Read more</a><p/><p/><br/>
     </div>
+    <div id="member">
+        <img class="floatLeft" src="img/groussin1.jpg" width="150" alt="mathieu"/>
+        <font class="fontTitle">Mathieu Groussin</font><br/>
+        Broadly speaking, I am interested in the inference of biological 
+        properties of ancient prokaryotic life and in how bacterial and archaeal 
+        communities evolve. My main interests focus on the study of genetic data 
+        (DNA, proteins) to understand the main evolutionary processes...  <a href="mathieu_groussin.html">Read more</a>
+    </div>  
     <div id="member">
         <img class="floatLeft" src="img/29_Aliso.jpeg" width="150" alt="sarahPreheim"/>
         <font class="fontTitle">Sarah Pacocha Preheim</font><br/>
@@ -67,9 +84,7 @@
         the evolutionary dynamics of genomic duplications like aneuploidy and
         tRNA genes. Now, I’m interested in the way complex communities evolve as
         an integral entity and in how evolutionary forces can be applied to
-        reshape such communities towards desirable traits.... <a href="avihuYona.html">Read more</a>
-       
-
+        reshape such communities towards desirable traits... <a href="avihuYona.html">Read more</a>
     </div>  
      <hr/>
     <h4>Staff</h4>
@@ -77,21 +92,13 @@
         <img class="floatLeft" src="img/antolik1.jpg" width="150" alt="seanClarke"/>
         <font class="fontTitle">Caroline Antolik</font><br/>
         As Technical Assistant in the Alm lab, I help out with various
-        aspects of lab members' projects. My main responsibilities include 16s
+        aspects of lab members' projects. My main responsibilities include 16S
         library prep for Illumina sequencing and training for users on
-        specialized equipment such as our Bioanalyzer and liquid handling robot.... <a href="antolik.html">Read more</a>
+        specialized equipment such as our Bioanalyzer and liquid handling robot... <a href="antolik.html">Read more</a>
     </div>
     <hr/>
     
     <h4>Graduate Students</h4>
-    <div id="member">
-        <img class="floatLeft" src="img/6_Sean_Clarke.jpeg" width="150" alt="seanClarke"/>
-        <font class="fontTitle">Sean Clarke</font><br/>
-        I am a Biological Engineering (BE, MIT Course XX) graduate student in
-        the Alm lab (48-324). Our focus is on the evolution of microbial
-        genomes, and I am specifically working on engineering genetic diversity
-        and stress tolerance in Vibrio splendidus... <a href="saclarke.html">Read more</a>
-    </div>
     <div id="member">
         <img class="floatLeft" src="img/SeanPhoto1.jpg" width="150" alt="seanKearny"/>
         <font class="fontTitle">Sean Kearney</font><br/>
@@ -168,6 +175,7 @@
     
     <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
     <li><a href="GFournier.html" class="nodec">Greg Fournier</a></li>
+    <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
     <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
     <li><a href="scott_olesen.html" class="nodec">Scott Olesen</a></li>
     <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
@@ -207,37 +215,3 @@
        
     </footer>
 </Document>
- <!---->
- <!--<div id="member">-->
- <!--       <img class="floatLeft" src="img/mbansal1.JPG" width="150" alt="mBansal"/>-->
- <!--       <font class="fontTitle">Mukul Bansal</font><br/>-->
- <!--       My research focuses on the development of new computational methods and-->
- <!--       efficient algorithms to help answer fundamental questions in evolutionary-->
- <!--       biology.... <a href="mbansal.html">Read more</a><br/><br/><br/><br/><br/>-->
- <!--   </div>-->
- <!--<div id="member">
-    <img class="floatLeft" src="img/1_Francisco_Camas.jpeg" width="150" alt="franciscoCamas"/>
-    <font class="fontTitle">Francisco Camas</font><br/>
-    I’m a physicist and system biologist currently working on the determinants
-    shaping the human microbiome and the evolutionary scenarios of microbiome
-    assembly. I’m also characterizing amino-acid/nucleotide recognition codes
-    that could define precise blueprint to reprogram the specificity of transcriptional
-    factors. <a href="franciscocamas.html">Read more</a>
-    </div>-->
-<!--<div id="member">
-        <img class="floatLeft" src="img/12_Eli_Papa.jpeg" width="150" alt="epapa"/>
-        <font class="fontTitle"> Eli Papa</font><br/>
-        My goal is to develop a set of tools capable of assessing the status and
-        dynamics of the immune system, with particular attention to the gut
-        mucosa. I have previously developed a technique named 'Microengraving,'
-        rooted in microfabrication and computational image analysis... <a href="elipapa.html">Read more</a>
-    </div>-->
-<!--<div id="member">
-        <img class="floatLeft" src="img/DSC_0266-filtered.jpeg" width="150" alt="timberlake"/>
-        <font class="fontTitle">Sonia Timberlake</font><br/>
-        I'm a PhD candidate in the Biological Engineering department and in the
-        last five years working in the Alm Lab I've worked on a really diverse
-        array of projects looking at microbial ecology and evolution from all
-        different angles. I like to try to imagine how a single-celled organism
-        can adapt its phenotype to respond to or exploit different environments... <a href="stimberlake.html">Read more</a>
-    </div>-->

@@ -29,8 +29,8 @@ from xml.dom.minidom import parseString
 #from Bio import SeqIO
 
 # Global variables
-HOME_DIR = os.environ.get("HOME")
-WORK_DIR = "%s/Dropbox/AlmLabSite" %(HOME_DIR)
+HOME_DIR = "/afs/athena.mit.edu/org/a/almlab/web_scripts"
+WORK_DIR = HOME_DIR
 XML_DIR = "%s/xml" %(WORK_DIR)
 HTML_TEMPLATE_FILE = "%s/almSite.template.html" %(WORK_DIR)
 HTML_TEMPLATE = open(HTML_TEMPLATE_FILE, 'r').read()
@@ -40,6 +40,7 @@ def makeHTML(fn):
     # HTML keywords are: _rightPane_, _contentPane_, _footer_ (case sensitive)
     xml_txt = open("%s/%s" %(XML_DIR, fn), 'r').read()
     html_txt = HTML_TEMPLATE
+    print "reading %s" %(fn)
     xdom = parseString(xml_txt) # now the file has turned into an xdom object
     for xmlTag in ('Title', 'contentPane', 'rightPane', 'midPane', 'footer'):
         openTag = "<%s>" %xmlTag
@@ -59,7 +60,7 @@ def makeHTML(fn):
     
     htmlF=open('%s/%s' %(WORK_DIR, html_fn),'w')
     htmlF.write(html_txt)
-    print "%s generated" %(html_fn)
+    print "  %s generated" %(html_fn)
     return
 
 def main(argv):
@@ -73,8 +74,8 @@ def main(argv):
     
     for fname in xmlList:
         makeHTML(fname)
+
     # debugging
-    
     #pdb.set_trace()
     
 
