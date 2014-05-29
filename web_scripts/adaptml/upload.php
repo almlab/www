@@ -61,14 +61,14 @@ if($flagincorrect == true){
 
 //See if files already exist at location
 $folder = '';
-$target_path = "/var/www/html/adaptml/adaptml/";
+$target_path = "/mit/almlab/adaptmloutput/";
 while(file_exists($target_path.$folder.'/')){
     $folder = rand(0,10000);
 }
 $target_path .= $folder.'/';
-// $target_path should now be /var/www/html/adaptml/adaptml/2359/
+// $target_path should now be /mit/almlab/adaptmloutput/2345/
 
-// Make a folder for the pylori adaptml
+// Make a folder for the adaptml directory
 mkdir($target_path);
 chmod($target_path, 0777);
 
@@ -82,19 +82,19 @@ saveFile($target_path.'tree.tree', $uploadtext);
 saveFile($target_path.'outgroup.txt', $outgroup);
 
 //Run the command
-$pyloriPath = '/home/albertyw/adaptml/'.$folder;
-$command = 'ssh apache@pylori.mit.edu python /home/albertyw/adaptmlprogram/wrapper/WrAdaptML.py ';
-$command .= ' tree='.$pyloriPath.'/tree.tree init_hab_num='.$init_hab_num;
-$command .= ' outgroup='.$outgroup.' write_dir='.$pyloriPath.'/ collapse_thresh='.$collapse_thresh;
+$outputPath = '/mit/almlab/adaptmloutput/'.$folder;
+$command = 'python /mit/almlab/adaptmlprogram/wrapper/WrAdaptML.py ';
+$command .= ' tree='.$outputPath.'/tree.tree init_hab_num='.$init_hab_num;
+$command .= ' outgroup='.$outgroup.' write_dir='.$outputPath.'/ collapse_thresh='.$collapse_thresh;
 $command .= ' converge_thresh='.$converge_thresh.' rateopt='.$rateopt.' rand='.$rand;
-$command .= ' &> '.$pyloriPath.'/output &';
+$command .= ' &> '.$outputPath.'/output &';
 saveFile($target_path.'run.sh', $command);
 echo $command;
 shell_exec($command);
 
 //Record the email address
 if($email !=''){
-    $myFile = "/var/www/html/adaptmldata/emaillist.txt";
+    $myFile = "/mit/almlab/adaptmloutput/emaillist.txt";
     $fh = fopen($myFile, 'a') or die("can't open file");
     $stringData = "\n".$email.";\n";
     fwrite($fh, $stringData);

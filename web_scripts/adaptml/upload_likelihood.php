@@ -8,7 +8,7 @@ $outgroup = $_POST['outgroup'];
 $folder = $_POST['folder'];
 $uploadtextcolor = $_POST['uploadtextcolor'];
 $pvalue = $_POST['pvalue'];
-$writedir = '/home/albertyw/adaptml/'.$folder.'/';
+$writedir = '/mit/almlab/adaptmloutput/'.$folder.'/';
 
 //Save color text to a file
 saveFile($writedir.'color.file', $uploadtextcolor);
@@ -28,8 +28,8 @@ unlink($writedir.'thresh.file');
 //Take off trailing slash to make python happy
 $writedir = substr($writedir, 0, strlen($writedir)-1);
 
-$command = 'ssh apache@pylori.mit.edu python ';
-$command .= '/home/albertyw/adaptmlprogram/wrapper/WrapLikelihood.py ';
+$command = 'python ';
+$command .= '/mit/almlab/adaptmlprogram/wrapper/WrapLikelihood.py ';
 $command .= 'tree='.$writedir.'/tree.tree ';
 $command .= 'outgroup='.$outgroup.' ';
 $command .= 'write_dir='.$writedir.' ';

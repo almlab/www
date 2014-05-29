@@ -15,13 +15,13 @@ if(isset($_GET['folder'])){
 }
 
 //Find folders
-$internalfolder = "/var/www/html/adaptml/adaptml/".$folder."/";
-$externalfolder = "/adaptml/adaptml/".$folder."/";
+$internalfolder = "/mit/almlab/adaptmloutput/".$folder."/";
+$externalfolder = "/adaptml/adaptmloutput/".$folder."/";
 $wrAdaptMLRun = false;
 $wrAdaptMLFinish = false;
 $wrapLikeliHood = false;
 
-//Read Pylori Output Contents from /home/albertyw/adaptml/folder
+//Read Output Contents from /mit/almlab/adaptml/folder
 if(file_exists($internalfolder.'stats.file')) $wrAdaptMLRun = true;
 if(file_exists($internalfolder.'habitat.matrix')) $wrAdaptMLFinish = true;
 if(file_exists($internalfolder.'habitat.file')) $wrapLikeliHood = true;
