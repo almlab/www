@@ -33,38 +33,38 @@ Upload Text:<br />
 
 
 2.  Initial Habitat Number:
-<input type="text" size="2" name="init_hab_num" />
+<input type="text" size="2" name="init_hab_num" value="10" />
 <a href="javascript:init_hab_num()">??</a><br />
 <div id="init_hab_num" class="italic_hidden">The number of random habitats adaptML will initialize with.  
 If the ultimate number of inferred habitats is equal to this initial number, try re-running AdaptML with more initial habitats.  
 This number should be between 1 and 99.  We recommend it to be 10.  </div>
 
 3.  Outgroup:
-<input type="text" size="10" name="outgroup" />
+<input type="text" size="10" name="outgroup" value="5S_OUTGROUP" />
 <a href="javascript:outgroup()">??</a><br />
 <div id="outgroup" class="italic_hidden">The outgroup sequence for the input tree.  
 Note that this name should have an EcologyID (can just pick one of the EcologyIds used in the dataset).  (e.g. 5S_OUTGROUP for the example tree file).</div>
 
 4.  Collapse Threshhold:
-<input type="text" size="3" name="collapse_thresh" />
+<input type="text" size="3" name="collapse_thresh" value="0.10" />
 <a href="javascript:collapse_thresh()">??</a><br />
 <div id="collapse_thresh" class="italic_hidden">Threshold vlaue for collapsing redundant habitats.  Value should range between (0,1).  
 Default value is 0.10.  Higher values will lead to fewer habitats being inferred.  </div>
 
 5.  Converge Threshhold:
-<input type="text" size="3" name="converge_thresh" />
+<input type="text" size="3" name="converge_thresh" value="0.001" />
 <a href="javascript:converge_thresh()">??</a><br />
 <div id="converge_thresh" class="italic_hidden">Threshold value for declaring habitat distributions to have converged.  
 Value should range from (0,1).  Default value is 0.001.  </div>
 
 6.  rateopt:
-<input type="text" size="5" name="rateopt" />
+<input type="text" size="5" name="rateopt" value="avg" />
 <a href="javascript:rateopt()">??</a><br />
 <div id="rateopt" class="italic_hidden">Method for inferring mu or the average habitat transition rate.  Default is 'avg', which is a fast, approsimative method.  
 A more precise, but also more time consuming option is 'num', which uses SciPy's numerical optimization toolbox.  </div>
 
 7.  rand:
-<input type="text" size="5" name="rand" />
+<input type="text" size="5" name="rand" value="10" />
 <a href="javascript:randinput()">??</a><br />
 <div id="randinput" class="italic_hidden">Number of randomized topologies to create and analyze for empirical probability calculation.  Higher values enable more stringent p-values, but will entail longer processing time.  
 This value should be between 10 and 10000</div>

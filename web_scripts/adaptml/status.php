@@ -81,7 +81,7 @@ if($wrAdaptMLFinish){
     <textarea name="uploadtextcolor" cols="70" rows="7"></textarea><br />
     <br />
     p-value for wrapLikelihood:
-    <input type="text" name="pvalue" size="2"> <a href="javascript:pval()">??</a><br />
+    <input type="text" name="pvalue" size="2" value="0.95"> <a href="javascript:pval()">??</a><br />
     <div id="pval" class="italic_hidden">p-value: Our experience has shown 0.95 to be a reasonable starting p-value.  Note that you cannot specify a p-value that upsets the inequality 1/(1-p) < N, where N is the number of randomized topologies specified.</div>
     outgroup:
     <input type="text" name="outgroup" size="15" value="<?php echo $outgroup; ?>"><br />
