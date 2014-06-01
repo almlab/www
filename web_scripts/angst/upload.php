@@ -16,7 +16,7 @@ $email = $_POST['email'];
 
 //Find output location by testing if location is already taken
 $folder = '';
-$target_path = "/var/www/html/angst/angst/";
+$target_path = "/mit/almlab/angstoutput/";
 while(file_exists($target_path.$folder.'/')){
     $folder = rand(0,10000);
 }
@@ -54,11 +54,11 @@ if($ultrametric){
     $ultrametric = 'False';
 }
 $inputtext = 
-"species=/home/albertyw/angst/$folder/species.tree
-boots=/home/albertyw/angst/$folder/gene.tree
+"species=/mit/almlab/angstoutput/$folder/species.tree
+boots=/mit/almlab/angstoutput/$folder/gene.tree
 ultrametric=$ultrametric
-output=/home/albertyw/angst/$folder/
-penalties=/home/albertyw/angst/$folder/penalty.file";
+output=/mit/almlab/angstoutput/$folder/
+penalties=/mit/almlab/angstoutput/$folder/penalty.file";
 
 //Make a folder for the pylori angst
 mkdir($target_path);
@@ -71,7 +71,7 @@ saveFile($target_path.'penalty.file', $penaltytext);
 saveFile($target_path.'angst.input', $inputtext);
 
 //Run the command
-$command = "ssh apache@pylori.mit.edu python /home/albertyw/angstprogram/AnGST.py /home/albertyw/angst/$folder/angst.input";
+$command = "python /mit/almlab/angstprogram/AnGST.py /mit/almlab/angstoutput/$folder/angst.input";
 shell_exec($command);
 
 //Record the email address

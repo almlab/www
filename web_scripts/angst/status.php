@@ -7,8 +7,8 @@ require("include/header.php");
 $folder = $_GET['folder'];
 
 //Find folders
-$internalFolder = "/var/www/html/angst/angst/".$folder."/";
-$externalFolder = "http://almlab.mit.edu/angst/angst/".$folder."/";
+$internalFolder = "/mit/almlab/angstoutput/".$folder."/";
+$externalFolder = "/angst/angstoutput/".$folder."/";
 $finished = false;
 
 //Read Output Contents from $internalfolder
