@@ -7,8 +7,6 @@ import pdb
 import time
 import random
 
-from scipy.io import write_array
-from scipy.io import read_array
 from numpy.linalg import *
 from numpy.core import *
 from numpy.lib import *
