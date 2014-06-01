@@ -3,7 +3,10 @@
 import sys
 import pdb
 import math
+import os
 
+tree_path = os.path.dirname(os.path.realpath(__file__))+'/tree_lib/'
+sys.path.append(tree_path)
 import node
 import branch
 

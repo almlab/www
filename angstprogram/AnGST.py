@@ -3,6 +3,7 @@
 
 # python libraries
 import sys
+import os
 import time
 import pdb
 import PyVM
@@ -31,9 +32,9 @@ RunAnGST(input_dict)
 
 #######CHANGED FOR THE ANGST SERVER######
 # Run iTOL API and Upload species and gene trees
-sys.path.append('/home/albertyw/itol/')
+itol_path = os.path.dirname(os.path.realpath(__file__))+'/itol-api/'
+sys.path.append(itol_path)
 import Itol
-import os
 species_tree_location = input_info.species_tree_filename
 itol_species_tree = Itol.Itol()
 itol_species_tree.add_variable('treeFile',species_tree_location)
