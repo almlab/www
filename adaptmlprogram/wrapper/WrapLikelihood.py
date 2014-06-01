@@ -44,7 +44,7 @@ print "Obtaining empirical thresholds ..."
 
 getliks_x = home_path + "/clusters/getstats/GetLikelihoods.py"
 getliks_l = []
-getliks_l.append("/usr/local/bin/python2.5")
+getliks_l.append("python")
 getliks_l.append(getliks_x)
 getliks_l.append(write_d + "/emp_trees/")
 getliks_l.append(write_d)
@@ -60,7 +60,7 @@ stdout,stderr = proc.communicate()
 print "Running JointML ..."
 jointml_x = home_path + "/clusters/trunk/JointML.py"
 jointml_l = []
-jointml_l.append("/usr/local/bin/python2.5")
+jointml_l.append("python")
 jointml_l.append(jointml_x)
 jointml_l.append("tree=" + tree_fn)
 jointml_l.append("outgroup=" + outgroup)
