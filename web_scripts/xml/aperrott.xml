@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: Allison Perrotta </Title>
+
+    <contentPane>
+    <h3>Allison Perrotta</h3>
+        <div id="member">
+        <img class="floatRight" src="img/Ali_1.jpg" width="200" alt="image 1"/> <!--must store the image file in img folder-->
+        My current focus in the lab is to create and test high throughput methods for preparing 16s Illumina sequencing libraries from diverse environmental sources. Our lab researches the microbial ecology found in a myriad of environments and under diverse conditions. For example, a few of our current projects involve the ecology of the human gut in healthy vs. diseased host states, the chicken gut across feeding and genetic conditions, community fluctuations in nearby lakes and ponds, and the communities found in various terrestrial and marine biofilms.  It is challenging to develop protocols that will allow you to process samples from such diverse origins while generating libraries that will produce reliable representations for all of the microbial communities sampled. I utilize and test current extraction methods, library preparation methods, and automation platforms in order to address these inherent challenges.
+	<p/>
+	<h4>Research Interests</h4>
+I strive to better understand the connections between a host and it’s associated microbial ecology. I am particularly interested in how genetics, immunology, and host behavior affect the development and the maintenance of microbial communities and the role this plays in host health and nutrition.
+        <p/>
+        <img class="floatLeft" src="img/Ali_2.jpg" width="200" alt="image 2"/>
+        <p/>
+
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Allison Perrotta </h4>
+        Graduate Student<br/>
+        aperrott.at.mit.edu  <br/>
+        <p/>
+
+        <h4>Education</h4>
+        B.S. Biochemistry, 2007, University of New Hampshire in Durham
+        <p/>
+        <img class="floatRight" src="img/Ali_3.jpg" width="200" alt="image3"/>
+
+
+        </div>
+
+    </rightPane>
+    <midPane>
+
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

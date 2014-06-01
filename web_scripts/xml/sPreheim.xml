@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+        <Title>Alm Lab Member: Sarah Preheim </Title>
+
+
+        <contentPane>
+        <h3>Sarah Pacocha Preheim</h3>
+            <div id="member">
+            <img class="floatRight" src="img/sPreheim1.jpeg" width="200" alt="IMG_0316.jpg"/>
+            <h4>Research Interests</h4>
+            <h5>I am interested in bacterial diversity within aquatic ecosystems. The small size, genetic diversity and metabolic versatility of bacteria make them ideal systems for studying principles in ecology and evolution.</h5>
+Microbial community structure: How the metabolism of individual organisms fit into the function of the community as a whole
+Genetic events involved in ecological differentiation: Identifying genes in the genome of closely related bacteria that are responsible for differential environmental distribution
+Interspecies metabolic interactions: Identifying metabolic interdependencies in natural communities
+
+            <img class="floatLeft" src="img/sPreheim2.jpeg" width="200" alt="IMG_0293.jpg"/>
+            <p/>
+
+        </div>
+        </contentPane>
+
+        <rightPane>
+            <br/>
+            <div id="memberDir">
+
+
+            <h4>Sarah Pacocha Preheim </h4>
+            Postdoctoral Associate<br/>
+            (617)-253-1617<br/>
+            spacocha@mit.edu  <br/>
+            <p/>
+
+
+            <h4>Education</h4>
+            <ul>
+            <li>Ph.D., 2010,  Massachusetts Institute of Technology/ Woods Hole Oceanographic Institute Joint Program in Biological Oceanography</li>
+            <li>B.S., 1997, Carnegie Mellon University, Biological Sciences</li>
+            </ul>
+            <p/>
+            <img class="floatRight" src="img/sPreheim3.jpeg" width="200" alt="P5051848.jpg"/>
+
+
+
+
+            </div>
+
+        </rightPane>
+        <midPane>
+
+        </midPane>
+        <footer>
+            <hr />
+            <!--Evolutionary, Ecological and Environmental Systems Biology-->
+            <img src="img/bar1.png" alt="bar1"/>
+        </footer>
+</Document>

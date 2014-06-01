@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: Scott Olesen</Title>
+
+    <contentPane>
+    <h3>Scott Olesen</h3>
+        <div id="member">
+        <img class="floatRight" src="img/scotto_1.jpg" width="200" alt="scott_1"/> <!--must store the image file in img folder-->
+        <h4>Research Interests</h4>
+        Microbial metabolisms transform the world around us, mediating key geochemical cycles and even determining
+        human scent. I combine experimental design and computational techniques to assess and engineer the role of
+        microbes in the environment and the human microbiome. My interests include:
+        <ul class="square">
+            <li>Biodegradation of petroleum</li>
+            <li>Bioremediation of radionuclides</li>
+            <li>Environmental microbial ecology</li>
+            <li>Human skin flora</li>
+        </ul>
+
+        <img class="floatLeft" src="img/scotto_2.png" width="200" alt="scott_2"/>
+        <p/>
+
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Scott Olesen</h4>
+        Graduate Student, Biological Engineering<br/>
+        <br/>
+        swo at mit dot edu<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>MPhil, Chemistry, University of Cambridge. 2012.</li>
+        <li>MASt, Theoretical Physics, University of Cambridge. 2011.</li>
+        <li>BA, Physics, Williams College. 2010.</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/scotto_3.png" width="200" alt="scotto_3"/>
+
+
+        </div>
+
+    </rightPane>
+    <midPane>
+
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

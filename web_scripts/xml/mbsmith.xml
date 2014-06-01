@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: Mark Smith </Title>
+
+    <contentPane>
+    <h3>Mark Smith</h3>
+        <div id="member">
+        <img class="floatRight" src="img/mbs1.jpg" width="200" alt="image 1"/> <!--must store the image file in img folder-->
+        <h4>Research Interests</h4>
+        My research uses high-throughput sequencing and computational analysis to explore the many ways that bacteria influence the world around and within us. Currently, I am focused on elucidating the ecological mechanisms that facilitate effective fecal microbiota transplants (FMT) in C. difficile patients. I am also building clinical collaborations through the OpenBiome project to investigate best practices and new applications for FMT. During my PhD I have also studied the dynamics of CRISPR evolution, used machine learning to build predictive models of geochemistry from sequence data and characterized the forces that shape horizontal gene transfer. When I'm not studying bacteria, I enjoy adventure racing, running and generally exploring new corners of the world.
+	   <p/>
+	   <h4>Past Life</h4>
+	   Although my current research focuses on computational methods of interrogating microbial ecosystems, during my undergraduate years at Princeton I split time between field-work exploring the dynamics of forest ecology and laboratory work interrogating the anaerobic metabolism of cyanobacteria.
+	   <p/>
+
+        <img class="floatLeft" src="img/mbs2.jpg" width="200" alt="image 2"/>
+        <p/>
+
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Mark Smith </h4>
+        PhD Candidate in Microbiology<br/>
+        Alm Laboratory <br/>
+        mbsmith@mit.edu  <br/>
+        <p/>
+
+        <h4>Education</h4>
+        B.A., 2009, Princeton University
+        <p/>
+        <img class="floatRight" src="img/mbs3.jpg" width="200" alt="image 3"/>
+
+
+        </div>
+
+    </rightPane>
+    <midPane>
+
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

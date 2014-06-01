@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: Sean Clarke</Title>
+
+    <contentPane>
+    <h3>Sean Clarke</h3>
+        <div id="member">
+        <img class="floatRight" src="img/Sean_denmark_200p.jpg" width="200" alt="Sean at Elsinore"/> <!--must store the image file in img folder-->
+        <h4>Experimental Evolution in the Alm Lab</h4>
+        <!--<h5>(Subheading)</h5>-->
+        I am a <a href="http://web.mit.edu/be">Biological Engineering</a> graduate student in the Alm lab.
+        Through experimental evolution that began with a wild strain of Vibrio splendidus, I have been instigating genetic diversity and stress tolerance.
+        From genome resequencing the resulting adapted strains, I hope to learn more about the genetic mechanisms of adaptation and how adaption may be engineered in helpful bacteria.
+        <br/>
+        My other interests include food microbiology, industrial design, and effective teaching methods, all of which I would like to combine in future work.
+        <!--<img class="floatLeft" src="img/(image file 2)" width="150" alt="image 2"/>-->
+        <p/>
+
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Sean Aidan Clarke</h4>
+        Ph.D. candidate, Biological Engineering<br/>
+        774-3141-314<br/>
+        saclarke here at mit<br/>
+        <p/>
+
+        <h4>Past work</h4>
+        <ul>
+        <li>B.S.M.E., University of Texas at Austin, biomedical technical area</li>
+        <li>B.A., University of Texas at Austin, Plan II Liberal Arts Honors Program</li>
+        <li>Fulbright grant, Milan, Italy</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/Sean_and_Tim_200p.jpg" width="200" alt="Sean meets Tim the Beaver)"/>
+
+
+        </div>
+
+    </rightPane>
+    <midPane>
+
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

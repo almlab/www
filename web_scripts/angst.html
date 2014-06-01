@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+
+<html lang="en-US">
+    <head>
+    <title>Alm Lab Software: ANGST</title>
+
+    <link href='http://fonts.googleapis.com/css?family=Questrial' rel='stylesheet' type='text/css'>
+    <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400' rel='stylesheet' type='text/css'>
+
+    <link rel="icon" type="image/png" href="img/a_square.png">
+
+    <link rel="stylesheet" type="text/css" href="css/almLayouts.css" />
+    <link rel="stylesheet" type="text/css" href="css/almLists.css" />
+    <link rel="stylesheet" type="text/css" href="css/almLinks.css" />
+<!--    <link rel="stylesheet" type="text/css" href="css/almLooks.css" />
+-->    <link rel="stylesheet" type="text/css" href="css/almThumbnail.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <script src="javascript/hover.js" language="JavaScript" type="text/javascript"></script>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script>
+    <script src="jquery.slides.min.js"></script>
+
+    <script>
+    $(function(){
+      $("#slides").slidesjs({
+        width: 940,
+        height: 528
+      });
+    });
+  </script>
+    </head>
+    <body>
+        <!--<div style='width:80%; margin-bottom:20em; margin-right: 20em;'>-->
+        <!-- the header -->
+
+        <!-- the navigation menu -->
+        <div id="topnav">
+            <ul class="topmenu">
+            <li class="menu"><a class="menu" href="index.html">Home</a></li>
+            <li class="menu"><a class="menu" href="press.html">News</a></li>
+            <li class="menu"><a class="menu" href="publications.html">Publications</a></li>
+            <li class="menu"><a class="menu" href="software.html">Software</a></li>
+            <li class="menu"><a class="menu" href="members.html">People</a></li>
+            <li class="menu"><a class="menu" href="contact.html">Contact Us</a></li>
+
+
+            </ul>
+         </div>
+
+        <div id="banner">
+            <!-- alm lab -->
+            alm lab
+        <!-- MIT logo -->
+        <a href="http://web.mit.edu/"><img src="img/mit-redgrey-footer3.gif"/></a>
+        </div>
+
+
+        <!-- everything else is in the container div, the main body -->
+        <div id="container">
+            <div id="content">
+
+
+
+            </div><!-- end of div content -->
+            <div id="rightPane">
+
+
+
+            </div>
+            <div id="midPane">
+
+    <br/>
+    <h4>ANGST </h4>
+    <h5>the ANalyzer of Gene and Species Trees. </h5>
+
+    <div id="software">
+    by Lawrence David and Eric Alm <br/>
+    <img alt="ANGST" class="floatRight" src="img/29_AnGST.png"/>
+    </div>
+    <div id="softwareMed">
+    UPDATE<br/>
+    Run AnGST online using the <a href="http://almlab.mit.edu/angst">AnGST online server</a>. Simply upload your tree
+    files and processing takes place on our servers. Does not require code
+    downloading or prior programming knowledge!<p/>
+
+    Several algorithmic approaches for the inference of prokaryotic gene family
+    evolutionary histories have been proposed. Although divergent in their
+    backgrounds, these algorithms are united by a common goal: the proposal of a
+    series of horizontal gene transfer (HGT), gene duplication (DUP) and gene
+    loss (LOS) events to explain observed distributions of orthologous genes
+    amongst extant prokaryotic genomes. Regrettably, these inference algorithms
+    also all share at least one of the following shortcomings: 1) an inability
+    to model both HGT and DUP simultaneously; 2) an inability to incorporate
+    ortholog phylogenetic information; 3) a lack of robustness to phylogenetic
+    construction errors. We avoid all three of these limitations in a novel
+    algorithm that we have developed, entitled the Analyzer of Gene and Species
+    Trees (AnGST). In brief, AnGST performs a phylogenetic reconciliation
+    between a given species and gene tree, positing the best scoring set of HGT,
+    DUP, and LOS events to explain all topological incongruities between the two
+    trees. In order to protect against phylogenetic noise, we have designed
+    AnGST to be capable of incorporating information from dozens of bootstrap
+    trees simultaneously. In cases of variations among bootstrap subtrees, the
+    subtree that best accords with the reference tree is adopted. <p/>
+
+    References <br/>
+    <a href="http://www.ncbi.nlm.nih.gov/pubmed/21170026">(1) Lawrence A. David and Eric J. Alm. Rapid evolutionary innovation during
+    an Archean Genetic Expansion. Nature, Vol. 469, No. 7328. (6 January 2011),
+    pp. 93-96. </a>
+    <br/><br/>
+    Data <br/>
+    <a href="angst/files/angst.data.tar.gz">Download AnGST Data</a><br/>
+
+    </div>
+
+
+            </div>
+            <div id="footer">
+
+
+
+
+            </div>
+        </div>
+    </body>
+</html>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: Caroline Antolik </Title>
+
+    <contentPane>
+    <h3>Caroline Antolik</h3>
+        <div id="member">
+        <img class="floatRight" src="img/antolik1.jpg" width="200" alt="antolik1"/> <!--must store the image file in img folder-->
+        <h4></h4>
+        As Technical Assistant in the Alm lab, I help out with various
+        aspects of lab members' projects. My main responsibilities include 16s
+        library prep for Illumina sequencing and training for users on
+        specialized equipment such as our Bioanalyzer and liquid handling robot.
+        I also assist with purchasing, safety training, and general issues
+        around the lab.
+        <h4>Past Life</h4>
+        My research interests in the area of molecular ecology and evolution
+        have taken me far from my hometown in Texas. After completing a BS in
+        biology at Eckerd College in sunny Florida, I moved to southern New
+        Zealand where I received an MSc from the University of Otago.
+
+        <img class="floatLeft" src="img/antolik2.jpg" width="200" alt="antolik2"/>
+        <p/>
+
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Caroline Antolik </h4>
+        Technical Assistant<br/>
+        cantolik@mit.edu  <br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>MSc, 2013, University of Otago</li>
+        <li>BS, 2009, Eckerd College</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/antolik3.jpg" width="200" alt="antolik3"/>
+
+
+        </div>
+
+    </rightPane>
+    <midPane>
+
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
