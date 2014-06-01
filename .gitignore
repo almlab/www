@@ -1,1 +1,6 @@
+*py~
+
 *.html
+
+*pyc
+adaptmloutput/*
