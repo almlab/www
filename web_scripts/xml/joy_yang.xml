@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: Joy Yang </Title>
+
+    <contentPane>
+    <h3>Joy Yang</h3>
+        <div id="member">
+        <img class="floatRight" src="img/joy_yang1.jpg" width="150" alt="(image 1)"/> <!--must store the image file in img folder-->
+        <h4>Research Interests</h4>
+        I am broadly interested in the evolution and ecology of pathogens. In particular, I would like to utililize high performance computing to study the effect of the intricate interactions among host, bacteria, and mobile genetic elements such as phage and plasmids on disease. In my spare time, I work on strengthening my own gut microbiome by eating lots of yogurt. <br/><br/>
+        <h5>Past Life</h5>
+        While attending Berkeley, I worked on genomics of three-spined stickleback fish as well as methods for assessing prostate brachytherapy treatment plans. After graduating, I worked at the NIH on developing a program for automating the design pcr assays for strain-level identification of bacteria implicated in healthcare-associated infections. <br/><br/>
+        <img class="floatLeft" src="img/joy_yang2.jpg" width="150" alt="(image 2)"/>
+        <p/>
+
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>Joy Yang </h4>
+        Graduate Student<br/>
+        Computational and Systems Biology<br/>
+        y a n g j y (a t) m i t  <br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>BA, Statistics, UC Berkeley</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/joy_yang3.jpg" width="150" alt="(image 3)"/>
+
+
+        </div>
+
+    </rightPane>
+    <midPane>
+
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
