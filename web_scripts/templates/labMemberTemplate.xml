@@ -7,7 +7,7 @@
      indentation doesn't matter in an xml file.
 
      you can delete any comment lines. they are ones that have dash-dash-
-     exclamation-point. --!>
+     exclamation-point. -->
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <Title>Alm Lab Member: [Firstname Lastname] </Title>
@@ -21,7 +21,7 @@
         <h5>[subheading, if you need it]</h5>
         [content that goes under that heading]
         <!-- if you want another heading or subheading, copy those lines and repeat. or,
-             if you don't need a subheading, just delete that line. --!>
+             if you don't need a subheading, just delete that line. -->
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatLeft" src="img/[firstname_lastname2.pic]" width="150" alt="image 2"/>
@@ -48,7 +48,7 @@
         <img class="floatRight" src="img/[firstname_lastname3.pic]" width="150" alt="(image3)"/>
         </div>
     </rightPane>
-        <!-- Don't change anything below here! --!>
+        <!-- Don't change anything below here! -->
     <midPane>
     </midPane>
     <footer>
