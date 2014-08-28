@@ -6,8 +6,8 @@
 
      indentation doesn't matter in an xml file.
 
-     you can delete any comment lines. they are ones that have dash-dash-exclamation-point. --!>
-
+     you can delete any comment lines. they are ones that have dash-dash-
+     exclamation-point. --!>
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <Title>Alm Lab Member: [Firstname Lastname] </Title>
