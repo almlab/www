@@ -24,6 +24,15 @@
     </div>
     <hr />
     <h4>Postdocs</h4>
+        
+    <div id="member">
+        <img class="floatLeft" src="img/ilana_brito1.jpg" width="150" alt="Ilana"/>
+        <font class="fontTitle">Ilana Brito</font><br/>
+        My main interest is understanding how microbes (and their genes) 
+        are transmitted among individuals and between individuals and 
+        their environments.
+        <a href="ilana_brito.html">Read more</a>
+    </div>
 
     <div id="member">
         <img class="floatLeft" src="img/6_Sean_Clarke.jpeg" width="150" alt="seanClarke"/>
@@ -192,6 +201,7 @@
     <ul>
     <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
     <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
+    <li><a href="ilana_brito.html" class="nodec">Ilana Brito</a></li>
     <li><a href="saclarke.html" class="nodec">Sean Clarke</a></li>
     <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
     <li><a href="GFournier.html" class="nodec">Greg Fournier</a></li>
