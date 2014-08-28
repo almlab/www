@@ -6,8 +6,9 @@
     <contentPane>
     <h3>Scott Olesen</h3>
         <div id="member">
-        <img class="floatRight" src="img/scotto_1.jpg" width="200" alt="scott_1"/> <!--must store the image file in img folder-->
+        <img class="floatRight" src="img/scotto_3.png" width="200" alt="scott_1"/> <!--must store the image file in img folder-->
         <h4>Research Interests</h4>
+        <p align="justify">
         Microbial metabolisms transform the world around us, mediating key geochemical cycles and even determining
         human scent. I combine experimental design and computational techniques to assess and engineer the role of
         microbes in the environment and the human microbiome. My interests include:
@@ -17,8 +18,9 @@
             <li>Environmental microbial ecology</li>
             <li>Human skin flora</li>
         </ul>
+        </p>
 
-        <img class="floatLeft" src="img/scotto_2.png" width="200" alt="scott_2"/>
+        <img class="floatLeft" src="img/scotto_1.jpg" width="200" alt="scott_2"/>
         <p/>
 
     </div>
@@ -42,7 +44,7 @@
         <li>BA, Physics, Williams College. 2010.</li>
         </ul>
         <p/>
-        <img class="floatRight" src="img/scotto_3.png" width="200" alt="scotto_3"/>
+        <img class="floatRight" src="img/scotto_2.png" width="200" alt="scotto_3"/>
 
 
         </div>
