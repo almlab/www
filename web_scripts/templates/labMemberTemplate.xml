@@ -1,51 +1,58 @@
+<!-- to use this template, replace all the content in square brackets (including the
+     brackets themselves).
+
+     it is best to edit this file in a unix-based text processor like vim or emacs. a mac
+     utility like text edit is second best. notepad is the next best. do not use word.
+
+     indentation doesn't matter in an xml file.
+
+     you can delete any comment lines. they are ones that have dash-dash-exclamation-point. --!>
+
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <!-- replace the contents in the brackets, erase the brackets themselves-->
-    <Title>Alm Lab Member: (Your Name) </Title>
+    <Title>Alm Lab Member: [Firstname Lastname] </Title>
 
     <contentPane>
-    <h3>(Your Name)</h3>
+    <h3>[Firstname Lastname]</h3>
         <div id="member">
-        <img class="floatRight" src="img/(your photo image file)" width="150" alt="(image 1)"/> <!--must store the image file in img folder-->
-        <h4>(Heading)</h4>
-        <h5>(Subheading)</h5>
-        (more text: blah blah blah)
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/[firstname_lastname1.pic]" width="150" alt="[mouseover text 1]"/>
+        <h4>[heading, maybe "Research Interests"]</h4>
+        <h5>[subheading, if you need it]</h5>
+        [content that goes under that heading]
+        <!-- if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. --!>
 
-        <img class="floatLeft" src="img/(image file 2)" width="150" alt="image 2"/>
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/[firstname_lastname2.pic]" width="150" alt="image 2"/>
         <p/>
-
     </div>
     </contentPane>
 
     <rightPane>
         <br/>
         <div id="memberDir">
-
-        <h4>(your name) </h4>
-        (title)<br/>
-        (phone number?)<br/>
-        (email)  <br/>
+        <h4>[Firstname Lastname]</h4>
+        [title, like "Graduate student" or whatever]<br/>
+        [another sidebar line. maybe contact info? your program?]<br/>
+        [another sidebar line. maybe email?]<br/>
         <p/>
 
-        <h4>(C.V.)</h4>
+        <h4>["C.V.", or "education"]</h4>
         <ul>
-        <li>(item 1)</li>
-        <li>(item 2)</li>
-        <li>(item 3)</li>
+        <li>[item 1 under this heading]</li>
+        <li>[item 2]</li>
+        <li>[item 3]</li>
         </ul>
         <p/>
-        <img class="floatRight" src="img/(image file 3)" width="150" alt="(image3)"/>
-
-
+        <img class="floatRight" src="img/[firstname_lastname3.pic]" width="150" alt="(image3)"/>
         </div>
-
     </rightPane>
+        <!-- Don't change anything below here! --!>
     <midPane>
-
     </midPane>
     <footer>
         <hr />
-        <!--Evolutionary, Ecological and Environmental Systems Biology-->
         <img src="img/bar1.png" alt="bar1"/>
     </footer>
 </Document>
