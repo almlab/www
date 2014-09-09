@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Software: Mystic</Title>
+
+    <contentPane>
+
+    </contentPane>
+
+    <rightPane>
+
+    </rightPane>
+    <midPane>
+    <br/>
+    <h4>Mystic </h4>
+    <h5>Inferred biomass biogeochemical model of Mystic Lake.</h5>
+
+    <div id="software">
+    by Scott W Olesen, Sarah P Preheim, and Eric J Alm<br/>
+    <img class="floatRight" src="img/mystic.jpg" alt="Mystic"/>
+    </div>
+    <div id="softwareMed">
+    DESCRIPTION <br/>
+    Mystic is a Matlab program (with supporting Python scripts) that runs a conceptual, quantitative
+    simulation of the biogeochemistry of Mystic Lake, a polluted, dimictic lake outside Boston.
+    The model was designed to predict the overall vertical spatial distribution of major 
+    chemical species and microbial metabolisms in the lake.
+    <p/>
+
+    REFERENCE <br/>
+    the paper citation here
+    <p/>
+
+    SOURCE <br/>
+    The source for the model run in the paper: <br/>
+    <a href="src/mystic/mystic-master.zip">Mystic (zipped source)</a><br/>
+    <a href="http://github.com/almlab/mystic">Mystic (Alm Lab github page)</a>
+    <p/>
+
+    </div>
+    </midPane>
+    <footer>
+
+    </footer>
+</Document>
+
+
+
+
