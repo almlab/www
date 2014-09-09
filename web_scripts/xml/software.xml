@@ -63,6 +63,15 @@
 
     </div>
 
+    <div id="leftTool">
+        <h4>Distribution-based clustering (Sep 2014)</h4>
+                Sarah Preheim<br />
+
+                Calling ecologically-informed operational taxonomic units.<br/>
+                <a href="dbc.html">Read more...</a><br/><br/>
+                <img src="img/dbc.png" width="250" alt="dbc"/>
+    </div>
+
     </midPane>
     <footer>
 

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<Title>Alm Lab Software: Distribution-based clustering</Title>
+
+<contentPane>
+
+</contentPane>
+
+<rightPane>
+
+</rightPane>
+
+<midPane>
+<br/>
+<h4>DBC </h4>
+<h5>Distribution-based clustering</h5>
+<div id="software">
+by Sarah Preheim and Eric Alm <br/>
+spacocha at mit.edu <p/>
+
+<img class="floatRight" src="img/dbc.png" withd="200" alt="DBC"/>
+The DBC software is an alternative method for organizing sequence data into operational taxonomic 
+units (OTUs) for next-generation sequencing technologies, such as Illumina. The focus of this 
+method is to identify sequences that are genetically and ecologically similar to group them, 
+while keeping ecologically distinct organisms apart, regardless of sequence identity. It uses 
+the distribution of sequences across samples along with genetic information to create OTUs. 
+With mock communities, it more accurately groups together sequences derived from the same DNA 
+template or organism. With environmental samples, it reduces the total number of OTUs while 
+being able to discriminate between ecologically differentiated sequences with as little as 1 
+bp difference. It can be used with any next-generation sequence method that has sufficient counts 
+and samples to create significant differences across samples.<p/>
+
+DBC was used to process Illumina Genome Analyzer II reads for 16S rRNA sequence analysis in this paper:
+<a href="http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0011840">
+    Sarah P. Preheim, Allison R. Perrotta, Antonio M. Martin-Platero, Anika Gupta and Eric J. Alm. 2013. 
+    Distribution-based clustering: Using ecology to refine the operational taxonomic unit. Appl. Environ. Microbiol. 2013, 79(21):659
+</a><p/>
+
+DBC package was written by Sarah Preheim.
+Website maintained by Sarah Preheim
+with many thanks to Albert Wang. <br/>
+</div>
+
+<p/><hr></hr><p/>
+
+<h5>Downloads</h5>
+<div id="softwareMed">
+DBC source code and example input files can be downloaded from <a href="https://github.com/spacocha/Distribution-based-clustering">github</a>.<p/>
+</div>
+
+<h5>FAQ</h5>
+<div id="softwareMed">
+1.) I'm confused. What's wrong with the 97% sequence clusters I've always used? <br/>
+Because we have much more sequencing capacity with next-generation sequencing technology, we can do much better with sequence data than just getting a conservative number of total species present. Instead, we can identify all of the ecologically different organisms within the sample, any of which could be involved in a microbially-mediated process of interest. However, sequencing errors create a lot of false diversity, so you need some way to reduce the total number of sequences that are analyzed. Using the distribution of sequences across samples is the most efficient and accurate way to identify sequencing errors and ecologically differentiated sequences in the sample.<p/>
+
+2.) DBC is much slower than other methods, so why should I use it? <br/>
+DBC version 2.0 is 10-fold faster than the original implementation, and can be used for many applications as quickly and easily as many other clustering algorithms. <p/>
+
+3.) Are there any situations where I can't use DBC to call OTUs?
+<br/>
+When the total number of samples is limited, the distribution of sequences across samples will tend to be more similar for any sequence. This will tend to merge sequences together more often (i.e. with one sample, using a 0.05 distance cut-off is essentially like making 95% OTUs). But with more samples, and with more opportunity to capture variation in ecological conditions that differentiate organisms with similar 16S rRNA sequences, you will begin to identify more distinct closely-related organisms. <p/>
+
+4.) How do I use DBC to remove sequencing errors? <br/>
+DBC is effective at removing sequencing errors when used with an abundance criteria (k-fold difference) of 10. In version 2.0 this is -k 10. This requires that the representative sequences is 10-fold more abundant than any child sequence, and is effective at removing many erroneous sequences from mock community templates. <p/>
+
+5.) I've run DBC on my sequence data, but I have the same number of OTUs as I had dereplicated sequences. What does that mean? <br/>
+This likely means that you have not run the script properly, potentially in not calling the statistical test in R correctly. You should contact me if you have problems like this. <p/>
+
+</div>
+
+</midPane>
+<footer>
+
+</footer>
+</Document>
+
+
+
+
