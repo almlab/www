@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-
+    
 <Title>Alm Lab Publications</Title>
 
 <contentPane>
@@ -27,7 +27,7 @@ bacteria.</a>
 <h4>Science. 2012 Apr 6;336(6077):48-51. </h4>
 <img class="floatLeft" src="img/F3.cropped.png" alt="figure3" width="350"/>
 
-Shapiro BJ, Friedman J, Cordero OX, Preheim SP, Timberlake SC, Szabó G, Polz MF,
+Shapiro BJ, Friedman J, Cordero OX, Preheim SP, Timberlake SC, Szabó G, Polz MF, 
 Alm EJ.<br/>
 
 Program in Computational and Systems Biology, Massachusetts Institute of
@@ -36,9 +36,9 @@ Technology, Cambridge, MA 02139, USA.<p/>
 Genetic exchange is common among bacteria, but its effect on population diversity
 during ecological differentiation remains controversial. A fundamental question
 is whether advantageous mutations lead to selection of clonal genomes or, as in
-sexual eukaryotes, sweep through populations on their own. Here, we show that in
+sexual eukaryotes, sweep through populations on their own. Here, we show that in 
 two recently diverged populations of ocean bacteria, ecological differentiation
-has occurred akin to a sexual mechanism: A few genome regions have swept through
+has occurred akin to a sexual mechanism: A few genome regions have swept through 
 subpopulations in a habitat-specific manner, accompanied by gradual separation of
 gene pools as evidenced by increased habitat specificity of the most recent
 recombinations. These findings reconcile previous, seemingly contradictory
@@ -114,19 +114,61 @@ compounds, which is consistent with an increasingly oxygenating biosphere.
 </div>
 </contentPane>
 <rightPane>
-    <br/>
-    <h4>Publication List (2011-2014)</h4>
-    <div id="title">
-            <a href="http://scholar.google.com/citations?user=IdcugBgAAAAJ" class="external">Google Scholar</a>
+<br/>
+<h4>Publication List (2011-2014)</h4>
+<div id="title">
+<a href="http://scholar.google.com/citations?user=IdcugBgAAAAJ" class="external">Google Scholar</a>
 
-    </div><br/>
-    2014
+</div><br/>
+
+2014
+
+<div id="pubmed">
+    <div id="journal">Lawrence A David, Arne C Materna, Jonathan Friedman, Maria Ines C Baptista, Matthew C Blackburn, Allison Perrotta, Susan E Erdman, Eric J Alm<br/>
+    Submitted<br/>
+    <a href="mit_daily_timeseries.html">metadata</a><br/>
+    </div>
+    <div id="title">Host lifestyle affects human microbiota on daily timescales.</div>
+</div><br/>
+
+<div id="pubmed">
+    <div id="journal">Zain Kassam, Mark B Smith, Eric J Alm<br/>
+    New England Journal of Medicine, accepted (2014)<br/>
+    </div>
+    <div id="title">Bridging the science gap in diabetes and obesity: Integrating the microbiome into clinical trials.</div>
+</div><br/>  
+
+<div id="pubmed">
+    <div id="journal">Jessica R Lakritz, Theofilos Poutahidis, Tatiana Levkovich, Bernard J Varian, Yassin M Ibrahim, Antonis Chatzigiagkos, Sheyla Mirabal, Eric Alm, Susan E Erdman
+    International Journal of Cancer (2014)<br/>
+    </div>
+    <div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/24382758">Beneficial bacteria stimulate host immune cells to mammary cancer in mice.</a></div>
+
+</div><br/>
+
+<div id="pubmed">
+	<div id="journal">
+	Ilan Youngster, Jenny Sauk, Christina Pindar, Robin G Wilson, Jess L Kaplan, Mark B Smith, Eric J Alm, Dirk Gevers, George H Russel, Elizabeth L Hohmann
+	Clinical Infectious Diseases (2014)<br/>
+	</div>
+	<div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/24762631">Fecal microbiota transplant for relapsing Clostridium difficile infection using a frozen inoculum from unrelated donors: a randomized, open-label, controlled pilot study.</a></div>
+
+</div><br/>
+
+<div id="pubmed">
+    <div id="journal">Daniel H Rothman, Gregory P Fournier, Katherine L French, Eric J Alm, Edward A Boyle, Changqun Cao, Roger E Summons<br/>
+    PNAS (2014)<br/>
+    </div>
+    <div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/24706773">Methanogenic burst in the end-Permian carbon cycle.</a></div>
+
+</div><br/>
+
 <div id="pubmed">
     <div id="journal">Mark B Smith, Colleen Kelly, Eric J Alm<br/>
     Nature (2014)<br/>
     </div>
     <div id="title"><a class="external" href="http://www.nature.com/news/policy-how-to-regulate-faecal-transplants-1.14720">Policy: How to regulate faecal transplants.</a></div>
-
+    
 </div><br/>
 
 <div id="pubmed">
@@ -134,67 +176,67 @@ compounds, which is consistent with an increasingly oxygenating biosphere.
     PLoS One (2014)<br/>
     </div>
     <div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/24392159">Probiotic microbes sustain yourful serum testosterone levels and testicular size in aging mice.</a></div>
-
+    
 </div><br/>
-
+    
     2013
-<div id="pubmed">
+<div id="pubmed">   
 
     <div id="journal">Sarah P Preheim, Allison R Perrotta, Antonio M Martin-Platero, Anika Gupta, Eric J Alm<br/>
     Appl. Environ. Microbiol. (2013)<br/>
     </div>
     <div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/24060130">Computational methods for high-throughput comparative analyses of natural microbial communities.</a></div>
-
+    
 </div><br/>
 
-<div id="pubmed">
+<div id="pubmed">   
 
     <div id="journal">Jessica R Lakritz, Theofilos Poutahidis, Tatiana Levkovich, Bernard J Varian, Yassin M Ibrahim, Antonis Chatzigiagkos, Sheyla Mirabal, Eric J Alm, Susan E Erdman<br/>
     International Journal of Cancer (2013)<br/>
     </div>
     <div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/24382758">Beneficial bacteria stimulate host immune cells to counteract dietary and genetic predisposition to mammary cancer in mice.</a></div>
-
+    
 </div><br/>
 
-<div id="pubmed">
+<div id="pubmed">   
 
     <div id="journal">Mukul S Bansal, Eric J Alm, Manolis Kellis<br/>
     Journal of Computational Biology (2013)<br/>
     </div>
     <div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/24033262">Reconciliation revisited: handling multiple optima when reconciling with duplication, transfer and loss.</a></div>
-
+    
 </div><br/>
-
+    
     <div id="pubmed">
     <div id="journal">Gitta Szabo, Sarah P Preheim, Kathryn M Kauffman, Lawrence A David, Jesse Shapiro, Eric J Alm, Martin F Polz<br/>
     The ISME Journal (2013)<br/>
     </div>
     <div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/23178668">Reproducibility of Vibrionaceae population structure in costal bacterioplankton.</a></div>
-
+    
 </div><br/>
-
+    
     <div id="pubmed">
     <div id="journal">Martin F Polz, Eric J Alm, William P Hanage<br/>
     Trends in Genetics (2013)<br/>
     </div>
     <div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/23332119">Horizontal gene transfer and the evolution of bacterial and archaeal population structure.</a></div>
-
+    
 </div><br/>
-
+    
 <div id="pubmed">
     <div id="journal">Jonathan Friedman, Eric J Alm, B Jesse Shapiro<br/>
     PLOS ONE. (2013)<br/>
     </div>
     <div id="title"><a class="external" href="http://www.ncbi.nlm.nih.gov/pubmed/23349716">Sympatric speciation: when is it possible in bacteria?</a></div>
-
+ 
 </div><br/>
 
     2012
-
+    
 
 
 <div id="pubmed">
-
+    
     <div id="journal">Jonathan Friedman, Eric J Alm<br/>
     PLoS Comput Biol. (2012)<br/>
     </div>

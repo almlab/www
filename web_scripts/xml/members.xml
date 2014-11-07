@@ -8,17 +8,17 @@
     <h4>PI: Eric Alm</h4>
     <div id="member">
         <img class="floatRight" src="img/ericAlm.png" width="150" alt="ericAlm"/>
+          The human microbiome plays a key role in human health and disease.
         Research in my group includes both computational/theoretical
-        and experimental approaches to understanding the evolution of microorganisms, emphasizing a
-        'systems-level' perspective. Some areas of special interest include:
+        and experimental approaches to understanding and engineering the human microbiome.
+        Our research is focused on translating basic science discoveries rapidly into the clinic, where they can contribute to better outcomes for patients.
+        Some areas of special interest include:
         <ul class="square">
-        <li>Tools for detecting natural selection in microbes</li>
-        <li>The evolutionary origin of gene families</li>
-        <li>Mining metagenomic sequence data</li>
-        <li>Experimental evolution of microbes</li>
-        <li>Modeling bacterial ecology</li>
-        <li>Gene regulatory networks in bacteria</li>
-        <li>Protein structure and design</li>
+        <li>Developing therapeutics based on synthetic microbial communities</li>
+        <li>Personalized medicine</li>
+        <li>Monitoring human activities through Smart Sewers</li>
+        <li>Smart Toilets that track human health</li>
+        <li>Discovering low-cost non-invasive biomarkers</li>
         </ul>
         <a href="ealm.html">Read more...</a>
     </div>

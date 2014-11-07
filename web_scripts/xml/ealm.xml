@@ -7,38 +7,40 @@
         <div id="member">
         <img class="floatRight" src="img/20111028165819-2.jpeg" width="150" alt="ericAlm"/>
         <h4>Research Interests</h4>
+        The human microbiome plays a key role in human health and disease.
         Research in my group includes both computational/theoretical
-        and experimental approaches to understanding the evolution of microorganisms, emphasizing a
-        'systems-level' perspective. Some areas of special interest include:
+        and experimental approaches to understanding and engineering the human microbiome.
+        Our research is focused on translating basic science discoveries rapidly into the clinic, where they can contribute to better outcomes for patients.
+        Some areas of special interest include:
         <ul class="square">
-        <li>Tools for detecting natural selection in microbes</li>
-        <li>The evolutionary origin of gene families</li>
-        <li>Mining metagenomic sequence data</li>
-        <li>Experimental evolution of microbes</li>
-        <li>Modeling bacterial ecology</li>
-        <li>Gene regulatory networks in bacteria</li>
-        <li>Protein structure and design</li>
-        </ul>
+        <li>Developing therapeutics based on synthetic microbial communities</li>
+        <li>Personalized medicine</li>
+        <li>Monitoring human activities through Smart Sewers</li>
+        <li>Smart Toilets that track human health</li>
+        <li>Discovering low-cost non-invasive biomarkers</li>
+              </ul>
         <p/>
         <h4>Teaching Interests</h4>
-        I have enjoyed teaching a variety of classes at MIT, spanning my own
-        diverse interests in microbiology, computer algorithms, and
-        thermodynamics of biomolecules. I am currently looking forward to
-        teaching a new class on microbial evolution and genetics.<p/>
+        I am passionate about maximizing personal interaction in the classroom. I am especially interested in professional development, and working on  communication skills with undergraduate and graduate students.<p/>
         <img class="floatLeft" src="img/ericAlm.png" width="150" alt="ericAlm"/>
         <p/>
-
+      
     </div>
     </contentPane>
-
+    
     <rightPane>
         <br/>
         <div id="memberDir">
 
         <h4>Eric Alm, Ph.D. </h4>
-        Karl Van Tassel (1925) Career Development Associate Professor<br/>
-        Biological Engineering, MIT<br/>
-        Associate Member, Broad Institute<br/>
+        MIT Director<br/>
+        Center For Microbiome Informatics and Therapeutics<br/><br/>
+        
+        Associate Professor<br/>
+        Biological Engineering, MIT<br/><br/>
+        
+        Associate Member, Broad Institute<br/><br/>
+        
         (617) 253-2726<br/>
         ejalm @ mit.edu  <br/>
         <p/>
@@ -55,10 +57,10 @@
 
 
         </div>
-
+    
     </rightPane>
     <midPane>
-
+        
     </midPane>
     <footer>
         <hr />

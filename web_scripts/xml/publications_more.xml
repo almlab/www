@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <!-- replace the contents in the brackets, erase the brackets themselves-->
-    <Title>Publications from 1998-2011 </Title>
+    <Title>Publications from 1998-2011 </Title> 
 
     <contentPane>
 <h3>Publications from 1998-2011</h3>
@@ -272,12 +272,12 @@ Methods in cell biology (1998)</div>
 </div><br />
 
     </contentPane>
-
+    
     <rightPane>
-
+   
     </rightPane>
     <midPane>
-
+        
     </midPane>
     <footer>
         <hr />
