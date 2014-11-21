@@ -8,14 +8,14 @@ html, body {
   height: 100%;
   margin: auto;
 
-  /* below deals with the default font and text alignment*/
+  /* below deals with the default font and text alignment*/  
   font-family: 'Questrial', sans-serif;
   color: #000;
   font-family:'Questrial', sans-serif;
   font-size: 18px;
   text-align: top;
   background-color: #fff;
-
+  
   /*background-image: url(../img/1_AdaptML-1.jpeg);*/
   /*background-repeat: no-repeat;*/
   /*background-attachment: fixed;*/
@@ -27,7 +27,7 @@ html, body {
 hr {
   padding:0;
   margin:0;
-
+  
   color: #eee;
 }
 
@@ -47,16 +47,16 @@ h4 {font-size:1em; margin:0em; color:black}
 h5 {font-size:0.8em; margin:0em; color:black}
 
 /* image */
-img.floatLeft {
-    float: left;
+img.floatLeft { 
+    float: left; 
     margin:0 10px 0 0px;
 }
-img.floatRight {
-    float: right;
+img.floatRight { 
+    float: right; 
     margin:0 0 0 10px;
 }
-img.floatTop {
-    float: top;
+img.floatTop { 
+    float: top; 
     margin: 0em;
 }
 
@@ -68,7 +68,7 @@ img.floatTop {
 #div1 {position:inherit; width: 100%;} /*visibility:hidden}*/
 
 /* top navigation menu box */
-#topnav
+#topnav 
 {
   padding: 0em;
   background-color: #fff;
@@ -81,9 +81,9 @@ img.floatTop {
 }
 
 /* site banner box */
-#banner
+#banner 
 {
-  font-size: 2em;
+  font-size: 2em; 
   padding: 0em;
   margin-top: 30px;
   background-color: #fff;
@@ -95,7 +95,7 @@ img.floatTop {
 #container
 {
   text-align:left;
-  vertical-align: top;
+  vertical-align: top; 
   color: #000;
   line-height: 150%; /* increase readability */
   /*border-top: 1px outset #ddd;
@@ -127,7 +127,7 @@ img.floatTop {
   z-index:1;
   width: 300px;
   margin-left:670px;
-
+  
 }
 
 #midPane /* wide middle box*/
@@ -160,6 +160,17 @@ img.floatTop {
 {
   font-size:14px;
   margin-left: 20px;
+  margin-bottom:20px;
+  padding: 0.2em;
+  text-align: left;
+  line-height:150%;
+  width: 600px;
+  /*border: 1px solid black;*/
+}
+#frontpress
+{
+  font-size:16px;
+  margin-left: 0px;
   margin-bottom:20px;
   padding: 0.2em;
   text-align: left;
@@ -205,7 +216,7 @@ img.floatTop {
 }
 #softwareMed
 {
-
+  
   font-size:13px;
   margin: 1em;
   text-align: left;
