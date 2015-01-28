@@ -42,14 +42,6 @@
     strategies, and how microbes adapt and evolve various lifestyles..... <a href="corzett.html">Read more</a>
     </div>
    
-    <div id="member">
-        <img class="floatLeft" src="img/12_Greg_Fournier.jpeg" width="150" alt="gregFournier"/>
-        <font class="fontTitle">Greg Fournier</font><br/>
-        My current research focuses on integrating phylogenetics and horizontal
-        gene transfer (HGT) with studies of microbial evolution and planetary
-        history. ... <a href="GFournier.html">Read more</a><p/><p/><br/>
-    </div>
-
      <div id="member">
          <img class="floatLeft" src="img/groussin1.jpg" width="150" alt="mathieu"/>
          <font class="fontTitle">Mathieu Groussin</font><br/>
@@ -69,13 +61,14 @@
       </div>
 
     <div id="member">
-        <img class="floatLeft" src="img/29_Aliso.jpeg" width="150" alt="sarahPreheim"/>
-        <font class="fontTitle">Sarah Pacocha Preheim</font><br/>
-        I am interested in bacterial diversity, especially within aquatic ecosystems.
-        The small size, genetic diversity and metabolic versatility of bacteria make them
-        ideal systems for studying principles in ecology and evolution... <a href="sPreheim.html">Read more</a>
+        <img class="floatLeft" src="img/1_Mark_Smith.jpeg" width="150" alt="smith"/>
+        <font class="fontTitle">Mark Smith</font><br/>
+        Mark's research uses high-throughput sequencing to gain insights into the structure, 
+        function and dynamics of the human microbiome, with a recent publication on the topic 
+        in <i>Nature</i>. <a href="http://www.openbiome.org/team/">Read more</a>
+        <br/><br/><br/><br/>
     </div>
-    
+
     <div id="member">
         <img class="floatLeft" src="img/12_Manu_Tamminen.jpeg" width="150" alt="manuTamminen"/>
         <font class="fontTitle">Manu Tamminen</font><br/>
@@ -149,16 +142,6 @@
     </div>
     
     <div id="member">
-        <img class="floatLeft" src="img/1_Mark_Smith.jpeg" width="150" alt="smith"/>
-        <font class="fontTitle">Mark Smith</font><br/>
-        Broadly, I am interested in understanding the many ways that the hidden
-        microbial majority influences the world around (and within) us.
-        Currently, my research is focused on uncovering and characterizing a
-        network of gene exchange in the human microbiome through comparative
-        genomics... <a href="mbsmith.html">Read more</a>
-    </div>
-    
-    <div id="member">
         <img class="floatLeft" src="img/sspencer1.jpg" width="150" alt="spencer"/>
         <font class="fontTitle">Sarah Spencer</font><br/>
         I'm interested in how ecological principles play out at the resolution
@@ -196,19 +179,21 @@
          <li><a href="ilana_brito.html" class="nodec">Ilana Brito</a></li>
          <li><a href="saclarke.html" class="nodec">Sean Clarke</a></li>
          <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
-         <li><a href="GFournier.html" class="nodec">Greg Fournier</a></li>
          <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
          <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
+         <li>Thomas Gurry</li>
          <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
+         <li>Tu Nguyen</li>
          <li><a href="scott_olesen.html" class="nodec">Scott Olesen</a></li>
          <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
-         <li><a href="sPreheim.html" class="nodec">Sarah Preheim</a></li>
          <li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>
          <li><a href="mbsmith.html" class="nodec">Mark Smith</a></li>
          <li><a href="sspencer.html" class="nodec">Sarah Spencer</a></li>
          <li><a href="mvtammin.html" class="nodec">Manu Tamminen</a></li>
+         <li>Yaniv Turgeman</li>
          <li><a href="joy_yang.html" class="nodec">Joy Yang</a></li>
          <li><a href="avihuYona.html" class="nodec">Avihu Yona</a></li>
+         <li>Annie Yu</li>
 
     </ul>
     </div>
@@ -219,11 +204,13 @@
     <li><a href="http://www.engr.uconn.edu/~mukul/ " class="external">Mukul Bansal</a></li>    
     <li><a href="http://microfluidics.epfl.ch/twiki/bin/view/MaerklLab/LbncPeople" class="external">Matthew Blackburn</a></li>
     <li><a href="franciscocamas.html" class="nodec">Francisco Camas</a></li>
-    <li>Jonathan Friedman</li>
     <li><a href="http://www.ladlab.org" class="external">Lawrence David</a></li>
+    <li><a href="http://eapsweb.mit.edu/people/g4nier" class="external">Greg Fournier</a></li>
+    <li>Jonathan Friedman</li>
     <li><a href="http://www.linkedin.com/in/arnematerna" class="external">Arne Materna</a></li>
     <li><a href="elipapa.html" class="nodec">Eli Papa</a></li>
     <li><a href="http://www.shapirolab.ca/" class="external">B. Jesse Shapiro</a></li>
+    <li><a href="http://engineering.jhu.edu/dogee/faculty/sarah-preheim/" class="external">Sarah Preheim</a></li>
     
     <li><a href="http://www.linkedin.com/pub/sonia-timberlake/65/283/b13" class="external">Sonia Timberlake</a></li>
     </ul>
