@@ -1,36 +1,18 @@
 #!/usr/bin/env python
 
 """
-*********************************************************************
-updateHTML.py
-*********************************************************************
-
-Usage:
-    updateHTML.py
-
-    This script will re-generate all the static HTML pages
+This script will re-generate all the static HTML pages
 
 Author: Katherine Huang
 Contact: khhuang@broadinstitute.org
------------------------------------------------------------------------------------------
-TODO:
-
 """
-__author__ = "Katherine Huang"
 
 import sys, os
 from xml.dom.minidom import parseString
 
-# import In-house modules
-#import utils
-
-#import bioUtils
-# BioPython v1.55
-#sys.path.append("/home/radon00/khhuang/python/lib/lib64/python") #this is where BioPython 1.55 is
-#from Bio import SeqIO
-
 # Global variables
-HOME_DIR = "/afs/athena.mit.edu/org/a/almlab/web_scripts"
+this_dir = os.path.dirname(os.path.realpath(__file__))
+HOME_DIR = os.path.join(this_dir, "..")
 WORK_DIR = HOME_DIR
 XML_DIR = "%s/xml" %(WORK_DIR)
 HTML_TEMPLATE_FILE = "%s/templates/almSite.template.html" %(WORK_DIR)
