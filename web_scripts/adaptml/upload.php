@@ -69,6 +69,7 @@ $target_path .= $folder.'/';
 // $target_path should now be /mit/almlab/adaptmloutput/2345/
 
 // Make a folder for the adaptml directory
+echo $target_path;
 mkdir($target_path);
 chmod($target_path, 0777);
 
