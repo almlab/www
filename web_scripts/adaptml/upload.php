@@ -1,4 +1,4 @@
-<?php 
+<?php
 $title='AdaptML Uploading';
 require("include/header.php");
 ?>
@@ -100,6 +100,10 @@ if($email !=''){
     fwrite($fh, $stringData);
     fclose($fh);
 }
+
+//Delete runs older than 14 days
+$command = "find /mit/almlab/adaptmloutput/ -mtime +14 -regex \"[a-z/]*[0-9]+\" -exec rm -r {} \;";
+shell_exec($command);
 ?>
 
 <i>Send support requests and feedback to
