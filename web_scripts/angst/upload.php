@@ -83,8 +83,8 @@ if($email !=''){
     fclose($fh);
 }
 
-//Delete runs older than 14 days
-$command = "find /mit/almlab/angstoutput/ -mtime +14 -regex \"[a-z/]*[0-9]+\" -exec rm -r {} \;";
+//Delete runs older than 2 days
+$command = "find /mit/almlab/angstoutput/ -mtime +2 -regex \"[a-z/]*[0-9]+\" -exec rm -r {} \;";
 shell_exec($command);
 ?>
 
