@@ -84,7 +84,7 @@ if($email !=''){
 }
 
 //Delete runs older than 2 days
-$command = "find /mit/almlab/angstoutput/ -mtime +2 -regex \"[a-z/]*[0-9]+\" -exec rm -r {} \;";
+$command = "find /mit/almlab/angstoutput/ -maxdepth 1 -mtime +2 | grep -v emaillist | grep -v placeholder | xargs rm -r";
 shell_exec($command);
 ?>
 
