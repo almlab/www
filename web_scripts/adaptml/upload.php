@@ -1,4 +1,4 @@
-<?php 
+<?php
 $title='AdaptML Uploading';
 require("include/header.php");
 ?>
@@ -69,7 +69,6 @@ $target_path .= $folder.'/';
 // $target_path should now be /mit/almlab/adaptmloutput/2345/
 
 // Make a folder for the adaptml directory
-echo $target_path;
 mkdir($target_path);
 chmod($target_path, 0777);
 
@@ -101,6 +100,10 @@ if($email !=''){
     fwrite($fh, $stringData);
     fclose($fh);
 }
+
+//Delete runs older than 2 days
+$command = "find /mit/almlab/adaptmloutput/ -maxdepth 1 -mtime +2 | grep -v emaillist | grep -v placeholder | xargs rm -r";
+shell_exec($command);
 ?>
 
 <i>Send support requests and feedback to

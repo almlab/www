@@ -41,7 +41,7 @@ if(file_exists($_FILES['genetreefile']['tmp_name'])){
 }
 
 //Make penalty text
-$penaltytext = 
+$penaltytext =
 "hgt: $hgt
 dup: $dup
 los: $los
@@ -53,7 +53,7 @@ if($ultrametric){
 }else{
     $ultrametric = 'False';
 }
-$inputtext = 
+$inputtext =
 "species=/mit/almlab/angstoutput/$folder/species.tree
 boots=/mit/almlab/angstoutput/$folder/gene.tree
 ultrametric=$ultrametric
@@ -82,6 +82,10 @@ if($email !=''){
     fwrite($fh, $stringData);
     fclose($fh);
 }
+
+//Delete runs older than 2 days
+$command = "find /mit/almlab/angstoutput/ -maxdepth 1 -mtime +2 | grep -v emaillist | grep -v placeholder | xargs rm -r";
+shell_exec($command);
 ?>
 
 <br />
@@ -92,7 +96,7 @@ http://almlab.mit.edu/angst/status.php?folder=<?php echo $folder;?><br /><br />
 <b>Do Not Refresh This Page</b><br /><br />
 You will be redirected to the status page in five seconds<br /><br />
 
-<i>Send support requests and feedback to 
+<i>Send support requests and feedback to
 <?php echo obfuscateEmail('angst@mit.edu'); ?>
 </i><br /><br />
 

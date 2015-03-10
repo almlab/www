@@ -1,7 +1,15 @@
+# Python
 *py~
+*pyc
 
+# Generated HTML
 *.html
 
-*pyc
+# Adaptml & AnGST servers
 adaptmloutput/*
 angstoutput/*
+
+# Scripts server
+.my.cnf
+.sql
+web_scripts_tmp/*
