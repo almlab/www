@@ -6,6 +6,34 @@
     <rightPane></rightPane>
     <midPane>
     <h3>Software</h3>
+
+    <div id="leftTool">
+        <h4>TEXMEx (Mar 2015)</h4>
+        Scott Olesen<br />
+
+        Visualizing microbial community dyanmics.<br/>
+        <a href="texmex.html">Read more...</a><br/><br/>
+        <img src="img/texmex.png" width="100" alt="texmex"/>
+    </div>
+
+    <div id="leftTool">
+        <h4>Mystic (Sep 2014)</h4>
+                Scott Olesen and Sarah Preheim<br />
+
+                Inferred biomass biogeochemical model of Mystic Lake.<br/>
+                <a href="mystic.html">Read more...</a><br/><br/>
+                <img src="img/mystic.jpg" width="250" alt="mystic"/>
+
+    </div>
+
+    <div id="leftTool">
+        <h4>Distribution-based clustering (Sep 2014)</h4>
+                Sarah Preheim<br />
+
+                Calling ecologically-informed operational taxonomic units.<br/>
+                <a href="dbc.html">Read more...</a><br/><br/>
+                <img src="img/dbc.png" width="250" alt="dbc"/>
+    </div>
     <div id="leftTool">
     <h4>symsim 12/05/2012</h4>
         Jesse Shapiro<br/>
@@ -53,24 +81,6 @@
 
     </div>
 
-    <div id="leftTool">
-        <h4>Mystic (Sep 2014)</h4>
-                Scott Olesen and Sarah Preheim<br />
-
-                Inferred biomass biogeochemical model of Mystic Lake.<br/>
-                <a href="mystic.html">Read more...</a><br/><br/>
-                <img src="img/mystic.jpg" width="250" alt="mystic"/>
-
-    </div>
-
-    <div id="leftTool">
-        <h4>Distribution-based clustering (Sep 2014)</h4>
-                Sarah Preheim<br />
-
-                Calling ecologically-informed operational taxonomic units.<br/>
-                <a href="dbc.html">Read more...</a><br/><br/>
-                <img src="img/dbc.png" width="250" alt="dbc"/>
-    </div>
 
     </midPane>
     <footer>

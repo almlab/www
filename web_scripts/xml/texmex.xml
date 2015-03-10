@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Software: TEXMEX</Title>
+
+    <contentPane>
+
+    </contentPane>
+
+    <rightPane>
+
+    </rightPane>
+    <midPane>
+    <br/>
+    <h4>TEXMEX</h4>
+    <h5>Treatment Effect eXplorer for Microboal Ecology eXperiments</h5>
+
+    <div id="software">
+    by Scott W Olesen and Eric J Alm<br/>
+    <img class="floatRight" src="img/texmex.png" alt="texmex"/>
+    </div>
+    <div id="softwareMed">
+    DESCRIPTION <br/>
+    TEXMEX is an R package designed to help visualize and interpret community dynamics observed
+    in microbial ecology experiments that use sequencing count data. Given one inoculum split
+    into two replicates, one control and one experimental, which OTUs are growing or shrinking
+    in response to the treatment? TEXMEX is designed to help account for changes in the control
+    unit's community composition as well as dampen compositional effects that might occur in
+    either unit.
+    <p/>
+
+    REFERENCE <br/>
+    (manuscript in preparation)
+    <p/>
+
+    SOURCE <br/>
+    The source for the model run in the paper: <br/>
+    (a link to CRAN upcoming)<br/>
+    (a link to the Alm lab github upcoming)<br/>
+    <p/>
+
+    </div>
+    </midPane>
+    <footer>
+
+    </footer>
+</Document>
