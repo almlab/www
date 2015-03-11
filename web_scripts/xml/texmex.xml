@@ -28,14 +28,19 @@
     either unit.
     <p/>
 
+    INSTALLATION<br/>
+    You can install this package in R using <code>install.packages('texmexseq')</code>. The
+    package includes demos and an example data set.
+    <p/>
+
     REFERENCE <br/>
     (manuscript in preparation)
     <p/>
 
     SOURCE <br/>
     The source for the model run in the paper: <br/>
-    (a link to CRAN upcoming)<br/>
-    (a link to the Alm lab github upcoming)<br/>
+    <a href="http://cran.r-project.org/web/packages/texmexseq/index.html">CRAN page</a><br/>
+    <a href="http://www.github.com/almlab/texmexseq">github page</a><br/>
     <p/>
 
     </div>
