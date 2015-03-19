@@ -9,19 +9,27 @@
         <img class="floatRight" src="img/scotto_3.png" width="200" alt="scott_1"/> <!--must store the image file in img folder-->
         <h4>Research Interests</h4>
         <p align="justify">
-        Microbial metabolisms transform the world around us, mediating key geochemical cycles and even determining
-        human scent. I combine experimental design and computational techniques to assess and engineer the role of
-        microbes in the environment and the human microbiome. My interests include:
+            My completed projects involved designing hypothesis-driven computational methods to glean more information from
+            bacterial taxonomic survey data than comes across in standard analyses.
         <ul class="square">
-            <li>Biodegradation of petroleum</li>
-            <li>Bioremediation of radionuclides</li>
+            <li>In microbial ecology experiments, it's important to include a control, since there are "bottle effects"
+                that can make the results difficult to interpret. I designed a <a href="../texmex.html">method</a> for
+                normalizing OTU count data and visualizing community dynamics while taking account of bottle effects.</li>
+            <li>In natural ecosystems, it can be difficult to determine ecological relationships. Microbial ecology has
+                historically relied on co-cultures of known laboratory strains. In one of my <a href="../mystic.html">projects</a>,
+                I made a model of microbial metabolism in a complex ecosystem and linked that to a taxonomic survey to
+                infer relationships between bacteria <i>in situ</i>.</li>
+        </ul></p>
+        <p align="justify">
+        And I have a lot of other interests!
+        <ul class="square">
             <li>Environmental microbial ecology</li>
             <li>Human skin flora</li>
+            <li>Relationships between human gut microbotia and human immune cell repetoires</li>
+            <li>Experimental design</li>
         </ul>
         </p>
-
         <img class="floatLeft" src="img/scotto_1.jpg" width="200" alt="scott_2"/>
-        <p/>
 
     </div>
     </contentPane>
@@ -31,7 +39,7 @@
         <div id="memberDir">
 
         <h4>Scott Olesen</h4>
-        Graduate Student, Biological Engineering<br/>
+        PhD candidate, Biological Engineering<br/>
         <br/>
         swo at mit dot edu<br/>
         <a href="http://www.scottolesen.com">scottolesen.com</a><br/>
