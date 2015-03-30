@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Nathaniel D. Chu </Title>
+
+    <contentPane>
+    <h3>Nathaniel D. Chu</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/nathaniel_chu1.jpg" width="150" alt="Nathaniel"/>
+        I am fascinated by two questions: What processes govern the evolution and ecology of microbial communitites? And how can we harness these processes to create practical solutions to problems in human and ecological health? Using experimental and computational tools, my research includes developing new metagenomic sequencing techniques, studying mechanisms of rapid adaptation, and designing therapeutics for gut-related diseases.
+
+        Besides research, I love backpacking, mountaineering, and photography. For more information about my research, publications, and hobbies, please see <a href="https://nathanieldavidchu.wordpress.com">my website</a>.
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/nathaniel_chu2.jpg" width="150" alt="Nathaniel"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Nathaniel D. Chu</h4>
+        PhD Student, Microbiology Graduate Program<br/>
+        ndchu at mit dot edu<br/>
+        https://nathanieldavidchu.wordpress.com/<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Fulbright Fellow, Smithsonian Tropical Research Institute, Bocas Del Toro, Panama, 2013</li>
+        <li>BS, Biology, Brown University, 2012</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/nathaniel_chu3.jpg" width="150" alt="Nathaniel"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

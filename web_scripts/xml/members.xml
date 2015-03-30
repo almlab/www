@@ -113,6 +113,15 @@
     
     <h4>Graduate Students</h4>
     <div id="member">
+        <img class="floatLeft" src="img/nathaniel_chu1.jpg" width="150" alt="Nathaniel"/>
+        <font class="fontTitle">Nathaniel Chu</font><br/>
+        I am fascinated by two questions: What processes govern the evolution
+        and ecology of microbial communitites? And how can we harness these 
+        processes to create practical solutions to problems in human and 
+        ecological health? <a href="nathaniel_chu.html">Read more</a>
+    </div>
+
+    <div id="member">
         <img class="floatLeft" src="img/SeanPhoto1.jpg" width="150" alt="seanKearny"/>
         <font class="fontTitle">Sean Kearney</font><br/>
         Microbes rule the world; our very existence is dependent on the once
@@ -186,6 +195,7 @@
          <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
          <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
          <li><a href="ilana_brito.html" class="nodec">Ilana Brito</a></li>
+         <li><a href="nathaniel_chu.html" class="nodec">Nathaniel Chu</a></li>
          <li><a href="saclarke.html" class="nodec">Sean Clarke</a></li>
          <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
          <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
