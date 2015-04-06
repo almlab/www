@@ -7,9 +7,16 @@
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/nathaniel_chu1.jpg" width="150" alt="Nathaniel"/>
-        I am fascinated by two questions: What processes govern the evolution and ecology of microbial communitites? And how can we harness these processes to create practical solutions to problems in human and ecological health? Using experimental and computational tools, my research includes developing new metagenomic sequencing techniques, studying mechanisms of rapid adaptation, and designing therapeutics for gut-related diseases.
+        I am fascinated by two questions: What processes govern the evolution 
+        and ecology of microbial communities? And how can we harness these processes 
+        to create practical solutions to problems in human and ecological health? 
+        Using experimental and computational tools, my research includes developing 
+        new metagenomic sequencing techniques, studying mechanisms of rapid adaptation, 
+        and designing therapeutics for gut-related diseases.
 
-        Besides research, I love backpacking, mountaineering, and photography. For more information about my research, publications, and hobbies, please see <a href="https://nathanieldavidchu.wordpress.com">my website</a>.
+        Besides research, I love backpacking, mountaineering, and photography. For 
+        more information about my research, publications, and hobbies, please see 
+        <a href="https://nathanieldavidchu.wordpress.com">my website</a>.
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatLeft" src="img/nathaniel_chu2.jpg" width="150" alt="Nathaniel"/>
