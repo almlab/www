@@ -131,6 +131,16 @@
         how microorganisms influence evolution and ecology over vast temporal
         and spatial scales.... <a href="skearney.html">Read more</a>
     </div>
+
+    <div id="member">
+        <img class="floatLeft" src="img/lttu_nguyen0.jpg" width="150" alt="tu"/>
+        <font class="fontTitle">Tu Nguyen</font><br/>
+        Our body is in constant interaction with the microbial communities inhabiting 
+        not only our gastrointestinal tract but also our respiratory system, skin 
+        and the reproductive tissues. These diverse microbial communities outnumber 
+        our own cells by a 10 to 1 ratio and have been increasingly reported to 
+        play important roles in human health and diseases... <a href="lttu_nguyen.html">Read more</a>
+    </div>
      
     <div id="member">
         <img class="floatLeft" src="img/scotto_3.png" width="150" alt="scott"/>
@@ -202,7 +212,7 @@
          <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
          <li><a href="thomas_gurry.html" class="nodec">Thomas Gurry</a></li>
          <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
-         <li>Tu Nguyen</li>
+         <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
          <li><a href="scott_olesen.html" class="nodec">Scott Olesen</a></li>
          <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
          <li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Le Thanh Tu Nguyen </Title>
+
+    <contentPane>
+    <h3>Le Thanh Tu Nguyen</h3>
+        <div id="member">
+        <img class="floatRight" src="img/lttu_nguyen1.jpg" width="150" alt="tu_1"/>
+        <h4>Research Interests</h4>
+        Our body is in constant interaction with the microbial communities inhabiting 
+        not only our gastrointestinal tract but also our respiratory system, skin 
+        and the reproductive tissues. These diverse microbial communities outnumber 
+        our own cells by a 10 to 1 ratio and have been increasingly reported to 
+        play important roles in human health and diseases. I am interested in studying 
+        how our body and our immune system in particular respond to the environmental 
+        factors in orchestration with the microbiome.  I am developing an analytics 
+        platform that will allow us to study the communication between the human 
+        body and its microbiomes across many different physiological samples. 
+       <br/>
+           
+        <img class="floatLeft" src="img/lttu_nguyen2.jpg" width="150" alt="tu_2"/>
+        <p/>
+    </div>
+    </contentPane>
+
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Le Thanh Tu Nguyen</h4>
+        PhD candidate, Biological Engineering<br/>
+        lttnguye at mit dot edu<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>MA, Bioengineering, Swiss Federal Institute of Technology Lausanne - EPFL. 2011</li>
+        <li>BA, Life Sciences and Technology, Swiss Federal Institute of Technology - EPFL. 2009</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/lttu_nguyen3.jpg" width="150" alt="tu_3"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
