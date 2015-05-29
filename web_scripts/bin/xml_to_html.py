@@ -35,7 +35,10 @@ def xml_to_html(xml_txt, template_txt, html_fn):
         try:
             paneDom = xdom.getElementsByTagName(xmlTag)[0].toxml().replace(openTag, "").replace(closeTag, "") # itself an xdom object
             html_txt = html_txt.replace("_%s_" %(xmlTag), paneDom)
-            #html_txt = html_txt.encode('ascii', 'ignore')
+
+            if type(html_txt) is unicode:
+                # if this is python2, we need to convert from unicode to string
+                html_txt = html_txt.encode('ascii', 'ignore')
         except:
             pass
 
