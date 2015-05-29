@@ -1,7 +1,7 @@
 # user-defined variables
 SOURCE_DIR=xml
 OUTPUT_DIR=.
-SCRIPT=script/xml_to_html.py
+SCRIPT=bin/xml_to_html.py
 HTML_TEMPLATE=templates/almSite.template.html
 
 # find all the xml files. then make up the html names by replacing .xml->.html

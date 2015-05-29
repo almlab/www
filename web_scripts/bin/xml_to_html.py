@@ -10,7 +10,8 @@ import sys, os, argparse, re
 from xml.dom.minidom import parseString
 
 def xml_to_html(xml_txt, template_txt, html_fn):
-    '''xml and template to new html
+    '''
+    xml and template to new html
     
     parameters
     xml_txt : str
@@ -34,11 +35,11 @@ def xml_to_html(xml_txt, template_txt, html_fn):
         try:
             paneDom = xdom.getElementsByTagName(xmlTag)[0].toxml().replace(openTag, "").replace(closeTag, "") # itself an xdom object
             html_txt = html_txt.replace("_%s_" %(xmlTag), paneDom)
-            html_txt = html_txt.encode('ascii', 'ignore')
+            #html_txt = html_txt.encode('ascii', 'ignore')
         except:
             pass
 
-    html_txt = html_txt.replace('class="menu" href="%s"' %(html_fn), 'class="current" href="%s"' %(html_fn))
+    html_txt = html_txt.replace('class="menu" href="{}"'.format(html_fn), 'class="current" href="{}"'.format(html_fn))
     return html_txt
 
 if __name__== '__main__':
