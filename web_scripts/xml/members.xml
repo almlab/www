@@ -22,7 +22,7 @@
         <a href="ealm.html">Read more</a>
     </div>
     <hr />
-    <h4>Postdoc</h4>
+    <h4>Postdocs</h4>
 
     <div id="member">
         <img class="floatLeft" src="img/ilana_brito1.jpg" width="150" alt="Ilana"/>
@@ -59,6 +59,15 @@
          in integrating different types of physiological data that have been collected 
          in a continuous fashion, including data pertaining to the microbiome... <a href="thomas_gurry.html">Read more</a>
      </div>
+
+      <div id="member">
+          <img class="floatLeft" src="img/tami_lieberman1.jpg" width="150" alt="tami"/>
+          <font class="fontTitle">Tami Lieberman</font><br/>
+          During my doctoral research in Roy Kishony's lab, I developed new genomic approaches
+          for understanding how bacteria evolve during infections of individual people.
+          I also studied antibiotic resistance and microbial evolution more broadly,
+          using my favorite tools of experimental evolution and genomic sequencing. <a href="tami_lieberman.html">Read more</a>
+      </div>
 
       <div id="member">
           <img class="floatLeft" src="img/josh_michener0.jpg" width="150" alt="josh"/>
@@ -211,6 +220,7 @@
          <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
          <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
          <li><a href="thomas_gurry.html" class="nodec">Thomas Gurry</a></li>
+         <li><a href="tami_lieberman.html" class="nodec">Tami Lieberman</a></li>
          <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
          <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
          <li><a href="scott_olesen.html" class="nodec">Scott Olesen</a></li>
