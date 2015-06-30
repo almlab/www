@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Claire Duvallet </Title>
+
+    <contentPane>
+    <h3>Claire Duvallet</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/claire_duvallet1.jpg" width="150"/>
+        <h4>Research Interests</h4>
+Studying the relationships between the microbiome, health, and lifestyle provides incredible opportunities for translational medical discoveries and public health impacts. I'm excited by the possibility of using various physiological data to predict disease states, both on the individualized and broader community levels. In particular, I am involved in developing a personalized analytics platform that collects data from a patient's microbiome, immune system, and metabolome to identify biomarkers to improve the management and treatment of chronic disease. Additionally, I am interested in looking at biomarkers in sewage to predict and track disease outbreaks and extract information about a city's overall health.
+        <!-- if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. -->
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/claire_duvallet2.jpg" width="150"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Claire Duvallet</h4>
+        Graduate Student<br/>
+        Department of Biological Engineering<br/>
+        duvallet at mit.edu<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Henry Luce Foundation Scholar, Engineering World Health Cambodia, 2013-2014</li>
+        <li>BS, Biomedical Engineering, 2013</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/claire_duvallet3.jpg" width="150" alt="claire"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
