@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Getting to the Alm Lab</Title>
+
+    <contentPane>
+        <h2>Getting There</h2>
+
+    <h3>Getting inside Tech Square</h3>
+    <img src="img/map/tech_square.png"/>
+    <p>Go to 500 Technology Square, Cambridge (MIT Building NE47).
+        <ul class="square">
+            <li>There is a cafe/pizzeria Area 4 on Main Street. This cafe is attached to
+                Tech Square, but you cannot enter Tech Square from inside the cafe.</li>
+            <li>From the green quad, go inside the entrance marked "500".</li>
+            <li>Walk into the center of the building; take the elevator up.</li>
+        </ul>
+    </p>
+
+    <h3>To Eric's office</h3>
+    <p>Eric's office is NE47-379.
+        <ul class="square">
+            <li>Take the elevator to the third floor.</li>
+            <li>There are four doors. Two lead to labs; two are glass. Facing the glass
+                doors, go through the right glass door.</li>
+            <li>Turn right down the hallway. Eric's door is on the left, number 379.</li>
+        </ul>
+    </p>
+
+    <h3>To the 3rd floor conference room</h3>
+    <p>The conference room is near the kitchen.
+        <ul class="square">
+            <li>Take the elevator to the third floor.</li>
+            <li>There are four doors. Two lead to labs; two are glass. Facing the glass
+                doors, go through the left glass door.</li>
+            <li>Straight ahead there is a kitchen. Go into the kitchen.</li>
+            <li>The room that's now behind you has a big sliding door. That's the conference room.</li>
+        </ul>
+    </p>
+
+</contentPane>
+
+<rightPane>
+</rightPane>
+
+<midPane>
+</midPane>
+
+<footer>
+</footer>
+
+</Document>
