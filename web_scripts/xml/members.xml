@@ -152,6 +152,16 @@
     </div>
 
     <div id="member">
+        <img class="floatLeft" src="img/mariana_matus1.jpg" width="150" alt="marianaMatus"/>
+        <font class="fontTitle">Mariana Matus</font><br/>
+        My research aims to mine health data from human waste to better
+        inform personal- and community-level health practices through three
+        major projects: (1) personal analytics of ulcerative colitis patients,
+        (2) Underworlds: Smart Sewers, and (3) salt, microbiome, and hypertension.
+        <a href="mariana_matus.html">Read more</a>
+    </div>
+
+    <div id="member">
         <img class="floatLeft" src="img/lttu_nguyen0.jpg" width="150" alt="tu"/>
         <font class="fontTitle">Tu Nguyen</font><br/>
         Our body is in constant interaction with the microbial communities inhabiting 
@@ -232,6 +242,7 @@
          <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
          <li><a href="thomas_gurry.html" class="nodec">Thomas Gurry</a></li>
          <li><a href="tami_lieberman.html" class="nodec">Tami Lieberman</a></li>
+         <li><a href="mariana_matus.html" class="nodec">Mariana Matus</a></li>
          <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
          <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
          <li><a href="scott_olesen.html" class="nodec">Scott Olesen</a></li>

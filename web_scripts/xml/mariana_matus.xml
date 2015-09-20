@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Mariana G. Matus</Title>
+
+    <contentPane>
+    <h3>Mariana G. Matus</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/mariana_matus1.jpg" width="150" alt="[mouseover text 1]"/>
+        <h4>Research interests</h4>
+
+        <p align="justify"> My research aims to mine health data from human waste to better inform personal- and community-level health practices: </p>
+        
+        <h5 style="text-align: justify;"><strong>Personal Analytics of Ulcerative Colitis Patients</strong></h5>
+        <p style="text-align: justify;">As part of the flagship project of the newly-founded <a href="http://microbiome.mit.edu">Center for Microbiome Informatics and Therapeutics</a>, we are setting up studies to discover low-cost non-invasive predictive biomarkers of relapse in ulcerative colitis patients.</p>
+
+        <h5 style="text-align: justify;"><strong>Underworlds: Smart Sewers</strong></h5>
+        <p style="text-align: justify;">In this collaborative project with Senseable City Lab, <a href="http://underworlds.mit.edu" target="_blank">Underworlds</a> aims to establish the methods to leverage sewage networks to do epidemiology and inform public health decisions.</p>
+
+        <h5 style="text-align: justify;"><strong>Salt, Microbiome and Hypertension
+        </strong></h5>
+        <p style="text-align: justify;">We are investigating the relationship between high salt diet, microbiome and hypertension in a mouse model, in collaboration with clinical researchers from the Max-Delbruck Centre in Berlin.</p>
+
+        
+        <!-- <h4>Past life</h4> if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. -->
+
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/mariana_matus2.jpg" width="150" alt="image 2"/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Mariana G. Matus</h4>
+        Graduate student Computational and Systems Biology<br/>
+        mgmatus at mit dot edu<br/>
+        http://mgmatus.scripts.mit.edu/blog<br/>
+        <p></p>
+
+        <h4>Education</h4>
+        <ul>
+        <li>M.Sc. Biotechnology, Wageningen University, 2012</li>
+        <li>B.Sc Genomics, UNAM Mexico, 2009</li>
+        </ul>
+        <p></p>
+        <img class="floatRight" src="img/mariana_matus3.jpg" width="150" alt="(image3)"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
