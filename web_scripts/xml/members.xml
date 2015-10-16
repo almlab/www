@@ -210,7 +210,6 @@
         <a href="sspencer.html">Read more</a>
     </div>
 
-
     <div id="member">
         <img class="floatLeft" src="img/joy_yang1.jpg" width="150" alt="yang"/>
         <font class="fontTitle">Joy Yang</font><br/>
@@ -219,6 +218,16 @@
         to study the effect of the intricate interactions among host, bacteria,
         and mobile genetic elements such as phage and plasmids on disease.
         <a href="joy_yang.html">Read more</a>
+    </div>
+
+    <div id="member">
+        <img class="floatLeft" src="img/shijie_zhao1.jpg" width="150" alt="jay"/>
+        <font class="fontTitle">Shijie (Jay) Zhao</font><br/>
+        The sequencing revolution has immense promises for improving human
+        health. In the Alm lab, I have the opportunity to apply cutting edge
+        genomic technique to study the interplay of microbes and human diseases.
+        One of my current work is to study fecal microbiota transplant...
+        <a href="shijie_zhao.html">Read more</a>
     </div>
     
     
@@ -255,7 +264,7 @@
          <li><a href="joy_yang.html" class="nodec">Joy Yang</a></li>
          <li><a href="avihuYona.html" class="nodec">Avihu Yona</a></li>
          <li>Annie Yu</li>
-         <li>Shijie (Jay) Zhao</li>
+         <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
     </ul>
     </div>
     <br/>

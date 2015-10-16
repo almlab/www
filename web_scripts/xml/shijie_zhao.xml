@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Shijie (Jay) Zhao </Title>
+
+    <contentPane>
+    <h3>Shijie (Jay) Zhao</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/shijie_zhao1.jpg" width="150" alt="top of the Met"/>
+        <h4>Research Interests</h4>
+       <!--  <h5>[subheading, if you need it]</h5> -->
+       	The sequencing revolution has immense promises for improving human health. In the Alm lab, I have the opportunity to apply cutting edge genomic technique to study the interplay of microbes and human diseases. One of my current work is to study the mechanism of how fecal microbiota transplant treated recurrent Clostridium difficile infection, from an ecological perspective. I am also interested in diving into the metagenomics data to characterize the dynamics of perturbed microbiome, and trying to find biomarkers for easy diagnostics. Moreover, I am involved in the Personal analytics project, which collects time-series orthogonal physiological data to enhance our understandings of chronic diseases.
+        <!-- if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. -->
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/shijie_zhao2.jpg" width="150" alt="Delphi"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Shijie (Jay) Zhao</h4>
+        Graduate Student<br/>
+        shijie at mit dot edu <br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>BS, Biological Sciences, Peking University.</li>
+        </ul>
+        <p/>
+        
+        <img class="floatRight" src="img/shijie_zhao3.jpg" width="150" alt="just a girl and her car"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
