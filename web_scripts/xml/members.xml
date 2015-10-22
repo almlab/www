@@ -41,6 +41,15 @@
     environmental change, the metabolic machinery required for different feeding
     strategies, and how microbes adapt and evolve various lifestyles... <a href="corzett.html">Read more</a>
     </div>
+
+     <div id="member">
+         <img class="floatLeft" src="img/sean_gibbons1.png" width="150" alt="sean"/>
+         <font class="fontTitle">Sean Gibbons</font><br/>
+         Microorganisms form the foundation of all ecosystems on Earth and are 
+         responsible for driving the major biogeochemical cycles. From generating 
+         the air that we breathe and the food that we eat, to maintaining our health 
+         and well-being, microbial communities are essential components of the biosphere. <a href="sean_gibbons.html">Read more</a>
+     </div>
    
      <div id="member">
          <img class="floatLeft" src="img/groussin1.jpg" width="150" alt="mathieu"/>
@@ -247,9 +256,10 @@
          <li><a href="saclarke.html" class="nodec">Sean Clarke</a></li>
          <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
          <li><a href="claire_duvallet.html" class="nodec">Claire Duvallet</a></li>
+         <li><a href="sean_gibbons.html" class="nodec">Sean Gibbons</a></li>
          <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
-         <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
          <li><a href="thomas_gurry.html" class="nodec">Thomas Gurry</a></li>
+         <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
          <li><a href="tami_lieberman.html" class="nodec">Tami Lieberman</a></li>
          <li><a href="mariana_matus.html" class="nodec">Mariana Matus</a></li>
          <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>

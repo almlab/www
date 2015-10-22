@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Sean Gibbons </Title>
+
+    <contentPane>
+    <h3>Sean Gibbons</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/sean_gibbons1.png" width="150"/>
+        <h4>Research Interests</h4>
+        Microorganisms form the foundation of all ecosystems on Earth and are responsible for driving the major biogeochemical cycles. From generating the air that we breathe and the food that we eat, to maintaining our health and well-being, microbial communities are essential components of the biosphere. Due to their size and rapid generation times, microbial ecosystems are perfect models for tackling complex ecological or evolutionary questions. My work exploits microbial systems to gain quantitative insight into the rules underlying ecological community assembly, stability, and ecosystem function.
+        
+        <br/><br/>
+        <h4>Current Research</h4>
+		My current work focuses on understanding the dynamics of human gut microbial communities. I am particularly interested in how changes in microbial frequencies covary within a fluctuating environment, and how these correlations are related to phylogenetic distance or life history strategies. I am also working in a mouse gut model to understan how gut community resilience and resistance to pathogen invasion is eroded by enviromental perturbations (e.g. antibiotic treatments or changes in diet).
+        <!-- if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. -->
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/sean_gibbons2.png" width="150" alt="image 2"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Sean Gibbons</h4>
+        Postdoctoral Associate<br/>
+        Biological Engineering<br/>
+        sgibbons [at] mit [dot] edu<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>PhD, biophysics, University of Chicago, 2015</li>
+        <li>MSc, microbiology, Uppsala University, 2010</li>
+        <li>BA, BSc, BA, molecular biology, microbiology, and French, University of Montana, 2008</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/sean_gibbons3.png" width="150"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
