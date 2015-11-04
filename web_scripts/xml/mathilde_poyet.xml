@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Mathilde Poyet </Title>
+
+    <contentPane>
+    <h3>Mathilde Poyet</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/mathilde_poyet2.jpg" width="150" alt="Mathilde Poyet 2"/>
+        <h4>Research Interests</h4>
+        I am an ecologist with a special interest in biological communities. During my
+        PhD, I characterized the invasion processes of an insect (<i>Drosophila suzukii</i>)
+        and its impact on the invaded communities at different levels of organization.
+        Now, I keep on studying community and ecosystem stability with a particular
+        focus on the bacterial communities (microbiota) living in and on animals.
+        <p/>
+
+		<h4>Current projects</h4>
+        So far, the great majority of gut microbes have not been cultured in
+        laboratory. My project aims at building comprehensive libraries of pure culture
+        covering the breadth of bacterial strains contained within several human guts.
+        Using recreated complex communities from my libraries, I will test different
+        hypotheses on the structure, stability, resilience and resistance of gut
+        communities.
+        <p/>
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/mathilde_poyet3.jpg" width="150" alt="Mathilde Poyet 3"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Mathilde Poyet</h4>
+        Postdoctoral Associate<br/>
+        mpoyet at mit dot edu<br/>
+        <li>My <a href="https://www.researchgate.net/profile/Mathilde_Poyet">Researchgate</a> profile.</li><br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Ph.D., Community Ecology and Biological invasions, University of Lyon 1, France  <a href="http://lbbe.univ-lyon1.fr/?lang=en">Biometrie and Evolutionary Biology Laboratory</a>. 2014.</li>
+        <li>B.S., Ecosystems, <a href="https://www.u-picardie.fr/university-of-picardy-jules-verne-110990.kjsp">Picardie - Jules Verne University, France</a>. 2011.</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/mathilde_poyet4.jpg" width="150" alt="Mathilde Poyet 4"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

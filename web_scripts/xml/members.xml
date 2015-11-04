@@ -87,6 +87,16 @@
           and host have co-evolved to minimize deleterious interactions... <a href="josh_michener.html">Read more</a>
       </div>
 
+      <div id="member">
+          <img class="floatLeft" src="img/mathilde_poyet1.jpg" width="150" alt="mathilde"/>
+          <font class="fontTitle">Mathilde Poyet</font><br/>
+          I am an ecologist with a special interest in biological communities. 
+          During my PhD, I characterized the invasion processes of an insect 
+          (<i>Drosophila suzukii</i>) and its impact on the invaded communities at different 
+          levels of organization. Now, I keep on studying community and ecosystem stability...
+          <a href="mathilde_poyet.html">Read more</a>
+      </div>
+
     <div id="member">
         <img class="floatLeft" src="img/1_Mark_Smith.jpeg" width="150" alt="smith"/>
         <font class="fontTitle">Mark Smith</font><br/>
@@ -266,6 +276,7 @@
          <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
          <li><a href="scott_olesen.html" class="nodec">Scott Olesen</a></li>
          <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
+         <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
          <li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>
          <li><a href="mbsmith.html" class="nodec">Mark Smith</a></li>
          <li><a href="sspencer.html" class="nodec">Sarah Spencer</a></li>
