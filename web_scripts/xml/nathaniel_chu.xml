@@ -7,15 +7,15 @@
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/nathaniel_chu1.jpg" width="150" alt="Nathaniel"/>
-        I am fascinated by two questions: What processes govern the evolution 
-        and ecology of microbial communities? And how can we harness these processes 
-        to create practical solutions to problems in human and ecological health? 
-        Using experimental and computational tools, my research includes developing 
-        new metagenomic sequencing techniques, studying mechanisms of rapid adaptation, 
-        and designing therapeutics for gut-related diseases.
-
-        Besides research, I love backpacking, mountaineering, and photography. For 
-        more information about my research, publications, and hobbies, please see 
+ I am fascinated by two questions: What processes govern the evolution and ecology of microbial communities? 
+And how can we harness these processes to create practical solutions to problems in human and ecological health? 
+Toward this end, I am currently investigating the connections between our gut microbes and behavior: the "gut-brain axis." 
+In particular, what biochemical and ecological mechanisms underpin the comorbidity of gastrointestinal disorders, metabolic 
+diseases (e.g., obesity and diabetes), and behavioral disorders (e.g., depression and anxiety)? 
+Working with collaborators from MIT and private biotechnology companies, I am using experimental and computational tools to 
+discover new targets and pathways for treating these disease families. I am also developing new tools to improve therapies 
+involving fecal microbiota transplants and studying hypermutation in marine microbial communities. 
+Besides science, I get excited about alpinism, outdoor education, and environmental conservation. For more information, please see. 
         <a href="https://nathanieldavidchu.wordpress.com">my website</a>.
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
