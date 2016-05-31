@@ -128,6 +128,8 @@
 
     </div>  
      <hr/>
+
+     <!--
     <h4>Staff</h4>
     <div id="member">
         <img class="floatLeft" src="img/antolik1.jpg" width="150" alt="seanClarke"/>
@@ -138,6 +140,7 @@
         specialized equipment such as our Bioanalyzer and liquid handling robot.... <a href="antolik.html">Read more</a>
     </div>
     <hr/>
+    -->
     
     <h4>Graduate Students</h4>
     <div id="member">
@@ -260,7 +263,6 @@
     <div id="memberDir">
     <ul>
          <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
-         <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
          <li><a href="ilana_brito.html" class="nodec">Ilana Brito</a></li>
          <li><a href="nathaniel_chu.html" class="nodec">Nathaniel Chu</a></li>
          <li><a href="saclarke.html" class="nodec">Sean Clarke</a></li>
@@ -292,6 +294,7 @@
     Former Members
     <div id="memberDir">
     <ul>
+    <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
     <li><a href="http://www.engr.uconn.edu/~mukul/ " class="external">Mukul Bansal</a></li>    
     <li><a href="http://microfluidics.epfl.ch/twiki/bin/view/MaerklLab/LbncPeople" class="external">Matthew Blackburn</a></li>
     <li><a href="franciscocamas.html" class="nodec">Francisco Camas</a></li>
