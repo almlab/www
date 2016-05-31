@@ -1,10 +1,10 @@
-<?php 
+<?php
 $title="AnGST Web Server";
 require("include/header.php");
 ?>
 <center><h3>AnGST Uploader</h3></center>
 
-<i>Send support requests and feedback to 
+<i>Send support requests and feedback to
 <?php echo obfuscateEmail('angst@mit.edu');?>
 </i><br /><br />
 
@@ -26,12 +26,12 @@ Upload Text:<br />
 <div id="ultrametrictree" class="italic_hidden">
 If the branch lengths on the provided species tree represent times, AnGST can restrict
 the set of possible inferred gene transfers to only those between contemporaneous
-lineages. 
+lineages.
 </div>
 
 <b>3.  Upload Gene Tree (bootstrap)</b>:<a href="javascript:genetree()">??</a><br />
 <div id="genetree" class="italic_hidden">
-Gene trees can be rooted or unrooted.  Species names and gene IDs should be delimited using either a period or an underscore.  
+Gene trees can be rooted or unrooted.  Species names and gene IDs should be delimited using either a period or an underscore.
 If you wish to include bootstrapped gene trees, place bootstraps on separate lines.
 <a href="files/gene.txt" target="_blank">Example Gene Tree</a></div>
 Either upload file or upload text:<br />
@@ -44,7 +44,7 @@ Upload Text:<br />
 
 <b>4.  Penalties</b>:<a href="javascript:penalties()">??</a><br />
 <div id="penalties" class="italic_hidden">
-AnGST will use event penalties to find the reconciliation with the lowest overall cost.  
+AnGST will use event penalties to find the reconciliation with the lowest overall cost.
 Penalties should be real and non-negative. Different event penalties will lead to
 different reconciliation scenarios. Choosing event penalties is not an easy problem,
 and you may want to try a range of penalties. We found that when looking across
@@ -61,8 +61,13 @@ Speciation (SPC): <input type="text" size="3" value="0.0" name="spc" /><br />
 <input type="submit" value="Upload Text"><br />
 </form>
 
-See also: <a href="files/manual.pdf">Help File (pdf)</a>, <a href="files/example.tar.gz">Example Files (tar.gz)</a>, <a href="files/angst.tar.gz">AnGST Source Code (Python in tar.gz)</a><br />
-<i>Send support requests and feedback to 
+See also:
+<ul>
+  <li><a href="https://github.com/almlab/angst/blob/master/doc/manual.pdf">Help File</a></li>
+  <li><a href="https://github.com/almlab/angst/tree/master/example">Example Files</a></li>
+  <li><a href="https://github.com/almlab/angst">AnGST Source Code</a></li>
+</ul>
+<i>Send support requests and feedback to
 <?php echo obfuscateEmail('angst@mit.edu'); ?>
 </i><br /><br />
 Web Server Code written by Albert Wang</i><br /><br />
