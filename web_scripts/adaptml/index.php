@@ -22,7 +22,7 @@ EcologyID should have one character position for each ecological variable and a 
 possible instance of that variable  For instance, if sequences are drawn from either High-Light and Low-Light
 environments, and either 1m or 5m of depth, it is recommended that the 4 EcologyIDs be: H1, L1, H5, and L5.  If
 clonal sequences exist in the sequence dataset, care should be taken that the subtree containing those sequences does not have subtrees monophyletic for a particular EcologyID.
-Doing so may lead to spurious habitat inference.  <a href="files/vibrio.hsp60.tree">Example file</a></div>
+Doing so may lead to spurious habitat inference.  <a href="https://raw.githubusercontent.com/almlab/adaptml/master/example/vibrio.hsp60.tree">Example file</a></div>
 Either upload file or upload text:<br />
 Upload File:<br />
 Choose a file to upload: <input name="uploadedfile" type="file" /><br />
