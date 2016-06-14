@@ -6,6 +6,117 @@
 <contentPane>
 <h3>Highlights</h3>
 
+<a href="http://www.nature.com/ismej/journal/v10/n2/full/ismej2015124a.html" target="_blank_">Massively parallel sequencing 
+of single cells by epicPCR links functional genes with phylogenetic markers</a>
+<div id="abstract">
+<h4>ISME J. 2016 Feb; 10(2):427-36. </h4>
+
+Spencer SJ, Tamminen MV, Preheim SP, Guo MT, Briggs AW, Brito IL, A Weitz D, Pitkänen LK, 
+Vigneault F, Juhani Virta MP, Alm EJ. <br/>
+
+Computational and Systems Biology, Massachusetts Institute of Technology, Cambridge, MA, USA.
+<p/>
+<img class="floatLeft" src="img/epic_pcr.jpg" alt="figure3" width="350"/>
+
+<h4>Abstract</h4>
+Many microbial communities are characterized by high genetic diversity. 
+16S ribosomal RNA sequencing can determine community members, and metagenomics 
+can determine the functional diversity, but resolving the functional role of 
+individual cells in high throughput remains an unsolved challenge. Here, we 
+describe epicPCR (Emulsion, Paired Isolation and Concatenation PCR), a new 
+technique that links functional genes and phylogenetic markers in uncultured 
+single cells, providing a throughput of hundreds of thousands of cells with 
+costs comparable to one genomic library preparation. We demonstrate the utility 
+of our technique in a natural environment by profiling a sulfate-reducing 
+community in a freshwater lake, revealing both known sulfate reducers and 
+discovering new putative sulfate reducers. Our method is adaptable to any 
+conserved genetic trait and translates genetic associations from diverse 
+microbial samples into a sequencing library that answers targeted ecological 
+questions. Potential applications include identifying functional community 
+members, tracing horizontal gene transfer networks and mapping ecological 
+interactions between microbial cells.
+<br/><br/><br/><hr/><br/><br/>
+
+</div>
+
+<a href="http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4720164/" target="_blank_">Detection of low-abundance 
+bacterial strains in metagenomic datasets by eigengenome partitioning</a>
+<div id="abstract">
+<h4>Nature Biotechnology. 2015 Oct; 33(10):1053-60. </h4>
+
+Cleary B, Brito IL, Huang K, Gevers D, Shea T, Young S, Alm EJ.
+<br/>
+
+Computational and Systems Biology, Massachusetts Institute of Technology, Cambridge, MA, USA.
+<p/>
+<img class="floatLeft" src="img/lsa.jpg" alt="figure3" width="350"/>
+
+<h4>Abstract</h4>
+Analyses of metagenomic datasets that are sequenced to a depth of billions or 
+trillions of bases can uncover hundreds of microbial genomes, but naive assembly 
+of these data is computationally intensive, requiring hundreds of gigabytes to 
+terabytes of RAM. We present latent strain analysis (LSA), a scalable, de novo 
+pre-assembly method that separates reads into biologically informed partitions 
+and thereby enables assembly of individual genomes. LSA is implemented with a 
+streaming calculation of unobserved variables that we call eigengenomes. 
+Eigengenomes reflect covariance in the abundance of short, fixed-length 
+sequences, or k-mers. As the abundance of each genome in a sample is reflected 
+in the abundance of each k-mer in that genome, eigengenome analysis can be used 
+to partition reads from different genomes. This partitioning can be done in fixed 
+memory using tens of gigabytes of RAM, which makes assembly and downstream analyses 
+of terabytes of data feasible on commodity hardware. Using LSA, we assemble partial 
+and near-complete genomes of bacterial taxa present at relative abundances as 
+low as 0.00001%. We also show that LSA is sensitive enough to separate reads 
+from several strains of the same species.
+
+<h3>Publication related</h3>
+<a href="mit_daily_timeseries.html">Metadata for EBI Study: ERP006059</a><br/>
+
+<br/><br/><br/><hr/><br/><br/>
+
+</div>
+
+
+<a href="http://www.ncbi.nlm.nih.gov/pubmed/25313052" target="_blank_">Transfer of noncoding 
+DNA drives regulatory rewiring in bacteria
+</a>
+<div id="abstract">
+
+<h4>PNAS. 2014 Nov 11; 111(45):16112-7.</h4>
+<img class="floatLeft" src="img/Oren_fig1.jpg" alt="figure3" width="350"/>
+
+Oren Y, Smith MB, Johns NI, Kaplan Zeevi M, Biran D, Ron EZ, Corander J, 
+Wang HH, Alm EJ, Pupko T.
+<br/>
+<p/>
+<h4>Abstract</h4>
+Understanding the mechanisms that generate variation is a common pursuit unifying 
+the life sciences. Bacteria represent an especially striking puzzle, because closely 
+related strains possess radically different metabolic and ecological capabilities. 
+Differences in protein repertoire arising from gene transfer are currently 
+considered the primary mechanism underlying phenotypic plasticity in bacteria. 
+Although bacterial coding plasticity has been extensively studied in previous decades, 
+little is known about the role that regulatory plasticity plays in bacterial evolution. 
+Here, we show that bacterial genes can rapidly shift between multiple regulatory 
+modes by acquiring functionally divergent nonhomologous promoter regions. Through 
+analysis of 270,000 regulatory regions across 247 genomes, we demonstrate that 
+regulatory "switching" to nonhomologous alternatives is ubiquitous, occurring 
+across the bacterial domain. Using comparative transcriptomics, we show that at 
+least 16% of the expression divergence between Escherichia coli strains can be 
+explained by this regulatory switching. Further, using an oligonucleotide regulatory 
+library, we establish that switching affects bacterial promoter architecture. We 
+provide evidence that regulatory switching can occur through horizontal regulatory 
+transfer, which allows regulatory regions to move across strains, and even genera, 
+independently from the genes they regulate. Finally, by experimentally characterizing 
+the fitness effect of a regulatory transfer on a pathogenic E. coli strain, we 
+demonstrate that regulatory switching elicits important phenotypic consequences. 
+Taken together, our findings expose previously unappreciated regulatory 
+plasticity in bacteria and provide a gateway for understanding bacterial 
+phenotypic variation and adaptation.
+<br/><br/><br/><hr/><br/><br/>
+</div>
+
+
 <a href="http://www.nature.com/news/policy-how-to-regulate-faecal-transplants-1.14720" target="_blank_">Policy: How to regulate faecal transplants.</a>
 <div id="abstract">
 
@@ -18,6 +129,37 @@
 <a href="http://www.openbiome.org/" target="_blank">OpenBiome.org</a><br/>
 <a href="http://www.nytimes.com/2014/02/18/health/a-new-kind-of-transplant-bank.html?_r=0" target="_blank">In New York Times</a>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><hr/><br/><br/>
+</div>
+
+<a href="https://genomebiology.biomedcentral.com/articles/10.1186/gb-2014-15-7-r89" target="_blank_">Host 
+lifestyle affects human microbiota on daily timescales.</a>
+<div id="abstract">
+<h4>Genome Biol. 2014;15(7):R89. </h4>
+
+David LA, Materna AC, Friedman J, Campos-Baptista MI, Blackburn MC, Perrotta A, Erdman SE, Alm EJ. <br/>
+
+Computational and Systems Biology Initiative, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, USA.
+.<p/>
+<img class="floatLeft" src="img/HUGE_fig1.jpg" alt="figure3" width="350"/>
+
+<h4>Abstract</h4>
+Disturbance to human microbiota may underlie several pathologies. Here, we link 
+over 10,000 longitudinal measurements of human wellness and action to the daily 
+gut and salivary microbiota dynamics of two individuals over the course of one year. 
+These time series show overall microbial communities to be stable for months. 
+However, rare events in each subjects’ life rapidly and broadly impacted 
+microbiota dynamics. Travel from the developed to the developing world in one 
+subject led to a nearly two-fold increase in the Bacteroidetes to Firmicutes ratio, 
+which reversed upon return. Enteric infection in the other subject resulted in 
+the permanent decline of most gut bacterial taxa, which were replaced by genetically 
+similar species. Still, even during periods of overall community stability, the 
+dynamics of select microbial taxa could be associated with specific host behaviors. 
+Most prominently, changes in host fiber intake positively correlated with next-day 
+abundance changes among 15% of gut microbiota members. Our findings suggest that 
+although human-associated microbial communities are generally stable, they can 
+be quickly and profoundly altered by common human actions and experiences.
+<br/><br/><br/><hr/><br/><br/>
+
 </div>
 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/22491847" target="_blank_">Population genomics of early events in the ecological differentiation of
@@ -48,6 +190,8 @@ eukaryotes than previously thought.
 
 <br/><br/><br/><hr/><br/><br/>
 </div>
+
+
 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/22037308" target="_blank_">Ecology drives a global network of gene exchange connecting the
 human microbiome.</a>
@@ -122,14 +266,14 @@ compounds, which is consistent with an increasingly oxygenating biosphere.
 </div><br/>
 
 <!--2014-->
-<h4>Publication Related</h4>
-<div id="pubmed">
-    <div id="journal">Lawrence A David, Arne C Materna, Jonathan Friedman, Maria Ines C Baptista, Matthew C Blackburn, Allison Perrotta, Susan E Erdman, Eric J Alm<br/>
-    Genome Biol 15(7)<br/>
-    <a href="mit_daily_timeseries.html">metadata</a><br/>
-    </div>
-    <div id="title">Host lifestyle affects human microbiota on daily timescales.</div>
-</div><br/>
+<!--<h4>Publication Related</h4>-->
+<!--<div id="pubmed">-->
+    <!--<div id="journal">Lawrence A David, Arne C Materna, Jonathan Friedman, Maria Ines C Baptista, Matthew C Blackburn, Allison Perrotta, Susan E Erdman, Eric J Alm<br/>-->
+    <!--Genome Biol 15(7)<br/>-->
+    <!--<a href="mit_daily_timeseries.html">metadata</a><br/>-->
+    <!--</div>-->
+    <!--<div id="title">Host lifestyle affects human microbiota on daily timescales.</div>-->
+<!--</div><br/>--> 
 
 <!--<div id="pubmed">-->
     <!--<div id="journal">Zain Kassam, Mark B Smith, Eric J Alm<br/>-->
