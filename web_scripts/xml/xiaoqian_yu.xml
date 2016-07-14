@@ -6,7 +6,7 @@
     <h3>Xiaoqian(Annie) Yu</h3>
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
-        <img class="floatRight" src="img/xiaoqian_yu1.jpg" width="150" alt="top of the Met"/>
+        <img class="floatRight" src="img/xiaoqian_yu1.JPG" width="150" alt="top of the Met"/>
         <h4>Research Interests</h4>
        <!--  <h5>[subheading, if you need it]</h5> -->
        	Life can be hard as a microbe. Often, they have to cope with fluctuating environments, compete with other microbes and try to avoid predation. However, it may be these difficulties that shaped the beautiful and diverse microbial world as we see it today. I am particularly interested in investigating two things: how does bacterial diversity affect ecosystem processes and how genetic variations of Carbohydrate Active Enzymes in Vibrios are distributed according to their ecological context. We also hope that these investigations will help us become more capable of harnessing the enzymatic capabilities of bacteria for biofuel production. 
@@ -14,7 +14,7 @@
              if you don't need a subheading, just delete that line. -->
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
-        <img class="floatLeft" src="img/xiaoqian_yu2.jpg" width="150" alt="Delphi"/>
+        <img class="floatLeft" src="img/xiaoqian_yu2.JPG" width="150" alt="Delphi"/>
         <p/>
     </div>
     </contentPane>
