@@ -23,15 +23,6 @@
     </div>
     <hr />
     <h4>Postdocs</h4>
-
-    <div id="member">
-        <img class="floatLeft" src="img/ilana_brito1.jpg" width="150" alt="Ilana"/>
-        <font class="fontTitle">Ilana Brito</font><br/>
-        My main interest is understanding how microbes (and their genes)
-        are transmitted among individuals and between individuals and
-        their environments.
-        <a href="ilana_brito.html">Read more</a>
-    </div>
    
     <div id="member">
         <img class="floatLeft" src="img/corzett2.jpg" width="150" alt="mBansal"/>
@@ -79,15 +70,6 @@
       </div>
 
       <div id="member">
-          <img class="floatLeft" src="img/josh_michener0.jpg" width="150" alt="josh"/>
-          <font class="fontTitle">Josh Michener</font><br/>
-          No gene exists in isolation. To be useful, a gene must be functionally
-          expressed and its host must be able to deal with any resulting stresses.
-          Most genes have had sufficient time in their current host that the gene
-          and host have co-evolved to minimize deleterious interactions... <a href="josh_michener.html">Read more</a>
-      </div>
-
-      <div id="member">
           <img class="floatLeft" src="img/mathilde_poyet1.jpg" width="150" alt="mathilde"/>
           <font class="fontTitle">Mathilde Poyet</font><br/>
           I am an ecologist with a special interest in biological communities. 
@@ -96,25 +78,6 @@
           levels of organization. Now, I keep on studying community and ecosystem stability...
           <a href="mathilde_poyet.html">Read more</a>
       </div>
-
-    <div id="member">
-        <img class="floatLeft" src="img/1_Mark_Smith.jpeg" width="150" alt="smith"/>
-        <font class="fontTitle">Mark Smith</font><br/>
-        Mark's research uses high-throughput sequencing to gain insights into the structure, 
-        function and dynamics of the human microbiome, with a recent publication on the topic 
-        in <i>Nature</i>. <a href="http://www.openbiome.org/team/">Read more</a>
-        <br/><br/><br/><br/>
-    </div>
-
-    <div id="member">
-        <img class="floatLeft" src="img/12_Manu_Tamminen.jpeg" width="150" alt="manuTamminen"/>
-        <font class="fontTitle">Manu Tamminen</font><br/>
-        I'm investigating novel approaches to extract and analyze genomic and transcriptomic
-        information from single cells. To achieve this exciting objective I use a variety of
-        tools, including flow assisted cell sorting, microfluidics, molecular biology and
-        computational analysis. This combination of laboratory and computational approaches
-        has considerable benefits over metagenomics... <a href="mvtammin.html">Read more</a>
-    </div>
 
     <div id="member">
         <img class="floatLeft" src="img/avihu2.jpg" width="150" alt="avihu"/>
@@ -212,15 +175,6 @@
     </div>
     
     <div id="member">
-        <img class="floatLeft" src="img/shapeimage_4-1.png" width="150" alt="smillie"/>
-        <font class="fontTitle">Chris Smillie</font><br/>
-        I'm interested in using computational methods to study the evolution and
-        ecology of the human microbiome. Previously, I've collaborated with
-        Sarah, Eli, and Paco to develop SLiME, a tool that uses machine learning
-        to identify microbial signatures associated with disease... <a href="csmillie.html">Read more</a>
-    </div>
-    
-    <div id="member">
         <img class="floatLeft" src="img/sspencer1.jpg" width="150" alt="spencer"/>
         <font class="fontTitle">Sarah Spencer</font><br/>
         I'm interested in how ecological principles play out at the resolution
@@ -233,15 +187,17 @@
     </div>
 
     <div id="member">
-        <img class="floatLeft" src="img/joy_yang1.jpg" width="150" alt="yang"/>
-        <font class="fontTitle">Joy Yang</font><br/>
-        I am broadly interested in the evolution and ecology of pathogens.
-        In particular, I would like to utililize high performance computing
-        to study the effect of the intricate interactions among host, bacteria,
-        and mobile genetic elements such as phage and plasmids on disease.
-        <a href="joy_yang.html">Read more</a>
+        <img class="floatLeft" src="img/xiaoqian_yu1.jpg" width="150" alt="annie"/>
+        <font class="fontTitle">Xiaoqian (Annie) Yu</font><br/>
+		I am particularly interested in investigating two things: how does bacterial 
+		diversity affect ecosystem processes and how genetic variations of 
+		Carbohydrate Active Enzymes in Vibrios are distributed according to their 
+		ecological context. We also hope that these investigations will help us 
+		become more capable of harnessing the enzymatic capabilities of bacteria 
+		for biofuel production. 
+        <a href="xiaoqian_yu.html">Read more</a>
     </div>
-
+	
     <div id="member">
         <img class="floatLeft" src="img/shijie_zhao1.jpg" width="150" alt="jay"/>
         <font class="fontTitle">Shijie (Jay) Zhao</font><br/>
@@ -263,30 +219,27 @@
     <div id="memberDir">
     <ul>
          <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
-         <li><a href="ilana_brito.html" class="nodec">Ilana Brito</a></li>
+		 <li>Shandrina Burns</li>
          <li><a href="nathaniel_chu.html" class="nodec">Nathaniel Chu</a></li>
-         <li><a href="saclarke.html" class="nodec">Sean Clarke</a></li>
          <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
          <li><a href="claire_duvallet.html" class="nodec">Claire Duvallet</a></li>
+		 <li>Katya Frois-Moniz</li>
          <li><a href="sean_gibbons.html" class="nodec">Sean Gibbons</a></li>
          <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
          <li><a href="thomas_gurry.html" class="nodec">Thomas Gurry</a></li>
          <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
          <li><a href="tami_lieberman.html" class="nodec">Tami Lieberman</a></li>
+		 <li>Fangqiong Ling</li>
          <li><a href="mariana_matus.html" class="nodec">Mariana Matus</a></li>
-         <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
          <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
          <li><a href="scott_olesen.html" class="nodec">Scott Olesen</a></li>
+		 <li>Sepideh Pakpour</li>
          <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
          <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
-         <li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>
-         <li><a href="mbsmith.html" class="nodec">Mark Smith</a></li>
+		 <li>Isaac Rockafellow</li>
          <li><a href="sspencer.html" class="nodec">Sarah Spencer</a></li>
-         <li><a href="mvtammin.html" class="nodec">Manu Tamminen</a></li>
-         <li>Yaniv Turgeman</li>
-         <li><a href="joy_yang.html" class="nodec">Joy Yang</a></li>
          <li><a href="avihuYona.html" class="nodec">Avihu Yona</a></li>
-         <li>Annie Yu</li>
+         <li><a href="xiaoqian_yu.html" class="nodec">Xiaoqian (Annie) Yu</a></li>
          <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
     </ul>
     </div>
@@ -297,16 +250,23 @@
     <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
     <li><a href="http://www.engr.uconn.edu/~mukul/ " class="external">Mukul Bansal</a></li>    
     <li><a href="http://microfluidics.epfl.ch/twiki/bin/view/MaerklLab/LbncPeople" class="external">Matthew Blackburn</a></li>
+    <li><a href="https://www.bme.cornell.edu/people/profile.cfm?netid=ilb8" class="external">Ilana Brito</a></li>
     <li><a href="franciscocamas.html" class="nodec">Francisco Camas</a></li>
+	<li><a href="saclarke.html" class="nodec">Sean Clarke</a></li>
     <li><a href="http://www.ladlab.org" class="external">Lawrence David</a></li>
     <li><a href="http://eapsweb.mit.edu/people/g4nier" class="external">Greg Fournier</a></li>
     <li>Jonathan Friedman</li>
     <li><a href="http://www.linkedin.com/in/arnematerna" class="external">Arne Materna</a></li>
+    <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
     <li><a href="elipapa.html" class="nodec">Eli Papa</a></li>
     <li><a href="http://www.shapirolab.ca/" class="external">B. Jesse Shapiro</a></li>
+	<li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>
+	<li><a href="mbsmith.html" class="nodec">Mark Smith</a></li>
     <li><a href="http://engineering.jhu.edu/dogee/faculty/sarah-preheim/" class="external">Sarah Preheim</a></li>
-    
+	<li><a href="mvtammin.html" class="nodec">Manu Tamminen</a></li>
     <li><a href="http://www.linkedin.com/pub/sonia-timberlake/65/283/b13" class="external">Sonia Timberlake</a></li>
+	<li><a href="https://www.linkedin.com/in/yanivturgeman" class="external">Yaniv Turgeman</a></li>
+	<li><a href="joy_yang.html" class="nodec">Joy Yang</a></li>
     </ul>
     </div>
          

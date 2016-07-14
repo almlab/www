@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Xiaoqian(Annie) Yu </Title>
+
+    <contentPane>
+    <h3>Xiaoqian(Annie) Yu</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/xiaoqian_yu1.jpg" width="150" alt="top of the Met"/>
+        <h4>Research Interests</h4>
+       <!--  <h5>[subheading, if you need it]</h5> -->
+       	Life can be hard as a microbe. Often, they have to cope with fluctuating environments, compete with other microbes and try to avoid predation. However, it may be these difficulties that shaped the beautiful and diverse microbial world as we see it today. I am particularly interested in investigating two things: how does bacterial diversity affect ecosystem processes and how genetic variations of Carbohydrate Active Enzymes in Vibrios are distributed according to their ecological context. We also hope that these investigations will help us become more capable of harnessing the enzymatic capabilities of bacteria for biofuel production. 
+        <!-- if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. -->
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/xiaoqian_yu2.jpg" width="150" alt="Delphi"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Xiaoqian(Annie) Yu</h4>
+        Graduate Student, Department of Biology<br/>
+        xy43 at mit dot edu <br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>B.S./M.S., Molecular Biophysics and Biochemistry, Yale University, 2011.</li>
+        </ul>
+        <p/>
+        
+        <img class="floatRight" src="img/xiaoqian_yu3.jpeg" width="150" alt="just a girl and her car"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
