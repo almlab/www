@@ -6,6 +6,41 @@
 <contentPane>
 <h3>Highlights</h3>
 
+<a href="http://www.nature.com/nature/journal/vaop/ncurrent/full/nature18927.html" target="_blank_">
+Mobile genes in the human microbiome are structured from global to individual scales</a>
+<div id="abstract">
+<h4>Nature 2016. doi:10.1038/nature18927. </h4>
+
+I. L. Brito, S. Yilmaz, K. Huang, L. Xu, S. D. Jupiter, A. P. Jenkins, W. Naisilisili, 
+M. Tamminen, C. S. Smillie, J. R. Wortman, B. W. Birren, R. J. Xavier, 
+P. C. Blainey, A. K. Singh, D. Gevers, E. J. Alm <br/>
+<p/>
+<img class="floatLeft" src="img/fijicomp2.jpg" alt="figure3" width="350"/>
+
+<h4>Abstract</h4>
+Recent work has underscored the importance of the microbiome in human health, and 
+has largely attributed differences in phenotype to differences in the species present 
+among individuals. However, mobile genes can confer profoundly different 
+phenotypes on different strains of the same species. Little is known about the function 
+and distribution of mobile genes in the human microbiome, and in particular whether the 
+gene pool is globally homogenous or constrained by human population structure. Here, 
+we investigate this question by comparing the mobile genes found in the microbiomes 
+of 81 metropolitan North Americans with those of 172 agrarian Fiji islanders using a 
+combination of single-cell genomics and metagenomics. We find large differences in 
+mobile gene content between the Fijian and North American microbiomes, with functional 
+variation that mirrors known dietary differences such as the excess of plant-based 
+starch degradation genes found in Fijian individuals. Notably, we also observed 
+differences between the mobile gene pools of neighbouring Fijian villages, even though 
+microbiome composition across villages is similar. Finally, we observe high rates of 
+recombination leading to individual-specific mobile elements, suggesting that the 
+abundance of some genes may reflect environmental selection rather than dispersal 
+limitation. Together, these data support the hypothesis that human activities and 
+behaviours provide selective pressures that shape mobile gene pools, and that acquisition 
+of mobile genes is important for colonizing specific human populations.
+<br/><br/><br/><hr/><br/><br/>
+
+</div>
+
 <a href="http://www.nature.com/ismej/journal/v10/n2/full/ismej2015124a.html" target="_blank_">Massively parallel sequencing 
 of single cells by epicPCR links functional genes with phylogenetic markers</a>
 <div id="abstract">
