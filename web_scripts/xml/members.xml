@@ -157,15 +157,6 @@
     </div>
      
     <div id="member">
-        <img class="floatLeft" src="img/scotto_3.png" width="150" alt="scott"/>
-        <font class="fontTitle">Scott Olesen</font><br/>
-        Microbial metabolisms transform the world around us, mediating key
-        geochemical cycles and even determining human scent. I combine
-        experimental design and computational techniques to assess and engineer
-        the role of microbes in the environment and the human microbiome...<a href="scott_olesen.html">Read more</a> 
-    </div>
-    
-    <div id="member">
         <img class="floatLeft" src="img/12_Allison_Perrota.jpeg" width="150" alt="allison"/>
         <font class="fontTitle">Allison Perrotta</font><br/>
         My current focus in the lab is to create and test high throughput
@@ -232,7 +223,6 @@
 		 <li>Fangqiong Ling</li>
          <li><a href="mariana_matus.html" class="nodec">Mariana Matus</a></li>
          <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
-         <li><a href="scott_olesen.html" class="nodec">Scott Olesen</a></li>
 		 <li>Sepideh Pakpour</li>
          <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
          <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
@@ -258,6 +248,7 @@
     <li>Jonathan Friedman</li>
     <li><a href="http://www.linkedin.com/in/arnematerna" class="external">Arne Materna</a></li>
     <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
+    <li><a href="http://www.scottolesen.com/home" class="external">Scott Olesen</a></li>
     <li><a href="elipapa.html" class="nodec">Eli Papa</a></li>
     <li><a href="http://www.shapirolab.ca/" class="external">B. Jesse Shapiro</a></li>
 	<li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>
