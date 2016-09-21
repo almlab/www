@@ -15,7 +15,7 @@
 <h4>dbOTU3 </h4>
 <h5>Fast, user-friendly implementation of distribution-based clustering</h5>
 <div id="software">
-by Scott Olesen, Claire Duvallet and Eric Alm <br/>
+by Scott Olesen and Claire Duvallet<br/>
 swo at mit.edu <p/>
 
 <img class="floatRight" src="img/dbotu-logo.png" width="300" alt="DBC"/>
@@ -33,7 +33,11 @@ Analyzer II reads for 16S rRNA sequence analysis in this paper:
     Distribution-based clustering: Using ecology to refine the operational taxonomic unit. <i>Appl. Environ. Microbiol.</i> 2013, <b>79</b>(21):659
 </a><p/>
 
-dbOTU3 package was written by Scott Olesen.
+The dbOTU3 package was written by Scott Olesen.<p/>
+
+SOURCE<br/>
+<a href="https://github.com/swo/dbotu3">github page</a><br/>
+<a href="http://dbotu3.readthedocs.io/en/latest/">documentation</a>
 <br/>
 </div>
 
