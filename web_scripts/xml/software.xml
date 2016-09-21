@@ -8,10 +8,19 @@
     <h3>Software</h3>
 
     <div id="leftTool">
+        <h4>dbOTU3 (Sep 2016)</h4>
+        Scott Olesen<br />
+
+        Calling ecologically-informed operational taxonomic units.<br/>
+        <a href="dbotu3.html">Read more...</a><br/><br/>
+        <img src="img/dbotu-logo.png" width="250" alt="dbotu3"/>
+    </div>
+
+    <div id="leftTool">
         <h4>TEXMEx (Mar 2015)</h4>
         Scott Olesen<br />
 
-        Visualizing microbial community dyanmics.<br/>
+        Visualizing microbial community dynamics.<br/>
         <a href="texmex.html">Read more...</a><br/><br/>
         <img src="img/texmex.png" width="100" alt="texmex"/>
     </div>
