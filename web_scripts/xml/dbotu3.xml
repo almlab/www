@@ -30,7 +30,7 @@ implementation of dbOTU that is faster and more user-friendly.<p/>
 The theoretical and practical improvements over previous implementations of
 dbOTU are described in a non-peer-reviewed manuscript:
 
-<blockquote> Scott W.  Olesen, Claire Duvallent, and Eric J. Alm.
+<blockquote> Scott W.  Olesen, Claire Duvallet, and Eric J. Alm.
 2016. dbOTU3: A new implementation of distribution-based OTU calling.
 <i>bioRxiv</i>. doi: <a href="http://dx.doi.org/10.1101/076927">10.1101/076927</a>
 </blockquote><p/>
