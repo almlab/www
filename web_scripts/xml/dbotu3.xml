@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-<Title>Alm Lab Software: Distribution-based clustering 3</Title>
+<Title>Alm Lab Software: dbOTU3</Title>
 
 <contentPane>
 
@@ -18,22 +18,30 @@
 by Scott Olesen and Claire Duvallet<br/>
 swo at mit.edu <p/>
 
-<img class="floatRight" src="img/dbotu-logo.png" width="300" alt="DBC"/>
-<a href="dbc.html">Distribution-based operational taxonomic unit-calling (dbOTU) </a>
-improves on other approaches by incorporating information about the input sequences' distribution
-across samples. Previous implementations of dbOTU presented challenges for users. dbOTU3 is a new
-implementation of dbOTU that is faster and more user-friendly.
-For a treatment of the theoretical and practical improvements over previous implementations of dbOTU,
-please refer to our bioRxiv paper (in preparation).<p/>
+<img class="floatRight" src="img/dbotu-logo.png" width="200" alt="dbOTU3"/>
+
+Distribution-based OTU calling (dbOTU, also known as
+<a href="dbc.html">distribution-based clustering</a> improves on other
+approaches to calling operational taxonomic units (OTUs) by incorporating
+information about the input sequences' distribution across samples. Previous
+implementations of dbOTU presented challenges for users. dbOTU3 is a new
+implementation of dbOTU that is faster and more user-friendly.<p/>
+
+The theoretical and practical improvements over previous implementations of
+dbOTU are described in a non-peer-reviewed manuscript:
+
+<blockquote> Scott W.  Olesen, Claire Duvallent, and Eric J. Alm.
+2016. dbOTU3: A new implementation of distribution-based OTU calling.
+<i>bioRxiv</i>. doi: <a href="http://dx.doi.org/10.1101/076927">10.1101/076927</a>
+</blockquote><p/>
 
 The original dbOTU algorithm was developed by Sarah Preheim and used to process Illumina Genome
 Analyzer II reads for 16S rRNA sequence analysis in this paper:
-<a href="http://dx.doi.org/10.1128/AEM.00342-13">
-    Sarah P. Preheim, Allison R. Perrotta, Antonio M. Martin-Platero, Anika Gupta and Eric J. Alm. 2013. 
-    Distribution-based clustering: Using ecology to refine the operational taxonomic unit. <i>Appl. Environ. Microbiol.</i> 2013, <b>79</b>(21):659
-</a><p/>
-
-The dbOTU3 package was written by Scott Olesen.<p/>
+<blockquote>
+Sarah P. Preheim, Allison R. Perrotta, Antonio M. Martin-Platero, Anika Gupta and Eric J. Alm. 2013.
+Distribution-based clustering: Using ecology to refine the operational taxonomic unit. <i>Appl. Environ. Microbiol.</i> 2013, <b>79</b>(21):659
+doi: <a href="http://dx.doi.org/10.1128/AEM.00342-13">10.1128/AEM.00342-13</a>
+</blockquote><p/>
 
 SOURCE<br/>
 <a href="https://github.com/swo/dbotu3">github page</a><br/>
