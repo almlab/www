@@ -32,7 +32,7 @@ dbOTU are described in a non-peer-reviewed manuscript:
 
 <blockquote> Scott W.  Olesen, Claire Duvallet, and Eric J. Alm.
 2017. dbOTU3: A new implementation of distribution-based OTU calling.
-<i>PLOS ONE</i>. doi: <a href="https://doi.org/10.1371/journal.pone.0176335">10.1371/journal.pone.0176335</a>
+<i>PLoS ONE</i> 12(5): e0176335. doi: <a href="https://doi.org/10.1371/journal.pone.0176335">10.1371/journal.pone.0176335</a>
 </blockquote><p/>
 
 The original dbOTU algorithm was developed by Sarah Preheim and used to process Illumina Genome
