@@ -102,7 +102,14 @@
         reshape such communities towards desirable traits.... <a href="avihuYona.html">Read more</a>
        
     </div>  
-     <hr/>
+
+    <div id="member">
+      <font class="fontTitle">Sepideh Pakpour</font><br/>
+    </div>
+    <div id="member">
+      <font class="fontTitle">Fangqiong Ling</font><br/>
+    </div>
+    <hr/>
 
      <!--
     <h4>Staff</h4>
@@ -188,7 +195,13 @@
         genomic technique to study the interplay of microbes and human diseases...
         <a href="shijie_zhao.html">Read more</a>
     </div>
-    
+
+    <div id="member">
+      <font class="fontTitle">Haixin Sarah Bi</font><br/>
+    </div>
+    <div id="member">
+      <font class="fontTitle">Isaac Rockafellow</font><br/>
+    </div>
     
     <br />
     <hr />
