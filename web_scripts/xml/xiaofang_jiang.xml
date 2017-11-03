@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Xiaofang Jiang </Title>
+
+    <contentPane>
+    <h3>Xiaofang Jiang</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/xiaofang_jiang1.jpg" width="150" alt=""/>
+        <h4>Research Interests</h4>
+            To adapt their physiology to gradual and sudden changes occurring in the host environment or during inter-individual transmissions, commensals exhibit remarkable genetic variation diversity at a population level. I am interested in the genetic variations of gut microbes and how the variations are beneficial for  their effective colonization and successful survival. I am developing tools and mining genetic variations from isolate genomes and metagenomic data.
+            <ul>
+                <li>Single nucleotide variation</li>
+                I am working with long-dense longitudinal metagenomic data to identify the SNVs that differentiated strains of same species to track strain-levels dynamics in microbiome.
+                <li>Genomic rearrangement</li>
+                I am particularly interested in DNA inversion and how these inversions generate hybrid proteins, shuffling domains between genes and rearranging operon structure.
+                <li>Mobile genetic elements</li>
+                I developed a Split Read Insertion Detection (SRID) method to detect mobile genetic elements in the microbiome and created <a href="https://immedb.mit.edu/" target="Intestinal microbiome mobile element">ImmeDB</a>, a database dedicated to the collection, classification, and annotation of mobile genetic elements (MGEs) from gut microbiome.
+            </ul>
+        <img class="floatLeft" src="img/xiaofang_jiang2.jpg" width="150" alt=""/>
+        <p/>
+	</div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Xiaofang Jiang</h4>
+        Postdoctoral Associate<br/>
+        xiaofang@mit.edu<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>PhD, 2016, Bioinformatics, Virginia Tech </li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/xiaofang_jiang3.jpg" width="150" alt=""/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

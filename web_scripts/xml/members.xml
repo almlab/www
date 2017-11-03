@@ -73,16 +73,27 @@
          in a continuous fashion, including data pertaining to the microbiome... <a href="thomas_gurry.html">Read more</a>
      </div>
 
-      <div id="member">
+     <div id="member">
+       <img class="floatLeft" src="img/xiaofang_jiang1.jpg" width="150" alt="xiaofang"/>
+       <font class="fontTitle">Xiaofang Jiang</font><br/>
+       To adapt their physiology to gradual and sudden changes occurring in the host environment or 
+       during inter-individual transmissions, commensals exhibit remarkable genetic variation diversity 
+       at a population level. I am interested in the genetic variations of gut microbes and how the 
+       variations are beneficial for  their effective colonization and successful survival. I am 
+       developing tools and mining genetic variations from isolate genomes and metagenomic data...
+       <a href="xiaofang_jiang.html">Read more</a>
+     </div>
+
+     <div id="member">
           <img class="floatLeft" src="img/tami_lieberman1.jpg" width="150" alt="tami"/>
           <font class="fontTitle">Tami Lieberman</font><br/>
           During my doctoral research in Roy Kishony's lab, I developed new genomic approaches
           for understanding how bacteria evolve during infections of individual people.
           I also studied antibiotic resistance and microbial evolution more broadly,
           using my favorite tools of experimental evolution and genomic sequencing. <a href="tami_lieberman.html">Read more</a>
-      </div>
+     </div>
 
-      <div id="member">
+     <div id="member">
           <img class="floatLeft" src="img/mathilde_poyet1.jpg" width="150" alt="mathilde"/>
           <font class="fontTitle">Mathilde Poyet</font><br/>
           I am an ecologist with a special interest in biological communities. 
@@ -90,9 +101,9 @@
           (<i>Drosophila suzukii</i>) and its impact on the invaded communities at different 
           levels of organization. Now, I keep on studying community and ecosystem stability...
           <a href="mathilde_poyet.html">Read more</a>
-      </div>
+     </div>
 
-    <div id="member">
+     <div id="member">
         <img class="floatLeft" src="img/avihu2.jpg" width="150" alt="avihu"/>
         <font class="fontTitle">Avihu Yona</font><br/>
         During my doctoral research I utilized experimental evolution to study
@@ -101,7 +112,7 @@
         an integral entity and in how evolutionary forces can be applied to
         reshape such communities towards desirable traits.... <a href="avihuYona.html">Read more</a>
        
-    </div>  
+     </div>  
 
     <div id="member">
       <font class="fontTitle">Sepideh Pakpour</font><br/>
