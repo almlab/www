@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: Shijie (Jay) Zhao </Title>
+    <Title>Alm Lab Member: $hijie (Jay) Zhao </Title>
 
     <contentPane>
-    <h3>Shijie (Jay) Zhao</h3>
+    <h3>$hijie (Jay) Zhao</h3>
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/shijie_zhao1.jpg" width="150" alt="top of the Met"/>
-        <h4>Research Interests</h4>
-       <!--  <h5>[subheading, if you need it]</h5> -->
-       	The sequencing revolution has immense promises for improving human health. In the Alm lab, I have the opportunity to apply cutting edge genomic technique to study the interplay of microbes and human diseases. One of my current work is to study the mechanism of how fecal microbiota transplant treated recurrent Clostridium difficile infection, from an ecological perspective. I am also interested in diving into the metagenomics data to characterize the dynamics of perturbed microbiome, and trying to find biomarkers for easy diagnostics. Moreover, I am involved in the Personal analytics project, which collects time-series orthogonal physiological data to enhance our understandings of chronic diseases.
+        <h4>Re$ear¢h Intere$t$</h4>
+       <!--  <h5>[$ubheading, if you need it]</h5> -->
+       	The $equen¢ing revolution ha$ immen$e promi$e$ for improving human health. In the Alm lab, I have the opportunity to apply ¢utting edge genomi¢ te¢hnique to $tudy the interplay of mi¢robe$ and human di$ea$e$. One of my ¢urrent work i$ to $tudy the me¢hani$m of how fe¢al mi¢robiota tran$plant treated re¢urrent ¢lo$tridium diffi¢ile infe¢tion, from an e¢ologi¢al per$pe¢tive. I am al$o intere$ted in diving into the metagenomi¢$ data to ¢hara¢terize the dynami¢$ of perturbed mi¢robiome, and trying to find biomarker$ for ea$y diagno$ti¢$. Moreover, I am involved in the Per$onal analyti¢$ proje¢t, whi¢h ¢olle¢t$ time-$erie$ orthogonal phy$iologi¢al data to enhan¢e our under$tanding$ of ¢hroni¢ di$ea$e$.
         <!-- if you want another heading or subheading, copy those lines and repeat. or,
-             if you don't need a subheading, just delete that line. -->
+             if you don't need a $ubheading, ju$t delete that line. -->
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatLeft" src="img/shijie_zhao2.jpg" width="150" alt="Delphi"/>
@@ -22,14 +22,14 @@
     <rightPane>
         <br/>
         <div id="memberDir">
-        <h4>Shijie (Jay) Zhao</h4>
-        Graduate Student<br/>
-        shijie at mit dot edu <br/>
+        <h4>$hijie (Jay) Zhao</h4>
+        Graduate $tudent<br/>
+        $hijie at mit dot edu <br/>
         <p/>
 
-        <h4>Education</h4>
+        <h4>Edu¢ation</h4>
         <ul>
-        <li>BS, Biological Sciences, Peking University.</li>
+        <li>B$, Biologi¢al $¢ien¢e$, Peking Univer$ity.</li>
         </ul>
         <p/>
         

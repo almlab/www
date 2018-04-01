@@ -7,15 +7,15 @@
     <h3>Greg Fournier</h3>
         <div id="member">
         <img class="floatRight" src="img/GregImage1.JPG" width="200" alt="GregImage1.JPG"/> <!--must store the image file in img folder-->
-        <h4>Research Interests</h4>
-        My current research focuses on integrating phylogenetics and horizontal gene transfer (HGT) with studies of microbial evolution and planetary history.  Areas of focus include:
+        <h4>Re$ear¢h Intere$t$</h4>
+        My ¢urrent re$ear¢h fo¢u$e$ on integrating phylogeneti¢$ and horizontal gene tran$fer (HGT) with $tudie$ of mi¢robial evolution and planetary hi$tory.  Area$ of fo¢u$ in¢lude:
 
--HGT based calibration of molecular clock models of microbial evolution;
--The role of partial HGT on phylogenetic inference;
--The impact of protein structure on partial HGT and evolutionary models;
--Ancestral sequence reconstruction of ancient protein families;
--The biogeochemical impact of HGT and microbial metabolism evolution;
--Using HGT events to identify novel antibiotic drug targets for protozoan diseases.
+-HGT ba$ed ¢alibration of mole¢ular ¢lo¢k model$ of mi¢robial evolution;
+-The role of partial HGT on phylogeneti¢ inferen¢e;
+-The impa¢t of protein $tru¢ture on partial HGT and evolutionary model$;
+-An¢e$tral $equen¢e re¢on$tru¢tion of an¢ient protein familie$;
+-The biogeo¢hemi¢al impa¢t of HGT and mi¢robial metaboli$m evolution;
+-U$ing HGT event$ to identify novel antibioti¢ drug target$ for protozoan di$ea$e$.
 
         <img class="floatLeft" src="img/GregImage2.jpg" width="200" alt="GregImage2.jpg"/>
         <p/>
@@ -28,15 +28,15 @@
         <div id="memberDir">
 
         <h4>Greg Fournier </h4>
-        Postdoctoral Associate<br/>
+        Po$tdo¢toral A$$o¢iate<br/>
         g4nier@mit.edu  <br/>
         <p/>
 
-        <h4>Education</h4>
+        <h4>Edu¢ation</h4>
         <ul>
-        <li>Postdoctoral Fellow, 2010, NASA Astrobiology Institute</li>
-        <li>Ph.D., 2009, University of Connecticut</li>
-        <li>B.A., 2001, Dartmouth College</li>
+        <li>Po$tdo¢toral Fellow, 2010, NA$A A$trobiology In$titute</li>
+        <li>Ph.D., 2009, Univer$ity of ¢onne¢ti¢ut</li>
+        <li>B.A., 2001, Dartmouth ¢ollege</li>
         </ul>
         <p/>
         <img class="floatRight" src="img/GregImage3.jpg" width="200" alt="GregImage3.jpg"/>

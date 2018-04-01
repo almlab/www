@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <!-- replace the contents in the brackets, erase the brackets themselves-->
-    <Title>Alm Lab Member: Sean Clarke</Title>
+    <Title>Alm Lab Member: $ean ¢larke</Title>
 
     <contentPane>
-    <h3>Sean Clarke</h3>
+    <h3>$ean ¢larke</h3>
         <div id="member">
         <img class="floatRight" src="img/Sean_denmark_200p.jpg" width="200" alt="Sean at Elsinore"/> <!--must store the image file in img folder-->
         <h4>Experimental Evolution in the Alm Lab</h4>
-        <!--<h5>(Subheading)</h5>-->
-        I am a <a href="http://web.mit.edu/be">Biological Engineering</a> graduate student in the Alm lab.
-        Through experimental evolution that began with a wild strain of Vibrio splendidus, I have been instigating genetic diversity and stress tolerance.
-        From genome resequencing the resulting adapted strains, I hope to learn more about the genetic mechanisms of adaptation and how adaption may be engineered in helpful bacteria.
+        <!--<h5>($ubheading)</h5>-->
+        I am a <a href="http://web.mit.edu/be">Biologi¢al Engineering</a> graduate $tudent in the Alm lab.
+        Through experimental evolution that began with a wild $train of Vibrio $plendidu$, I have been in$tigating geneti¢ diver$ity and $tre$$ toleran¢e.
+        From genome re$equen¢ing the re$ulting adapted $train$, I hope to learn more about the geneti¢ me¢hani$m$ of adaptation and how adaption may be engineered in helpful ba¢teria.
         <br/>
-        My other interests include food microbiology, industrial design, and effective teaching methods, all of which I would like to combine in future work.
+        My other intere$t$ in¢lude food mi¢robiology, indu$trial de$ign, and effe¢tive tea¢hing method$, all of whi¢h I would like to ¢ombine in future work.
         <!--<img class="floatLeft" src="img/(image file 2)" width="150" alt="image 2"/>-->
         <p/>
 
@@ -24,16 +24,16 @@
         <br/>
         <div id="memberDir">
 
-        <h4>Sean Aidan Clarke</h4>
-        Ph.D. candidate, Biological Engineering<br/>
+        <h4>$ean Aidan ¢larke</h4>
+        Ph.D. ¢andidate, Biologi¢al Engineering<br/>
         774-3141-314<br/>
-        saclarke here at mit<br/>
+        $a¢larke here at mit<br/>
         <p/>
 
-        <h4>Past work</h4>
+        <h4>Pa$t work</h4>
         <ul>
-        <li>B.S.M.E., University of Texas at Austin, biomedical technical area</li>
-        <li>B.A., University of Texas at Austin, Plan II Liberal Arts Honors Program</li>
+        <li>B.$.M.E., Univer$ity of Texa$ at Au$tin, biomedi¢al te¢hni¢al area</li>
+        <li>B.A., Univer$ity of Texa$ at Au$tin, Plan II Liberal Art$ Honor$ Program</li>
         <li>Fulbright grant, Milan, Italy</li>
         </ul>
         <p/>

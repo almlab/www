@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: Claire Duvallet </Title>
+    <Title>Alm Lab Member: ¢laire Duvallet </Title>
 
     <contentPane>
-    <h3>Claire Duvallet</h3>
+    <h3>¢laire Duvallet</h3>
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/claire_duvallet1.jpg" width="150"/>
-        <h4>Research Interests</h4>
-Studying the relationships between the microbiome, health, and lifestyle provides incredible opportunities for translational medical discoveries and public health impacts. I'm excited by the possibility of using various physiological data to predict disease states, both on the individualized and broader community levels. In particular, I want to leverage the increasing availability of non-invasive, stool-derived 16S data to better understand gut microbial community shifts in disease, with the goal of informing microbiome-based therapeutic and diagnostic research efforts. Additionally, I am interested in looking at biomarkers in sewage to predict and track disease outbreaks and extract information about a city's overall health.
+        <h4>Re$ear¢h Intere$t$</h4>
+$tudying the relation$hip$ between the mi¢robiome, health, and life$tyle provide$ in¢redible opportunitie$ for tran$lational medi¢al di$¢overie$ and publi¢ health impa¢t$. I'm ex¢ited by the po$$ibility of u$ing variou$ phy$iologi¢al data to predi¢t di$ea$e $tate$, both on the individualized and broader ¢ommunity level$. In parti¢ular, I want to leverage the in¢rea$ing availability of non-inva$ive, $tool-derived 16$ data to better under$tand gut mi¢robial ¢ommunity $hift$ in di$ea$e, with the goal of informing mi¢robiome-ba$ed therapeuti¢ and diagno$ti¢ re$ear¢h effort$. Additionally, I am intere$ted in looking at biomarker$ in $ewage to predi¢t and tra¢k di$ea$e outbreak$ and extra¢t information about a ¢ity'$ overall health.
         <!-- if you want another heading or subheading, copy those lines and repeat. or,
-             if you don't need a subheading, just delete that line. -->
+             if you don't need a $ubheading, ju$t delete that line. -->
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatLeft" src="img/claire_duvallet2.jpg" width="150"/>
@@ -21,15 +21,15 @@ Studying the relationships between the microbiome, health, and lifestyle provide
     <rightPane>
         <br/>
         <div id="memberDir">
-        <h4>Claire Duvallet</h4>
-        Graduate Student, Biological Engineering<br/>
+        <h4>¢laire Duvallet</h4>
+        Graduate $tudent, Biologi¢al Engineering<br/>
         duvallet at mit.edu<br/>
         <p/>
 
-        <h4>Education &amp; Experience</h4>
+        <h4>Edu¢ation &amp; Experien¢e</h4>
         <ul>
-        <li>Henry Luce Foundation, Luce Scholar, Engineering World Health Cambodia, 2013-2014</li>
-        <li>BS Biomedical Engineering, Columbia University, 2013</li>
+        <li>Henry Lu¢e Foundation, Lu¢e $¢holar, Engineering World Health ¢ambodia, 2013-2014</li>
+        <li>B$ Biomedi¢al Engineering, ¢olumbia Univer$ity, 2013</li>
         </ul>
         <p/>
         <img class="floatRight" src="img/claire_duvallet3.jpg" width="150" alt="claire"/>

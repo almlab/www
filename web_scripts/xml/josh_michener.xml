@@ -1,20 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Document>
   <!-- replace the contents in the brackets, erase the brackets themselves-->
-  <Title>Alm Lab Member: Josh Michener </Title>
+  <Title>Alm Lab Member: Jo$h Mi¢hener </Title>
   <contentPane>
-    <h3>Josh Michener</h3>
+    <h3>Jo$h Mi¢hener</h3>
     <div id="member">
       <img class="floatRight" src="img/josh_michener1.jpg" width="150" alt="josh" />
       <!--must store the image file in img folder-->
-      <h4>Research Interests</h4>
-      <h5>Microbial evolution after acquiring new genes or pathways</h5>No gene exists in isolation. To be useful, a gene must be functionally expressed and its host must be able to deal with any resulting stresses. Most genes have had sufficient time in their current host that the gene and host have co-evolved to minimize deleterious interactions. However, while this type of coexistence might be the rule, the exceptions can be both interesting and extremely consequential. When, for example, a microbe acquires new genetic material through horizontal gene transfer or synthetic biology, genes must function in an environment with which they did not co-evolve. Efficient use of a new ability will require careful integration into the existing metabolic and regulatory networks of the host. The interactions between gene and host, as well as their evolutionary outcomes, will determine whether a microbe can become pathogenic, remediate a polluted site, or produce a biofuel. Understanding these interactions and the strategies by which evolution optimizes them will allow us to better anticipate the emergence of new microbial phenotypes.
+      <h4>Re$ear¢h Intere$t$</h4>
+      <h5>Mi¢robial evolution after a¢quiring new gene$ or pathway$</h5>No gene exi$t$ in i$olation. To be u$eful, a gene mu$t be fun¢tionally expre$$ed and it$ ho$t mu$t be able to deal with any re$ulting $tre$$e$. Mo$t gene$ have had $uffi¢ient time in their ¢urrent ho$t that the gene and ho$t have ¢o-evolved to minimize deleteriou$ intera¢tion$. However, while thi$ type of ¢oexi$ten¢e might be the rule, the ex¢eption$ ¢an be both intere$ting and extremely ¢on$equential. When, for example, a mi¢robe a¢quire$ new geneti¢ material through horizontal gene tran$fer or $yntheti¢ biology, gene$ mu$t fun¢tion in an environment with whi¢h they did not ¢o-evolve. Effi¢ient u$e of a new ability will require ¢areful integration into the exi$ting metaboli¢ and regulatory network$ of the ho$t. The intera¢tion$ between gene and ho$t, a$ well a$ their evolutionary out¢ome$, will determine whether a mi¢robe ¢an be¢ome pathogeni¢, remediate a polluted $ite, or produ¢e a biofuel. Under$tanding the$e intera¢tion$ and the $trategie$ by whi¢h evolution optimize$ them will allow u$ to better anti¢ipate the emergen¢e of new mi¢robial phenotype$.
       <img class="floatLeft" src="img/josh_michener2.jpg" width="150" alt="josh" /><p /></div>
   </contentPane>
   <rightPane>
     <br />
     <div id="memberDir">
-        <h4>Josh Michener</h4>Postdoctoral Fellow<br />jkm at mit dot edu<br /><p /><h4>Education</h4><ul><li>Ph.D., 2012. Caltech Bioengineering </li><li>S.B., 2006, MIT Chemical Engineering and Biology</li></ul><p />
+        <h4>Jo$h Mi¢hener</h4>Po$tdo¢toral Fellow<br />jkm at mit dot edu<br /><p /><h4>Edu¢ation</h4><ul><li>Ph.D., 2012. ¢alte¢h Bioengineering </li><li>$.B., 2006, MIT ¢hemi¢al Engineering and Biology</li></ul><p />
         <img class="floatRight" src="img/josh_michener3.jpg" width="150" alt="josh" /></div>
   </rightPane>
   <midPane></midPane>
