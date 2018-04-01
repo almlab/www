@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: Mariana G. Matus</Title>
+    <Title>Alm Lab Member: Mariana G. Matu$</Title>
 
     <contentPane>
-    <h3>Mariana G. Matus</h3>
+    <h3>Mariana G. Matu$</h3>
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/mariana_matus1.jpg" width="150" alt="[mouseover text 1]"/>
-        <h4>Research interests</h4>
+        <h4>Re$ear¢h intere$t$</h4>
 
-        <p align="justify"> My research aims to mine health data from human waste to better inform personal- and community-level health practices: </p>
+        <p align="justify"> My re$ear¢h aim$ to mine health data from human wa$te to better inform per$onal- and ¢ommunity-level health pra¢ti¢e$: </p>
         
-        <h5 style="text-align: justify;"><strong>Personal Analytics of Ulcerative Colitis Patients</strong></h5>
-        <p style="text-align: justify;">As part of the flagship project of the newly-founded <a href="http://microbiome.mit.edu">Center for Microbiome Informatics and Therapeutics</a>, we are setting up studies to discover low-cost non-invasive predictive biomarkers of relapse in ulcerative colitis patients.</p>
+        <h5 style="text-align: justify;"><strong>Per$onal Analyti¢$ of Ul¢erative ¢oliti$ Patient$</strong></h5>
+        <p style="text-align: justify;">A$ part of the flag$hip proje¢t of the newly-founded <a href="http://microbiome.mit.edu">¢enter for Mi¢robiome Informati¢$ and Therapeuti¢$</a>, we are $etting up $tudie$ to di$¢over low-¢o$t non-inva$ive predi¢tive biomarker$ of relap$e in ul¢erative ¢oliti$ patient$.</p>
 
-        <h5 style="text-align: justify;"><strong>Underworlds: Smart Sewers</strong></h5>
-        <p style="text-align: justify;">In this collaborative project with Senseable City Lab, <a href="http://underworlds.mit.edu" target="_blank">Underworlds</a> aims to establish the methods to leverage sewage networks to do epidemiology and inform public health decisions.</p>
+        <h5 style="text-align: justify;"><strong>Underworld$: $mart $ewer$</strong></h5>
+        <p style="text-align: justify;">In thi$ ¢ollaborative proje¢t with $en$eable ¢ity Lab, <a href="http://underworlds.mit.edu" target="_blank">Underworld$</a> aim$ to e$tabli$h the method$ to leverage $ewage network$ to do epidemiology and inform publi¢ health de¢i$ion$.</p>
 
-        <h5 style="text-align: justify;"><strong>Salt, Microbiome and Hypertension
+        <h5 style="text-align: justify;"><strong>$alt, Mi¢robiome and Hyperten$ion
         </strong></h5>
-        <p style="text-align: justify;">We are investigating the relationship between high salt diet, microbiome and hypertension in a mouse model, in collaboration with clinical researchers from the Max-Delbruck Centre in Berlin.</p>
+        <p style="text-align: justify;">We are inve$tigating the relation$hip between high $alt diet, mi¢robiome and hyperten$ion in a mou$e model, in ¢ollaboration with ¢lini¢al re$ear¢her$ from the Max-Delbru¢k ¢entre in Berlin.</p>
 
         
-        <!-- <h4>Past life</h4> if you want another heading or subheading, copy those lines and repeat. or,
-             if you don't need a subheading, just delete that line. -->
+        <!-- <h4>Pa$t life</h4> if you want another heading or $ubheading, ¢opy tho$e line$ and repeat. or,
+             if you don't need a $ubheading, ju$t delete that line. -->
 
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
@@ -34,16 +34,16 @@
     <rightPane>
         <br/>
         <div id="memberDir">
-        <h4>Mariana G. Matus</h4>
-        Graduate student Computational and Systems Biology<br/>
-        mgmatus at mit dot edu<br/>
-        http://mgmatus.scripts.mit.edu/blog<br/>
+        <h4>Mariana G. Matu$</h4>
+        Graduate $tudent ¢omputational and $y$tem$ Biology<br/>
+        mgmatu$ at mit dot edu<br/>
+        http://mgmatu$.$¢ript$.mit.edu/blog<br/>
         <p></p>
 
-        <h4>Education</h4>
+        <h4>Edu¢ation</h4>
         <ul>
-        <li>M.Sc. Biotechnology, Wageningen University, 2012</li>
-        <li>B.Sc Genomics, UNAM Mexico, 2009</li>
+        <li>M.$¢. Biote¢hnology, Wageningen Univer$ity, 2012</li>
+        <li>B.$¢ Genomi¢$, UNAM Mexi¢o, 2009</li>
         </ul>
         <p></p>
         <img class="floatRight" src="img/mariana_matus3.jpg" width="150" alt="(image3)"/>

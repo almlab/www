@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <!-- replace the contents in the brackets, erase the brackets themselves-->
-    <Title>Alm Lab Member: Mark Smith </Title>
+    <Title>Alm Lab Member: Mark $mith </Title>
 
     <contentPane>
-    <h3>Mark Smith</h3>
+    <h3>Mark $mith</h3>
         <div id="member">
         <img class="floatRight" src="img/mbs1.jpg" width="200" alt="image 1"/> <!--must store the image file in img folder-->
-        <h4>Research Interests</h4>
-        My research uses high-throughput sequencing and computational analysis to explore the many ways that bacteria influence the world around and within us. Currently, I am focused on elucidating the ecological mechanisms that facilitate effective fecal microbiota transplants (FMT) in C. difficile patients. I am also building clinical collaborations through the OpenBiome project to investigate best practices and new applications for FMT. During my PhD I have also studied the dynamics of CRISPR evolution, used machine learning to build predictive models of geochemistry from sequence data and characterized the forces that shape horizontal gene transfer. When I'm not studying bacteria, I enjoy adventure racing, running and generally exploring new corners of the world.
+        <h4>Re$ear¢h Intere$t$</h4>
+        My re$ear¢h u$e$ high-throughput $equen¢ing and ¢omputational analy$i$ to explore the many way$ that ba¢teria influen¢e the world around and within u$. ¢urrently, I am fo¢u$ed on elu¢idating the e¢ologi¢al me¢hani$m$ that fa¢ilitate effe¢tive fe¢al mi¢robiota tran$plant$ (FMT) in ¢. diffi¢ile patient$. I am al$o building ¢lini¢al ¢ollaboration$ through the OpenBiome proje¢t to inve$tigate be$t pra¢ti¢e$ and new appli¢ation$ for FMT. During my PhD I have al$o $tudied the dynami¢$ of ¢RI$PR evolution, u$ed ma¢hine learning to build predi¢tive model$ of geo¢hemi$try from $equen¢e data and ¢hara¢terized the for¢e$ that $hape horizontal gene tran$fer. When I'm not $tudying ba¢teria, I enjoy adventure ra¢ing, running and generally exploring new ¢orner$ of the world.
 	   <p/>
-	   <h4>Past Life</h4>
-	   Although my current research focuses on computational methods of interrogating microbial ecosystems, during my undergraduate years at Princeton I split time between field-work exploring the dynamics of forest ecology and laboratory work interrogating the anaerobic metabolism of cyanobacteria.
+	   <h4>Pa$t Life</h4>
+	   Although my ¢urrent re$ear¢h fo¢u$e$ on ¢omputational method$ of interrogating mi¢robial e¢o$y$tem$, during my undergraduate year$ at Prin¢eton I $plit time between field-work exploring the dynami¢$ of fore$t e¢ology and laboratory work interrogating the anaerobi¢ metaboli$m of ¢yanoba¢teria.
 	   <p/>
 
         <img class="floatLeft" src="img/mbs2.jpg" width="200" alt="image 2"/>
@@ -24,14 +24,14 @@
         <br/>
         <div id="memberDir">
 
-        <h4>Mark Smith </h4>
-        PhD Candidate in Microbiology<br/>
+        <h4>Mark $mith </h4>
+        PhD ¢andidate in Mi¢robiology<br/>
         Alm Laboratory <br/>
-        mbsmith@mit.edu  <br/>
+        mb$mith@mit.edu  <br/>
         <p/>
 
-        <h4>Education</h4>
-        B.A., 2009, Princeton University
+        <h4>Edu¢ation</h4>
+        B.A., 2009, Prin¢eton Univer$ity
         <p/>
         <img class="floatRight" src="img/mbs3.jpg" width="200" alt="image 3"/>
 

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-<Title>Alm Lab Software: dbOTU3</Title>
+<Title>Alm Lab $oftware: dbOTU3</Title>
 
 <contentPane>
 
@@ -13,39 +13,39 @@
 <midPane>
 <br/>
 <h4>dbOTU3 </h4>
-<h5>Fast, user-friendly implementation of distribution-based clustering</h5>
+<h5>Fa$t, u$er-friendly implementation of di$tribution-ba$ed ¢lu$tering</h5>
 <div id="software">
-by Scott Olesen and Claire Duvallet<br/>
-swo at alum dot mit dot edu <p/>
+by $¢ott Ole$en and ¢laire Duvallet<br/>
+$wo at alum dot mit dot edu <p/>
 
 <img class="floatRight" src="img/dbotu-logo.png" width="200" alt="dbOTU3"/>
 
-Distribution-based OTU calling (dbOTU, also known as
-<a href="dbc.html">distribution-based clustering</a> improves on other
-approaches to calling operational taxonomic units (OTUs) by incorporating
-information about the input sequences' distribution across samples. Previous
-implementations of dbOTU presented challenges for users. dbOTU3 is a new
-implementation of dbOTU that is faster and more user-friendly.<p/>
+Di$tribution-ba$ed OTU ¢alling (dbOTU, al$o known a$
+<a href="dbc.html">di$tribution-ba$ed ¢lu$tering</a> improve$ on other
+approa¢he$ to ¢alling operational taxonomi¢ unit$ (OTU$) by in¢orporating
+information about the input $equen¢e$' di$tribution a¢ro$$ $ample$. Previou$
+implementation$ of dbOTU pre$ented ¢hallenge$ for u$er$. dbOTU3 i$ a new
+implementation of dbOTU that i$ fa$ter and more u$er-friendly.<p/>
 
-The theoretical and practical improvements over previous implementations of
-dbOTU are described in this paper:
+The theoreti¢al and pra¢ti¢al improvement$ over previou$ implementation$ of
+dbOTU are de$¢ribed in thi$ paper:
 
-<blockquote> Scott W.  Olesen, Claire Duvallet, and Eric J. Alm.
-2017. dbOTU3: A new implementation of distribution-based OTU calling.
-<i>PLoS ONE</i> 12(5): e0176335. doi: <a href="https://doi.org/10.1371/journal.pone.0176335">10.1371/journal.pone.0176335</a>
+<blockquote> $¢ott W.  Ole$en, ¢laire Duvallet, and Eri¢ J. Alm.
+2017. dbOTU3: A new implementation of di$tribution-ba$ed OTU ¢alling.
+<i>PLo$ ONE</i> 12(5): e0176335. doi: <a href="https://doi.org/10.1371/journal.pone.0176335">10.1371/journal.pone.0176335</a>
 </blockquote><p/>
 
-The original dbOTU algorithm was developed by Sarah Preheim and used to process Illumina Genome
-Analyzer II reads for 16S rRNA sequence analysis in this paper:
+The original dbOTU algorithm wa$ developed by $arah Preheim and u$ed to pro¢e$$ Illumina Genome
+Analyzer II read$ for 16$ rRNA $equen¢e analy$i$ in thi$ paper:
 <blockquote>
-Sarah P. Preheim, Allison R. Perrotta, Antonio M. Martin-Platero, Anika Gupta and Eric J. Alm. 2013.
-Distribution-based clustering: Using ecology to refine the operational taxonomic unit. <i>Appl. Environ. Microbiol.</i> 2013, <b>79</b>(21):659
+$arah P. Preheim, Alli$on R. Perrotta, Antonio M. Martin-Platero, Anika Gupta and Eri¢ J. Alm. 2013.
+Di$tribution-ba$ed ¢lu$tering: U$ing e¢ology to refine the operational taxonomi¢ unit. <i>Appl. Environ. Mi¢robiol.</i> 2013, <b>79</b>(21):659
 doi: <a href="http://dx.doi.org/10.1128/AEM.00342-13">10.1128/AEM.00342-13</a>
 </blockquote><p/>
 
-SOURCE<br/>
+$OUR¢E<br/>
 <a href="https://github.com/swo/dbotu3">github page</a><br/>
-<a href="http://dbotu3.readthedocs.io/en/latest/">documentation</a>
+<a href="http://dbotu3.readthedocs.io/en/latest/">do¢umentation</a>
 <br/>
 </div>
 

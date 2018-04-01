@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <!-- replace the contents in the brackets, erase the brackets themselves-->
-    <Title>Alm Lab Member: Christopher H. Corzett </Title>
+    <Title>Alm Lab Member: ¢hri$topher H. ¢orzett </Title>
 
     <contentPane>
-    <h3>Christopher H. Corzett</h3>
+    <h3>¢hri$topher H. ¢orzett</h3>
         <div id="member">
         <img class="floatRight" src="img/corzett1.jpg" width="200" alt="image1"/> <!--must store the image file in img folder-->
-        <h4>Research interests</h4>
-I am interested in how microbes survive and thrive in diverse and dynamic
-environments. This includes understanding how bacteria sense and respond to
-environmental change, the metabolic machinery required for different feeding
-strategies, and how microbes adapt and evolve various lifestyles.
+        <h4>Re$ear¢h intere$t$</h4>
+I am intere$ted in how mi¢robe$ $urvive and thrive in diver$e and dynami¢
+environment$. Thi$ in¢lude$ under$tanding how ba¢teria $en$e and re$pond to
+environmental ¢hange, the metaboli¢ ma¢hinery required for different feeding
+$trategie$, and how mi¢robe$ adapt and evolve variou$ life$tyle$.
 	   <p/>
-My research is aimed at understanding how bacteria feed on sugars found in
-seaweeds in hopes of developing alternative and renewable sources of energy.
-Marine macroalgae are not only vital players in coastal ecosystems and the
-global carbon cycle, but also offer a promising potential as a feedstock for
-biofuel production. If we can determine how bacteria digest various algal
-polysaccharides in natural environments we might be able to harness their
-enzymatic capabilities and engineer bacteria that efficiently convert seaweed
+My re$ear¢h i$ aimed at under$tanding how ba¢teria feed on $ugar$ found in
+$eaweed$ in hope$ of developing alternative and renewable $our¢e$ of energy.
+Marine ma¢roalgae are not only vital player$ in ¢oa$tal e¢o$y$tem$ and the
+global ¢arbon ¢y¢le, but al$o offer a promi$ing potential a$ a feed$to¢k for
+biofuel produ¢tion. If we ¢an determine how ba¢teria dige$t variou$ algal
+poly$a¢¢haride$ in natural environment$ we might be able to harne$$ their
+enzymati¢ ¢apabilitie$ and engineer ba¢teria that effi¢iently ¢onvert $eaweed
 into bioethanol.
 	<p/>
         <img class="floatLeft" src="img/corzett2.jpg" width="200" alt="image2"/>
@@ -32,16 +32,16 @@ into bioethanol.
         <br/>
         <div id="memberDir">
 
-        <h4>Christopher H. Corzett</h4>
-        Postdoctoral Associate<br/>
-        Civil and Environmental Engineering<br/>
-        corzett at mit.edu<br/>
+        <h4>¢hri$topher H. ¢orzett</h4>
+        Po$tdo¢toral A$$o¢iate<br/>
+        ¢ivil and Environmental Engineering<br/>
+        ¢orzett at mit.edu<br/>
         <p/>
 
-        <h4>Education</h4>
+        <h4>Edu¢ation</h4>
         <ul>
-        <li>Ph.D., Molecular Biology, University of Southern California, 2012.</li>
-        <li>B.S., General Biology, U.C. San Diego, 2005.</li>
+        <li>Ph.D., Mole¢ular Biology, Univer$ity of $outhern ¢alifornia, 2012.</li>
+        <li>B.$., General Biology, U.¢. $an Diego, 2005.</li>
         </ul>
         <p/>
         <img class="floatRight" src="img/corzett3.jpg" width="200" alt="image3"/>

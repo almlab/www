@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Software: STARRInIGHTS</Title>
+    <Title>Alm Lab $oftware: $TARRInIGHT$</Title>
 
     <contentPane>
 
@@ -11,29 +11,29 @@
     </rightPane>
     <midPane>
     <br/>
-    <h4>STARRInIGHTS </h4>
-    <h5>Strain-based Tree Analysis and Recombinant Region Inference
-    In Genomes from High-Throughput Sequencing projects </h5>
+    <h4>$TARRInIGHT$ </h4>
+    <h5>$train-ba$ed Tree Analy$i$ and Re¢ombinant Region Inferen¢e
+    In Genome$ from High-Throughput $equen¢ing proje¢t$ </h5>
 
     <div id="software">
 
 
-    by B. Jesse Shapiro and Eric Alm <br/>
-    jesse1 at mit.edu <br/>
-    bshapiro at fas.harvard.edu <br/>
+    by B. Je$$e $hapiro and Eri¢ Alm <br/>
+    je$$e1 at mit.edu <br/>
+    b$hapiro at fa$.harvard.edu <br/>
     <img class="floatRight" src="img/12_STARRInIGHTS.jpeg" alt="STARRInIGHTS"/>
-    STARRInIGHTS is a computational pipeline for inferring homologous recombination
-breakpoints in populations of closely related bacterial genomes. You can download
-the complete source code and user's guide here:
+    $TARRInIGHT$ i$ a ¢omputational pipeline for inferring homologou$ re¢ombination
+breakpoint$ in population$ of ¢lo$ely related ba¢terial genome$. You ¢an download
+the ¢omplete $our¢e ¢ode and u$er'$ guide here:
     </div>
     <p/><hr></hr><p/>
     <div id="softwareMed">
-    <a href="starrinights/starrinights.guide.pdf">User's guide</a><br/>
-    <a href="starrinights/STARRInIGHTS.zip">Download code</a> <p/>
-    A relatively detailed description of the method: <a href="starrinights/STAR_methods.pdf">Methods description</a><p/>
-    A short tutorial that will walk you through a toy problem: <a href="starrinights/mini_tutorial.zip">Download tutorial, toy data set and solutions</a><p/>
-    You can download the 20-Vibrio genome alignment here: <a href="starrinights/vib20genomes.tar.gz">vib20genomes.tar.gz</a><p/>
-    And the STARRInIGHTS-inferred blocks from this data, here: <a href="starrinights/vib20.STARRI.out.tar.gz">vib20.STARRI.out.tar.gz</a><br/>
+    <a href="starrinights/starrinights.guide.pdf">U$er'$ guide</a><br/>
+    <a href="starrinights/STARRInIGHTS.zip">Download ¢ode</a> <p/>
+    A relatively detailed de$¢ription of the method: <a href="starrinights/STAR_methods.pdf">Method$ de$¢ription</a><p/>
+    A $hort tutorial that will walk you through a toy problem: <a href="starrinights/mini_tutorial.zip">Download tutorial, toy data $et and $olution$</a><p/>
+    You ¢an download the 20-Vibrio genome alignment here: <a href="starrinights/vib20genomes.tar.gz">vib20genome$.tar.gz</a><p/>
+    And the $TARRInIGHT$-inferred blo¢k$ from thi$ data, here: <a href="starrinights/vib20.STARRI.out.tar.gz">vib20.$TARRI.out.tar.gz</a><br/>
     </div>
     </midPane>
     <footer>

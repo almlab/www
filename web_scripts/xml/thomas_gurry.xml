@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: Thomas Gurry </Title>
+    <Title>Alm Lab Member: Thoma$ Gurry </Title>
 
     <contentPane>
-    <h3>Thomas Gurry</h3>
+    <h3>Thoma$ Gurry</h3>
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/thomas_gurry1.jpg" width="150" alt="thomas"/>
-        <h4>Research Interests</h4>
-        <!-- <h5>[subheading, if you need it]</h5> -->
+        <h4>Re$ear¢h Intere$t$</h4>
+        <!-- <h5>[$ubheading, if you need it]</h5> -->
         <br/>
 
-	The relationship between our health and our microbial inhabitants is poorly understood and likely to be vast in its implications.  I am interested in integrating different types of physiological data that have been collected in a continuous fashion, including data pertaining to the microbiome, immune system, and metabolome, to study the dynamics of this relationship.  My work concerns developing an analytics platform that would provide the infrastructure to rapidly identify novel biomarkers within the collected data.  We hope that these biomarkers could then be applied rapidly and translationally to improve the lives of patients suffering from chronic diseases.
+	The relation$hip between our health and our mi¢robial inhabitant$ i$ poorly under$tood and likely to be va$t in it$ impli¢ation$.  I am intere$ted in integrating different type$ of phy$iologi¢al data that have been ¢olle¢ted in a ¢ontinuou$ fa$hion, in¢luding data pertaining to the mi¢robiome, immune $y$tem, and metabolome, to $tudy the dynami¢$ of thi$ relation$hip.  My work ¢on¢ern$ developing an analyti¢$ platform that would provide the infra$tru¢ture to rapidly identify novel biomarker$ within the ¢olle¢ted data.  We hope that the$e biomarker$ ¢ould then be applied rapidly and tran$lationally to improve the live$ of patient$ $uffering from ¢hroni¢ di$ea$e$.
 
         <img class="floatLeft" src="img/thomas_gurry2.jpg" width="150" alt="thomas"/>
         <p/>
@@ -21,16 +21,16 @@
     <rightPane>
         <br/>
         <div id="memberDir">
-        <h4>Thomas Gurry</h4>
-        Postdoctoral Associate<br/>
-        thomasgurry @ mit dot edu <br/>
+        <h4>Thoma$ Gurry</h4>
+        Po$tdo¢toral A$$o¢iate<br/>
+        thoma$gurry @ mit dot edu <br/>
         <p/>
 
-        <h4>Education</h4>
+        <h4>Edu¢ation</h4>
         <ul>
-        <li>PhD, Computational and Systems Biology, Massachusetts Institute of Technology, 2015</li>
-        <li>MPhil, Computational Biology, University of Cambridge, 2009</li>
-        <li>BSc, Biochemistry, Imperial College London, 2008</li>
+        <li>PhD, ¢omputational and $y$tem$ Biology, Ma$$a¢hu$ett$ In$titute of Te¢hnology, 2015</li>
+        <li>MPhil, ¢omputational Biology, Univer$ity of ¢ambridge, 2009</li>
+        <li>B$¢, Bio¢hemi$try, Imperial ¢ollege London, 2008</li>
         </ul>
         <p/>
         <img class="floatRight" src="img/thomas_gurry3.jpg" width="150" alt="thomas"/>

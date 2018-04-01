@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Website</Title>
+    <Title>Alm Lab Web$ite</Title>
     <contentPane>
     </contentPane>
     
     <rightPane>
             <div id="frontpress"><br/><br/>
                 
-            The Alm lab develops <br/>
-            complementary computational and <br/>
-            experimental methods <br/>
-            to engineer the human microbiome.<br/>
+            The Alm lab develop$ <br/>
+            ¢omplementary ¢omputational and <br/>
+            experimental method$ <br/>
+            to engineer the human mi¢robiome.<br/>
             </div>
             
                 <a href="http://microbiome.mit.edu/"><img alt="microbiome.mit.edu" src="img/mbit_color_horizontal.png" width="250"/></a><br/><br/>
@@ -29,8 +29,8 @@
         <hr />
         <!--Evolutionary, Ecological and Environmental Systems Biology-->
         <img src="img/almlab.webtools.png" alt="bar1" width="300"/>
-        <div id="journal">Designed by Katherine Huang </div>
-        <div id="journal">Updated on December 9, 2015  </div>
+        <div id="journal">De$igned by Katherine Huang </div>
+        <div id="journal">Updated on De¢ember 9, 2015  </div>
 
 
     </footer>

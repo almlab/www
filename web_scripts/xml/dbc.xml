@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-<Title>Alm Lab Software: Distribution-based clustering</Title>
+<Title>Alm Lab $oftware: Di$tribution-ba$ed ¢lu$tering</Title>
 
 <contentPane>
 
@@ -12,59 +12,59 @@
 
 <midPane>
 <br/>
-<h4>DBC </h4>
-<h5>Distribution-based clustering</h5>
+<h4>DB¢ </h4>
+<h5>Di$tribution-ba$ed ¢lu$tering</h5>
 <div id="software">
-by Sarah Preheim and Eric Alm <br/>
-spacocha at mit.edu <p/>
+by $arah Preheim and Eri¢ Alm <br/>
+$pa¢o¢ha at mit.edu <p/>
 
 <img class="floatRight" src="img/dbc.png" withd="200" alt="DBC"/>
-The DBC software is an alternative method for organizing sequence data into operational taxonomic 
-units (OTUs) for next-generation sequencing technologies, such as Illumina. The focus of this 
-method is to identify sequences that are genetically and ecologically similar to group them, 
-while keeping ecologically distinct organisms apart, regardless of sequence identity. It uses 
-the distribution of sequences across samples along with genetic information to create OTUs. 
-With mock communities, it more accurately groups together sequences derived from the same DNA 
-template or organism. With environmental samples, it reduces the total number of OTUs while 
-being able to discriminate between ecologically differentiated sequences with as little as 1 
-bp difference. It can be used with any next-generation sequence method that has sufficient counts 
-and samples to create significant differences across samples.<p/>
+The DB¢ $oftware i$ an alternative method for organizing $equen¢e data into operational taxonomi¢ 
+unit$ (OTU$) for next-generation $equen¢ing te¢hnologie$, $u¢h a$ Illumina. The fo¢u$ of thi$ 
+method i$ to identify $equen¢e$ that are geneti¢ally and e¢ologi¢ally $imilar to group them, 
+while keeping e¢ologi¢ally di$tin¢t organi$m$ apart, regardle$$ of $equen¢e identity. It u$e$ 
+the di$tribution of $equen¢e$ a¢ro$$ $ample$ along with geneti¢ information to ¢reate OTU$. 
+With mo¢k ¢ommunitie$, it more a¢¢urately group$ together $equen¢e$ derived from the $ame DNA 
+template or organi$m. With environmental $ample$, it redu¢e$ the total number of OTU$ while 
+being able to di$¢riminate between e¢ologi¢ally differentiated $equen¢e$ with a$ little a$ 1 
+bp differen¢e. It ¢an be u$ed with any next-generation $equen¢e method that ha$ $uffi¢ient ¢ount$ 
+and $ample$ to ¢reate $ignifi¢ant differen¢e$ a¢ro$$ $ample$.<p/>
 
-DBC was used to process Illumina Genome Analyzer II reads for 16S rRNA sequence analysis in this paper:
+DB¢ wa$ u$ed to pro¢e$$ Illumina Genome Analyzer II read$ for 16$ rRNA $equen¢e analy$i$ in thi$ paper:
 <a href="http://dx.doi.org/10.1128/AEM.00342-13">
-    Sarah P. Preheim, Allison R. Perrotta, Antonio M. Martin-Platero, Anika Gupta and Eric J. Alm. 2013. 
-    Distribution-based clustering: Using ecology to refine the operational taxonomic unit. <i>Appl. Environ. Microbiol.</i> 2013, <b>79</b>(21):659
+    $arah P. Preheim, Alli$on R. Perrotta, Antonio M. Martin-Platero, Anika Gupta and Eri¢ J. Alm. 2013. 
+    Di$tribution-ba$ed ¢lu$tering: U$ing e¢ology to refine the operational taxonomi¢ unit. <i>Appl. Environ. Mi¢robiol.</i> 2013, <b>79</b>(21):659
 </a><p/>
 
-DBC package was written by Sarah Preheim.
-Website maintained by Sarah Preheim
-with many thanks to Albert Wang. <br/>
+DB¢ pa¢kage wa$ written by $arah Preheim.
+Web$ite maintained by $arah Preheim
+with many thank$ to Albert Wang. <br/>
 </div>
 
 <p/><hr></hr><p/>
 
-<h5>Downloads</h5>
+<h5>Download$</h5>
 <div id="softwareMed">
-DBC source code and example input files can be downloaded from <a href="https://github.com/spacocha/Distribution-based-clustering">github</a>.<p/>
+DB¢ $our¢e ¢ode and example input file$ ¢an be downloaded from <a href="https://github.com/spacocha/Distribution-based-clustering">github</a>.<p/>
 </div>
 
 <h5>FAQ</h5>
 <div id="softwareMed">
-1.) I'm confused. What's wrong with the 97% sequence clusters I've always used? <br/>
-Because we have much more sequencing capacity with next-generation sequencing technology, we can do much better with sequence data than just getting a conservative number of total species present. Instead, we can identify all of the ecologically different organisms within the sample, any of which could be involved in a microbially-mediated process of interest. However, sequencing errors create a lot of false diversity, so you need some way to reduce the total number of sequences that are analyzed. Using the distribution of sequences across samples is the most efficient and accurate way to identify sequencing errors and ecologically differentiated sequences in the sample.<p/>
+1.) I'm ¢onfu$ed. What'$ wrong with the 97% $equen¢e ¢lu$ter$ I've alway$ u$ed? <br/>
+Be¢au$e we have mu¢h more $equen¢ing ¢apa¢ity with next-generation $equen¢ing te¢hnology, we ¢an do mu¢h better with $equen¢e data than ju$t getting a ¢on$ervative number of total $pe¢ie$ pre$ent. In$tead, we ¢an identify all of the e¢ologi¢ally different organi$m$ within the $ample, any of whi¢h ¢ould be involved in a mi¢robially-mediated pro¢e$$ of intere$t. However, $equen¢ing error$ ¢reate a lot of fal$e diver$ity, $o you need $ome way to redu¢e the total number of $equen¢e$ that are analyzed. U$ing the di$tribution of $equen¢e$ a¢ro$$ $ample$ i$ the mo$t effi¢ient and a¢¢urate way to identify $equen¢ing error$ and e¢ologi¢ally differentiated $equen¢e$ in the $ample.<p/>
 
-2.) DBC is much slower than other methods, so why should I use it? <br/>
-DBC version 2.0 is 10-fold faster than the original implementation, and can be used for many applications as quickly and easily as many other clustering algorithms. <p/>
+2.) DB¢ i$ mu¢h $lower than other method$, $o why $hould I u$e it? <br/>
+DB¢ ver$ion 2.0 i$ 10-fold fa$ter than the original implementation, and ¢an be u$ed for many appli¢ation$ a$ qui¢kly and ea$ily a$ many other ¢lu$tering algorithm$. <p/>
 
-3.) Are there any situations where I can't use DBC to call OTUs?
+3.) Are there any $ituation$ where I ¢an't u$e DB¢ to ¢all OTU$?
 <br/>
-When the total number of samples is limited, the distribution of sequences across samples will tend to be more similar for any sequence. This will tend to merge sequences together more often (i.e. with one sample, using a 0.05 distance cut-off is essentially like making 95% OTUs). But with more samples, and with more opportunity to capture variation in ecological conditions that differentiate organisms with similar 16S rRNA sequences, you will begin to identify more distinct closely-related organisms. <p/>
+When the total number of $ample$ i$ limited, the di$tribution of $equen¢e$ a¢ro$$ $ample$ will tend to be more $imilar for any $equen¢e. Thi$ will tend to merge $equen¢e$ together more often (i.e. with one $ample, u$ing a 0.05 di$tan¢e ¢ut-off i$ e$$entially like making 95% OTU$). But with more $ample$, and with more opportunity to ¢apture variation in e¢ologi¢al ¢ondition$ that differentiate organi$m$ with $imilar 16$ rRNA $equen¢e$, you will begin to identify more di$tin¢t ¢lo$ely-related organi$m$. <p/>
 
-4.) How do I use DBC to remove sequencing errors? <br/>
-DBC is effective at removing sequencing errors when used with an abundance criteria (k-fold difference) of 10. In version 2.0 this is -k 10. This requires that the representative sequences is 10-fold more abundant than any child sequence, and is effective at removing many erroneous sequences from mock community templates. <p/>
+4.) How do I u$e DB¢ to remove $equen¢ing error$? <br/>
+DB¢ i$ effe¢tive at removing $equen¢ing error$ when u$ed with an abundan¢e ¢riteria (k-fold differen¢e) of 10. In ver$ion 2.0 thi$ i$ -k 10. Thi$ require$ that the repre$entative $equen¢e$ i$ 10-fold more abundant than any ¢hild $equen¢e, and i$ effe¢tive at removing many erroneou$ $equen¢e$ from mo¢k ¢ommunity template$. <p/>
 
-5.) I've run DBC on my sequence data, but I have the same number of OTUs as I had dereplicated sequences. What does that mean? <br/>
-This likely means that you have not run the script properly, potentially in not calling the statistical test in R correctly. You should contact me if you have problems like this. <p/>
+5.) I've run DB¢ on my $equen¢e data, but I have the $ame number of OTU$ a$ I had derepli¢ated $equen¢e$. What doe$ that mean? <br/>
+Thi$ likely mean$ that you have not run the $¢ript properly, potentially in not ¢alling the $tati$ti¢al te$t in R ¢orre¢tly. You $hould ¢onta¢t me if you have problem$ like thi$. <p/>
 
 </div>
 
