@@ -7,10 +7,10 @@
     <h3>Joy Yang</h3>
         <div id="member">
         <img class="floatRight" src="img/joy_yang1.jpg" width="150" alt="(image 1)"/> <!--must store the image file in img folder-->
-        <h4>Re$ear¢h Intere$t$</h4>
-        I am broadly intere$ted in the evolution and e¢ology of pathogen$. In parti¢ular, I would like to utililize high performan¢e ¢omputing to $tudy the effe¢t of the intri¢ate intera¢tion$ among ho$t, ba¢teria, and mobile geneti¢ element$ $u¢h a$ phage and pla$mid$ on di$ea$e. In my $pare time, I work on $trengthening my own gut mi¢robiome by eating lot$ of yogurt. <br/><br/>
-        <h5>Pa$t Life</h5>
-        While attending Berkeley, I worked on genomi¢$ of three-$pined $ti¢kleba¢k fi$h a$ well a$ method$ for a$$e$$ing pro$tate bra¢hytherapy treatment plan$. After graduating, I worked at the NIH on developing a program for automating the de$ign p¢r a$$ay$ for $train-level identifi¢ation of ba¢teria impli¢ated in health¢are-a$$o¢iated infe¢tion$. <br/><br/>
+        <h4>Research Interests</h4>
+        I am broadly interested in the evolution and ecology of pathogens. In particular, I would like to utililize high performance computing to study the effect of the intricate interactions among host, bacteria, and mobile genetic elements such as phage and plasmids on disease. In my spare time, I work on strengthening my own gut microbiome by eating lots of yogurt. <br/><br/>
+        <h5>Past Life</h5>
+        While attending Berkeley, I worked on genomics of three-spined stickleback fish as well as methods for assessing prostate brachytherapy treatment plans. After graduating, I worked at the NIH on developing a program for automating the design pcr assays for strain-level identification of bacteria implicated in healthcare-associated infections. <br/><br/>
         <img class="floatLeft" src="img/joy_yang2.jpg" width="150" alt="(image 2)"/>
         <p/>
 
@@ -22,14 +22,14 @@
         <div id="memberDir">
 
         <h4>Joy Yang </h4>
-        Graduate $tudent<br/>
-        ¢omputational and $y$tem$ Biology<br/>
+        Graduate Student<br/>
+        Computational and Systems Biology<br/>
         y a n g j y (a t) m i t  <br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
+        <h4>Education</h4>
         <ul>
-        <li>BA, $tati$ti¢$, U¢ Berkeley</li>
+        <li>BA, Statistics, UC Berkeley</li>
         </ul>
         <p/>
         <img class="floatRight" src="img/joy_yang3.jpg" width="150" alt="(image 3)"/>

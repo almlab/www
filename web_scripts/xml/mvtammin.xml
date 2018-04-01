@@ -7,11 +7,11 @@
     <h3>Manu Tamminen</h3>
         <div id="member">
         <img class="floatRight" src="img/mvtammin1.jpeg" width="200" alt="image 1"/> <!--must store the image file in img folder-->
-        <h4>Re$ear¢h Intere$t$</h4>
-	I'm inve$tigating novel approa¢he$ to extra¢t and analyze genomi¢ and tran$¢riptomi¢ information from $ingle ¢ell$. To a¢hieve thi$ ex¢iting obje¢tive I u$e a variety of tool$, in¢luding flow a$$i$ted ¢ell $orting, mi¢rofluidi¢$, mole¢ular biology and ¢omputational analy$i$. Thi$ ¢ombination of laboratory and ¢omputational approa¢he$ ha$ ¢on$iderable benefit$ over metagenomi¢$. Fir$t, it permit$ ¢omplete a$$embly of genome$ of environmental mi¢robe$, in¢luding genome$ ¢on$i$ting of $everal pla$mid$ and multiple ¢hromo$ome$. $e¢ond, it permit$ targeting the $equen¢ing effort to parti¢ular mi¢robial $ubpopulation$ of intere$t. Finally, it ¢on$iderably redu¢e$ the ¢omputational ¢o$t$ of metagenomi¢$ be¢au$e the geneti¢ information of individual mi¢robe$ i$ already partitioned into di$¢reet bin$. When not working on $ingle ¢ell$ or genomi¢$, I enjoy book$, mu$i¢, traveling and $imply trying out new thing$.
+        <h4>Research Interests</h4>
+	I'm investigating novel approaches to extract and analyze genomic and transcriptomic information from single cells. To achieve this exciting objective I use a variety of tools, including flow assisted cell sorting, microfluidics, molecular biology and computational analysis. This combination of laboratory and computational approaches has considerable benefits over metagenomics. First, it permits complete assembly of genomes of environmental microbes, including genomes consisting of several plasmids and multiple chromosomes. Second, it permits targeting the sequencing effort to particular microbial subpopulations of interest. Finally, it considerably reduces the computational costs of metagenomics because the genetic information of individual microbes is already partitioned into discreet bins. When not working on single cells or genomics, I enjoy books, music, traveling and simply trying out new things.
 	   <p/>
-	   <h4>Pa$t Life</h4>
-           I $tudied ¢hemi$try and bio¢hemi$try in Univer$ity of Turku, Finland and more re¢ently re¢eived my Ph.D. in mi¢robiology from Univer$ity of Hel$inki. My $tudie$ and re$ear¢h have al$o taken me to live and work in ¢ountrie$ $u¢h a$ Germany, $witzerland, Italy and Japan.
+	   <h4>Past Life</h4>
+           I studied chemistry and biochemistry in University of Turku, Finland and more recently received my Ph.D. in microbiology from University of Helsinki. My studies and research have also taken me to live and work in countries such as Germany, Switzerland, Italy and Japan.
 	   <p/>
 
         <img class="floatLeft" src="img/mvtammin2.jpeg" width="200" alt="image 2"/>
@@ -25,13 +25,13 @@
         <div id="memberDir">
 
         <h4>Manu Tamminen </h4>
-        Po$t-do¢toral affiliate<br/>
+        Post-doctoral affiliate<br/>
         Alm Laboratory <br/>
         mvtammin@mit.edu  <br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
-        Ph.D., 2011, Univer$ity of Hel$inki, Finland
+        <h4>Education</h4>
+        Ph.D., 2011, University of Helsinki, Finland
         <p/>
         <img class="floatRight" src="img/mvtammin3.jpeg" width="200" alt="image 3"/>
 

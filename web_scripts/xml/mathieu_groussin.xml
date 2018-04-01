@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <!-- replace the contents in the brackets, erase the brackets themselves-->
-    <Title>Alm Lab Member: Mathieu Grou$$in</Title>
+    <Title>Alm Lab Member: Mathieu Groussin</Title>
 
     <contentPane>
-    <h3>Mathieu Grou$$in</h3>
+    <h3>Mathieu Groussin</h3>
         <div id="member">
         <img class="floatRight" src="img/groussin2.jpg" width="200" alt="groussin_2"/> <!--must store the image file in img folder-->
-        <h4>Re$ear¢h intere$t$</h4>
-Broadly $peaking, I am intere$ted in the inferen¢e of biologi¢al propertie$ of an¢ient prokaryoti¢ life and in how ba¢terial and ar¢haeal ¢ommunitie$ evolve. My main intere$t$ fo¢u$ on the $tudy of geneti¢ data (DNA, protein$) to under$tand the main evolutionary pro¢e$$e$ $haping their ¢hara¢teri$ti¢$ over evolutionary time, a$ well a$ driving the evolution of organi$m$. Mo$t of my previou$ and ¢urrent re$ear¢h intere$t$ in¢lude:
+        <h4>Research interests</h4>
+Broadly speaking, I am interested in the inference of biological properties of ancient prokaryotic life and in how bacterial and archaeal communities evolve. My main interests focus on the study of genetic data (DNA, proteins) to understand the main evolutionary processes shaping their characteristics over evolutionary time, as well as driving the evolution of organisms. Most of my previous and current research interests include:
         <ul class="square">
-        <li>Development of (non-homogeneou$) $ub$titution model$</li>
-        <li>Mole¢ular ¢lo¢k model$ and inferen¢e of $pe¢ie$ divergen¢e time$</li>
-        <li>Phylogeneti¢ inferen¢e of early ¢ondition$ of Life</li>
-        <li>Mole¢ular adaptation to hot/¢old environmental temperature$ in Prokaryote$</li>
-        <li>An¢e$tral $equen¢e re¢on$tru¢tion and protein re$urre¢tion</li>
-        <li>An¢e$tral genome re¢on$tru¢tion</li>
-        <li>Evolutionary genomi¢$</li>
-        <li>Evolution and e¢ology of mi¢robial ¢ommunitie$</li>
-        <li>Gut mi¢robiota and it$ impa¢t on ho$t biology</li>
+        <li>Development of (non-homogeneous) substitution models</li>
+        <li>Molecular clock models and inference of species divergence times</li>
+        <li>Phylogenetic inference of early conditions of Life</li>
+        <li>Molecular adaptation to hot/cold environmental temperatures in Prokaryotes</li>
+        <li>Ancestral sequence reconstruction and protein resurrection</li>
+        <li>Ancestral genome reconstruction</li>
+        <li>Evolutionary genomics</li>
+        <li>Evolution and ecology of microbial communities</li>
+        <li>Gut microbiota and its impact on host biology</li>
         </ul>
 
     <p/>
-	   <h4>¢urrent proje¢t$</h4>
-My ¢urrent re$ear¢h fo¢u$e$ on the evolution of gut mi¢robiota in Vertebrate$. My proje¢t$ in¢lude: the development of evolutionary model$ aiming at ¢apturing the evolutionary pro¢e$$e$ driving gut mi¢robial ¢ompo$ition over time; inve$tigating the temporal dynami¢$ of gut mi¢robiota evolution; predi¢ting diet from gut mi¢robial ¢ompo$ition; ¢hara¢terizing the intimate relation$hip between the ho$t (immunity) and gut mi¢robe$ after birth and during evolution.
+	   <h4>Current projects</h4>
+My current research focuses on the evolution of gut microbiota in Vertebrates. My projects include: the development of evolutionary models aiming at capturing the evolutionary processes driving gut microbial composition over time; investigating the temporal dynamics of gut microbiota evolution; predicting diet from gut microbial composition; characterizing the intimate relationship between the host (immunity) and gut microbes after birth and during evolution.
 	<p/>
 
         <img class="floatLeft" src="img/groussin3.jpg" width="200" alt="groussin_3"/>
@@ -36,15 +36,15 @@ My ¢urrent re$ear¢h fo¢u$e$ on the evolution of gut mi¢robiota in Vertebrate
         <br/>
         <div id="memberDir">
 
-        <h4>Mathieu Grou$$in</h4>
-        Po$tdo¢toral A$$o¢iate<br/>
-        mgrou$$i at mit dot edu<br/>
+        <h4>Mathieu Groussin</h4>
+        Postdoctoral Associate<br/>
+        mgroussi at mit dot edu<br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
+        <h4>Education</h4>
         <ul>
-        <li>Ph.D., Evolutionary biology and mole¢ular phylogeneti¢$, Univer$ity of Lyon 1,  <a href="http://lbbe.univ-lyon1.fr/?lang=en">Biometrie and Evolutionary Biology Laboratory</a>. 2013.</li>
-        <li>B.$., Bio$¢ien¢e$, <a href='http://biologie.ens-lyon.fr/masterbiosciences/accueil?set_language=en&amp;cl=en'>E¢ole Normale $uperieure of Lyon</a>. 2010.</li>
+        <li>Ph.D., Evolutionary biology and molecular phylogenetics, University of Lyon 1,  <a href="http://lbbe.univ-lyon1.fr/?lang=en">Biometrie and Evolutionary Biology Laboratory</a>. 2013.</li>
+        <li>B.S., Biosciences, <a href='http://biologie.ens-lyon.fr/masterbiosciences/accueil?set_language=en&amp;cl=en'>Ecole Normale Superieure of Lyon</a>. 2010.</li>
         </ul>
         <p/>
         <img class="floatRight" src="img/groussin4.jpg" width="200" alt="groussin_4"/>

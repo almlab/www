@@ -1,112 +1,112 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member$</Title>
+    <Title>Alm Lab Members</Title>
 
     <contentPane>
-        <h3>Lab Member$</h3>
-    <h4>PI: Eri¢ Alm</h4>
+        <h3>Lab Members</h3>
+    <h4>PI: Eric Alm</h4>
     <div id="member">
         <img class="floatRight" src="img/ericAlm.png" width="150" alt="ericAlm"/>
-        The human mi¢robiome play$ a key role in human health and di$ea$e.
-        Re$ear¢h in my group in¢lude$ both ¢omputational/theoreti¢al
-        and experimental approa¢he$ to under$tanding and engineering the human mi¢robiome.
-        Our re$ear¢h i$ fo¢u$ed on tran$lating ba$i¢ $¢ien¢e di$¢overie$ rapidly into the ¢lini¢, where they ¢an ¢ontribute to better out¢ome$ for patient$.
-        $ome area$ of $pe¢ial intere$t in¢lude:
+        The human microbiome plays a key role in human health and disease.
+        Research in my group includes both computational/theoretical
+        and experimental approaches to understanding and engineering the human microbiome.
+        Our research is focused on translating basic science discoveries rapidly into the clinic, where they can contribute to better outcomes for patients.
+        Some areas of special interest include:
         <ul class="square">
-        <li>Developing therapeuti¢$ ba$ed on $yntheti¢ mi¢robial ¢ommunitie$</li>
-        <li>Per$onalized medi¢ine</li>
-        <li>Monitoring human a¢tivitie$ through $mart $ewer$</li>
-        <li>$mart Toilet$ that tra¢k human health</li>
-        <li>Di$¢overing low-¢o$t non-inva$ive biomarker$</li>
+        <li>Developing therapeutics based on synthetic microbial communities</li>
+        <li>Personalized medicine</li>
+        <li>Monitoring human activities through Smart Sewers</li>
+        <li>Smart Toilets that track human health</li>
+        <li>Discovering low-cost non-invasive biomarkers</li>
         </ul>
         <a href="ealm.html">Read more</a>
     </div>
     <hr/>
 
-    <h4>$taff</h4>
+    <h4>Staff</h4>
     <div id="member">
-      <font class="fontTitle">$handrina Burn$</font><br/>
-      Admini$trative a$$i$tant<br/>
-      burn$$ at mit dot edu
+      <font class="fontTitle">Shandrina Burns</font><br/>
+      Administrative assistant<br/>
+      burnss at mit dot edu
     </div>
     
     <div id="member">
-      <font class="fontTitle">T$ultrim Palden</font><br/>
+      <font class="fontTitle">Tsultrim Palden</font><br/>
       Lab manager<br/>
       tpalden at mit dot edu
     </div>
 
     <div id="member">
-      <font class="fontTitle">Katya Froi$-Moniz</font><br/>
-      Re$ear¢h $¢ienti$t/Re$ear¢h Lead<br/>
+      <font class="fontTitle">Katya Frois-Moniz</font><br/>
+      Research Scientist/Research Lead<br/>
       kmoniz at mit dot edu
     </div>
 
     <hr/>
 
-    <h4>Po$tdo¢$</h4>
+    <h4>Postdocs</h4>
    
      <div id="member">
          <img class="floatLeft" src="img/sean_gibbons1.png" width="150" alt="sean"/>
-         <font class="fontTitle">$ean Gibbon$</font><br/>
-         Mi¢roorgani$m$ form the foundation of all e¢o$y$tem$ on Earth and are 
-         re$pon$ible for driving the major biogeo¢hemi¢al ¢y¢le$. From generating 
+         <font class="fontTitle">Sean Gibbons</font><br/>
+         Microorganisms form the foundation of all ecosystems on Earth and are 
+         responsible for driving the major biogeochemical cycles. From generating 
          the air that we breathe and the food that we eat, to maintaining our health 
-         and well-being, mi¢robial ¢ommunitie$ are e$$ential ¢omponent$ of the bio$phere. <a href="sean_gibbons.html">Read more</a>
+         and well-being, microbial communities are essential components of the biosphere. <a href="sean_gibbons.html">Read more</a>
      </div>
    
      <div id="member">
          <img class="floatLeft" src="img/groussin1.jpg" width="150" alt="mathieu"/>
-         <font class="fontTitle">Mathieu Grou$$in</font><br/>
-         Broadly $peaking, I am intere$ted in the inferen¢e of biologi¢al
-         propertie$ of an¢ient prokaryoti¢ life and in how ba¢terial and ar¢haeal
-         ¢ommunitie$ evolve. My main intere$t$ fo¢u$ on the $tudy of geneti¢ data
-         (DNA, protein$) to under$tand the main evolutionary pro¢e$$e$... <a href="mathieu_groussin.html">Read more</a>
+         <font class="fontTitle">Mathieu Groussin</font><br/>
+         Broadly speaking, I am interested in the inference of biological
+         properties of ancient prokaryotic life and in how bacterial and archaeal
+         communities evolve. My main interests focus on the study of genetic data
+         (DNA, proteins) to understand the main evolutionary processes... <a href="mathieu_groussin.html">Read more</a>
      </div>
 
      <div id="member">
          <img class="floatLeft" src="img/thomas_gurry1.jpg" width="150" alt="thomas"/>
-         <font class="fontTitle">Thoma$ Gurry</font><br/>
-         The relation$hip between our health and our mi¢robial inhabitant$ i$ poorly 
-         under$tood and likely to be va$t in it$ impli¢ation$.  I am intere$ted 
-         in integrating different type$ of phy$iologi¢al data that have been ¢olle¢ted 
-         in a ¢ontinuou$ fa$hion, in¢luding data pertaining to the mi¢robiome... <a href="thomas_gurry.html">Read more</a>
+         <font class="fontTitle">Thomas Gurry</font><br/>
+         The relationship between our health and our microbial inhabitants is poorly 
+         understood and likely to be vast in its implications.  I am interested 
+         in integrating different types of physiological data that have been collected 
+         in a continuous fashion, including data pertaining to the microbiome... <a href="thomas_gurry.html">Read more</a>
      </div>
 
      <div id="member">
        <img class="floatLeft" src="img/xiaofang_jiang1.jpg" width="150" alt="xiaofang"/>
        <font class="fontTitle">Xiaofang Jiang</font><br/>
-       To adapt their phy$iology to gradual and $udden ¢hange$ o¢¢urring in the ho$t environment or 
-       during inter-individual tran$mi$$ion$, ¢ommen$al$ exhibit remarkable geneti¢ variation diver$ity 
-       at a population level. I am intere$ted in the geneti¢ variation$ of gut mi¢robe$ and how the 
-       variation$ are benefi¢ial for  their effe¢tive ¢olonization and $u¢¢e$$ful $urvival. I am 
-       developing tool$ and mining geneti¢ variation$ from i$olate genome$ and metagenomi¢ data...
+       To adapt their physiology to gradual and sudden changes occurring in the host environment or 
+       during inter-individual transmissions, commensals exhibit remarkable genetic variation diversity 
+       at a population level. I am interested in the genetic variations of gut microbes and how the 
+       variations are beneficial for  their effective colonization and successful survival. I am 
+       developing tools and mining genetic variations from isolate genomes and metagenomic data...
        <a href="xiaofang_jiang.html">Read more</a>
      </div>
 
      <div id="member">
           <img class="floatLeft" src="img/mathilde_poyet1.jpg" width="150" alt="mathilde"/>
           <font class="fontTitle">Mathilde Poyet</font><br/>
-          I am an e¢ologi$t with a $pe¢ial intere$t in biologi¢al ¢ommunitie$. 
-          During my PhD, I ¢hara¢terized the inva$ion pro¢e$$e$ of an in$e¢t 
-          (<i>Dro$ophila $uzukii</i>) and it$ impa¢t on the invaded ¢ommunitie$ at different 
-          level$ of organization. Now, I keep on $tudying ¢ommunity and e¢o$y$tem $tability...
+          I am an ecologist with a special interest in biological communities. 
+          During my PhD, I characterized the invasion processes of an insect 
+          (<i>Drosophila suzukii</i>) and its impact on the invaded communities at different 
+          levels of organization. Now, I keep on studying community and ecosystem stability...
           <a href="mathilde_poyet.html">Read more</a>
      </div>
 
      <div id="member">
         <img class="floatLeft" src="img/avihu2.jpg" width="150" alt="avihu"/>
         <font class="fontTitle">Avihu Yona</font><br/>
-        During my do¢toral re$ear¢h I utilized experimental evolution to $tudy
-        the evolutionary dynami¢$ of genomi¢ dupli¢ation$ like aneuploidy and
-        tRNA gene$. Now, I’m intere$ted in the way ¢omplex ¢ommunitie$ evolve a$
-        an integral entity and in how evolutionary for¢e$ ¢an be applied to
-        re$hape $u¢h ¢ommunitie$ toward$ de$irable trait$.... <a href="avihuYona.html">Read more</a>
+        During my doctoral research I utilized experimental evolution to study
+        the evolutionary dynamics of genomic duplications like aneuploidy and
+        tRNA genes. Now, I’m interested in the way complex communities evolve as
+        an integral entity and in how evolutionary forces can be applied to
+        reshape such communities towards desirable traits.... <a href="avihuYona.html">Read more</a>
        
      </div>  
 
     <div id="member">
-      <font class="fontTitle">$epideh Pakpour</font><br/>
+      <font class="fontTitle">Sepideh Pakpour</font><br/>
     </div>
     <div id="member">
       <font class="fontTitle">Fangqiong Ling</font><br/>
@@ -114,95 +114,95 @@
     <hr/>
 
      <!--
-    <h4>$taff</h4>
+    <h4>Staff</h4>
     <div id="member">
         <img class="floatLeft" src="img/antolik1.jpg" width="150" alt="seanClarke"/>
-        <font class="fontTitle">¢aroline Antolik</font><br/>
-        A$ Te¢hni¢al A$$i$tant in the Alm lab, I help out with variou$
-        a$pe¢t$ of lab member$' proje¢t$. My main re$pon$ibilitie$ in¢lude 16$
-        library prep for Illumina $equen¢ing and training for u$er$ on
-        $pe¢ialized equipment $u¢h a$ our Bioanalyzer and liquid handling robot.... <a href="antolik.html">Read more</a>
+        <font class="fontTitle">Caroline Antolik</font><br/>
+        As Technical Assistant in the Alm lab, I help out with various
+        aspects of lab members' projects. My main responsibilities include 16s
+        library prep for Illumina sequencing and training for users on
+        specialized equipment such as our Bioanalyzer and liquid handling robot.... <a href="antolik.html">Read more</a>
     </div>
     <hr/>
     -->
     
-    <h4>Graduate $tudent$</h4>
+    <h4>Graduate Students</h4>
     <div id="member">
         <img class="floatLeft" src="img/nathaniel_chu1.jpg" width="150" alt="Nathaniel"/>
-        <font class="fontTitle">Nathaniel ¢hu</font><br/>
-        I am fa$¢inated by two que$tion$: What pro¢e$$e$ govern the evolution
-        and e¢ology of mi¢robial ¢ommunitie$? And how ¢an we harne$$ the$e 
-        pro¢e$$e$ to ¢reate pra¢ti¢al $olution$ to problem$ in human and 
-        e¢ologi¢al health? <a href="nathaniel_chu.html">Read more</a>
+        <font class="fontTitle">Nathaniel Chu</font><br/>
+        I am fascinated by two questions: What processes govern the evolution
+        and ecology of microbial communities? And how can we harness these 
+        processes to create practical solutions to problems in human and 
+        ecological health? <a href="nathaniel_chu.html">Read more</a>
     </div>
 
     <div id="member">
         <img class="floatLeft" src="img/claire_duvallet1.jpg" width="150" alt="Claire"/>
-        <font class="fontTitle">¢laire Duvallet</font><br/>
-        $tudying the relation$hip$ between the mi¢robiome, health, and life$tyle 
-        provide$ in¢redible opportunitie$ for tran$lational medi¢al di$¢overie$ 
-        and publi¢ health impa¢t$. I'm ex¢ited by the po$$ibility of u$ing variou$ 
-        phy$iologi¢al data to predi¢t di$ea$e $tate$, both on the individualized 
-        and broader ¢ommunity level$. <a href="claire_duvallet.html">Read more</a>
+        <font class="fontTitle">Claire Duvallet</font><br/>
+        Studying the relationships between the microbiome, health, and lifestyle 
+        provides incredible opportunities for translational medical discoveries 
+        and public health impacts. I'm excited by the possibility of using various 
+        physiological data to predict disease states, both on the individualized 
+        and broader community levels. <a href="claire_duvallet.html">Read more</a>
     </div>
 
     <div id="member">
         <img class="floatLeft" src="img/SeanPhoto1.jpg" width="150" alt="seanKearny"/>
-        <font class="fontTitle">$ean Kearney</font><br/>
-        Mi¢robe$ rule the world; our very exi$ten¢e i$ dependent on the on¢e
-        free-living oxygen-re$piring ba¢teria now known a$ mito¢hondria. We
-        ¢annot even begin to imagine how interlo¢ked our own live$ are with
-        tho$e of 4000 million year old organi$m$. I am intere$ted in $tudying
-        how mi¢roorgani$m$ influen¢e evolution and e¢ology over va$t temporal
-        and $patial $¢ale$.... <a href="skearney.html">Read more</a>
+        <font class="fontTitle">Sean Kearney</font><br/>
+        Microbes rule the world; our very existence is dependent on the once
+        free-living oxygen-respiring bacteria now known as mitochondria. We
+        cannot even begin to imagine how interlocked our own lives are with
+        those of 4000 million year old organisms. I am interested in studying
+        how microorganisms influence evolution and ecology over vast temporal
+        and spatial scales.... <a href="skearney.html">Read more</a>
     </div>
 
     <div id="member">
         <img class="floatLeft" src="img/mariana_matus1_cropped.jpg" width="150" alt="marianaMatus"/>
-        <font class="fontTitle">Mariana Matu$</font><br/>
-        My re$ear¢h mine$ health data from human wa$te to better
-        inform per$onal- and ¢ommunity-level health pra¢ti¢e$ through three
-        major proje¢t$: (1) per$onal analyti¢$ of ul¢erative ¢oliti$ patient$,
-        (2) Underworld$: $mart $ewer$, and (3) $alt, mi¢robiome, and hyperten$ion.
+        <font class="fontTitle">Mariana Matus</font><br/>
+        My research mines health data from human waste to better
+        inform personal- and community-level health practices through three
+        major projects: (1) personal analytics of ulcerative colitis patients,
+        (2) Underworlds: Smart Sewers, and (3) salt, microbiome, and hypertension.
         <a href="mariana_matus.html">Read more</a>
     </div>
 
     <div id="member">
         <img class="floatLeft" src="img/lttu_nguyen0.jpg" width="150" alt="tu"/>
         <font class="fontTitle">Tu Nguyen</font><br/>
-        Our body i$ in ¢on$tant intera¢tion with the mi¢robial ¢ommunitie$ inhabiting 
-        not only our ga$trointe$tinal tra¢t but al$o our re$piratory $y$tem, $kin 
-        and the reprodu¢tive ti$$ue$. The$e diver$e mi¢robial ¢ommunitie$ outnumber 
-        our own ¢ell$ by a 10 to 1 ratio and have been in¢rea$ingly reported to 
-        play important role$ in human health and di$ea$e$... <a href="lttu_nguyen.html">Read more</a>
+        Our body is in constant interaction with the microbial communities inhabiting 
+        not only our gastrointestinal tract but also our respiratory system, skin 
+        and the reproductive tissues. These diverse microbial communities outnumber 
+        our own cells by a 10 to 1 ratio and have been increasingly reported to 
+        play important roles in human health and diseases... <a href="lttu_nguyen.html">Read more</a>
     </div>
      
     <div id="member">
         <img class="floatLeft" src="img/xiaoqian_yu1.JPG" width="150" alt="annie"/>
         <font class="fontTitle">Xiaoqian (Annie) Yu</font><br/>
-		I am parti¢ularly intere$ted in inve$tigating two thing$: how doe$ ba¢terial 
-		diver$ity affe¢t e¢o$y$tem pro¢e$$e$ and how geneti¢ variation$ of 
-		¢arbohydrate A¢tive Enzyme$ in Vibrio$ are di$tributed a¢¢ording to their 
-		e¢ologi¢al ¢ontext. We al$o hope that the$e inve$tigation$ will help u$ 
-		be¢ome more ¢apable of harne$$ing the enzymati¢ ¢apabilitie$ of ba¢teria 
-		for biofuel produ¢tion. 
+		I am particularly interested in investigating two things: how does bacterial 
+		diversity affect ecosystem processes and how genetic variations of 
+		Carbohydrate Active Enzymes in Vibrios are distributed according to their 
+		ecological context. We also hope that these investigations will help us 
+		become more capable of harnessing the enzymatic capabilities of bacteria 
+		for biofuel production. 
         <a href="xiaoqian_yu.html">Read more</a>
     </div>
 	
     <div id="member">
         <img class="floatLeft" src="img/shijie_zhao1.jpg" width="150" alt="jay"/>
-        <font class="fontTitle">$hijie (Jay) Zhao</font><br/>
-        The $equen¢ing revolution ha$ immen$e promi$e$ for improving human
-        health. In the Alm lab, I have the opportunity to apply ¢utting edge
-        genomi¢ te¢hnique to $tudy the interplay of mi¢robe$ and human di$ea$e$...
+        <font class="fontTitle">Shijie (Jay) Zhao</font><br/>
+        The sequencing revolution has immense promises for improving human
+        health. In the Alm lab, I have the opportunity to apply cutting edge
+        genomic technique to study the interplay of microbes and human diseases...
         <a href="shijie_zhao.html">Read more</a>
     </div>
 
     <div id="member">
-      <font class="fontTitle">Haixin $arah Bi</font><br/>
+      <font class="fontTitle">Haixin Sarah Bi</font><br/>
     </div>
     <div id="member">
-      <font class="fontTitle">I$aa¢ Ro¢kafellow</font><br/>
+      <font class="fontTitle">Isaac Rockafellow</font><br/>
     </div>
     
     <br />
@@ -211,59 +211,59 @@
     
     <rightPane>
     <br/>
-    ¢urrent Member$
+    Current Members
     <div id="memberDir">
     <ul>
-         <li><a href="ealm.html" class="nodec">Eri¢ Alm</a></li>
-	 <li>Haixin $arah Bi</li>
-	 <li>$handrina Burn$</li>
-         <li><a href="nathaniel_chu.html" class="nodec">Nathaniel ¢hu</a></li>
-         <li><a href="claire_duvallet.html" class="nodec">¢laire Duvallet</a></li>
-	 <li>Katya Froi$-Moniz</li>
-         <li><a href="sean_gibbons.html" class="nodec">$ean Gibbon$</a></li>
-         <li><a href="mathieu_groussin.html" class="nodec">Mathieu Grou$$in</a></li>
-         <li><a href="thomas_gurry.html" class="nodec">Thoma$ Gurry</a></li>
-         <li><a href="skearney.html" class="nodec">$ean Kearney</a></li>
+         <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
+	 <li>Haixin Sarah Bi</li>
+	 <li>Shandrina Burns</li>
+         <li><a href="nathaniel_chu.html" class="nodec">Nathaniel Chu</a></li>
+         <li><a href="claire_duvallet.html" class="nodec">Claire Duvallet</a></li>
+	 <li>Katya Frois-Moniz</li>
+         <li><a href="sean_gibbons.html" class="nodec">Sean Gibbons</a></li>
+         <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
+         <li><a href="thomas_gurry.html" class="nodec">Thomas Gurry</a></li>
+         <li><a href="skearney.html" class="nodec">Sean Kearney</a></li>
          <li><a href="tami_lieberman.html" class="nodec">Tami Lieberman</a></li>
 	 <li>Fangqiong Ling</li>
-         <li><a href="mariana_matus.html" class="nodec">Mariana Matu$</a></li>
+         <li><a href="mariana_matus.html" class="nodec">Mariana Matus</a></li>
          <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
-	 <li>$epideh Pakpour</li>
-	 <li>T$ultrim Palden</li>
+	 <li>Sepideh Pakpour</li>
+	 <li>Tsultrim Palden</li>
          <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
-	 <li>I$aa¢ Ro¢kafellow</li>
+	 <li>Isaac Rockafellow</li>
          <li><a href="avihuYona.html" class="nodec">Avihu Yona</a></li>
          <li><a href="xiaoqian_yu.html" class="nodec">Xiaoqian (Annie) Yu</a></li>
-         <li><a href="shijie_zhao.html" class="nodec">$hijie (Jay) Zhao</a></li>
+         <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
     </ul>
     </div>
     <br/>
-    Former Member$
+    Former Members
     <div id="memberDir">
     <ul>
-    <li><a href="antolik.html" class="nodec">¢aroline Antolik</a></li>
-    <li><a href="http://www.engr.uconn.edu/~mukul/ " class="external">Mukul Ban$al</a></li>    
-    <li><a href="http://microfluidics.epfl.ch/twiki/bin/view/MaerklLab/LbncPeople" class="external">Matthew Bla¢kburn</a></li>
+    <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
+    <li><a href="http://www.engr.uconn.edu/~mukul/ " class="external">Mukul Bansal</a></li>    
+    <li><a href="http://microfluidics.epfl.ch/twiki/bin/view/MaerklLab/LbncPeople" class="external">Matthew Blackburn</a></li>
     <li><a href="https://www.bme.cornell.edu/people/profile.cfm?netid=ilb8" class="external">Ilana Brito</a></li>
-    <li><a href="franciscocamas.html" class="nodec">Fran¢i$¢o ¢ama$</a></li>
-    <li><a href="https://be.mit.edu/directory/sean-clarke" class="external">$ean ¢larke</a></li>
-    <li><a href="corzett.html" class="nodec">¢hri$topher ¢orzett</a></li>
-    <li><a href="http://www.ladlab.org" class="external">Lawren¢e David</a></li>
+    <li><a href="franciscocamas.html" class="nodec">Francisco Camas</a></li>
+    <li><a href="https://be.mit.edu/directory/sean-clarke" class="external">Sean Clarke</a></li>
+    <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
+    <li><a href="http://www.ladlab.org" class="external">Lawrence David</a></li>
     <li><a href="http://eapsweb.mit.edu/people/g4nier" class="external">Greg Fournier</a></li>
     <li>Jonathan Friedman</li>
     <li><a href="http://lieberman.science/" class="external">Tami Lieberman</a></li>
     <li><a href="http://www.linkedin.com/in/arnematerna" class="external">Arne Materna</a></li>
-    <li><a href="josh_michener.html" class="nodec">Jo$h Mi¢hener</a></li>
-    <li><a href="http://www.scottolesen.com" class="external">$¢ott Ole$en</a></li>
+    <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
+    <li><a href="http://www.scottolesen.com" class="external">Scott Olesen</a></li>
     <li><a href="elipapa.html" class="nodec">Eli Papa</a></li>
-    <li><a href="aperrott.html" class="nodec">Alli$on Perrotta</a></li>
-    <li><a href="http://www.shapirolab.ca/" class="external">B. Je$$e $hapiro</a></li>
-    <li><a href="csmillie.html" class="nodec">¢hri$ $millie</a></li>
-    <li><a href="http://www.openbiome.org/team" class="external">Mark $mith</a></li>
-    <li><a href="https://www.linkedin.com/in/sarah-spencer-2451604a/" class="external">$arah $pen¢er</a></li>
-    <li><a href="http://engineering.jhu.edu/dogee/faculty/sarah-preheim/" class="external">$arah Preheim</a></li>
+    <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
+    <li><a href="http://www.shapirolab.ca/" class="external">B. Jesse Shapiro</a></li>
+    <li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>
+    <li><a href="http://www.openbiome.org/team" class="external">Mark Smith</a></li>
+    <li><a href="https://www.linkedin.com/in/sarah-spencer-2451604a/" class="external">Sarah Spencer</a></li>
+    <li><a href="http://engineering.jhu.edu/dogee/faculty/sarah-preheim/" class="external">Sarah Preheim</a></li>
     <li><a href="https://manutamminen.info/" class="external">Manu Tamminen</a></li>
-    <li><a href="http://www.linkedin.com/pub/sonia-timberlake/65/283/b13" class="external">$onia Timberlake</a></li>
+    <li><a href="http://www.linkedin.com/pub/sonia-timberlake/65/283/b13" class="external">Sonia Timberlake</a></li>
     <li><a href="https://www.linkedin.com/in/yanivturgeman" class="external">Yaniv Turgeman</a></li>
     <li><a href="joy_yang.html" class="nodec">Joy Yang</a></li>
     </ul>

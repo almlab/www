@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab $oftware: My$ti¢</Title>
+    <Title>Alm Lab Software: Mystic</Title>
 
     <contentPane>
 
@@ -11,33 +11,33 @@
     </rightPane>
     <midPane>
     <br/>
-    <h4>My$ti¢ </h4>
-    <h5>Inferred bioma$$ biogeo¢hemi¢al model of My$ti¢ Lake.</h5>
+    <h4>Mystic </h4>
+    <h5>Inferred biomass biogeochemical model of Mystic Lake.</h5>
 
     <div id="software">
-    by $¢ott W Ole$en, $arah P Preheim, and Eri¢ J Alm<br/>
+    by Scott W Olesen, Sarah P Preheim, and Eric J Alm<br/>
     <img class="floatRight" src="img/mystic.jpg" alt="Mystic"/>
     </div>
     <div id="softwareMed">
-    DE$¢RIPTION <br/>
-    My$ti¢ i$ a Matlab program (with $upporting Python $¢ript$) that run$ a ¢on¢eptual, quantitative
-    $imulation of the biogeo¢hemi$try of My$ti¢ Lake, a polluted, dimi¢ti¢ lake out$ide Bo$ton.
-    The model wa$ de$igned to predi¢t the overall verti¢al $patial di$tribution of major 
-    ¢hemi¢al $pe¢ie$ and mi¢robial metaboli$m$ in the lake.
+    DESCRIPTION <br/>
+    Mystic is a Matlab program (with supporting Python scripts) that runs a conceptual, quantitative
+    simulation of the biogeochemistry of Mystic Lake, a polluted, dimictic lake outside Boston.
+    The model was designed to predict the overall vertical spatial distribution of major 
+    chemical species and microbial metabolisms in the lake.
     <p/>
 
-    REFEREN¢E <br/>
-    $arah P. Preheim, $¢ott W. Ole$en, $arah J. $pen¢er, Arne Materna,
-    ¢haruleka Varadharajan, Matthew Bla¢kburn, Jonathan Friedman, Jorge
-    Rodríguez, Harold Hemond and Eri¢ J. Alm.  $urvey$, $imulation and
-    $ingle-¢ell a$$ay$ relate fun¢tion and phylogeny in a lake e¢o$y$tem.
-    <i>Nature Mi¢robiology</i> (2016) doi:<a href="http://dx.doi.org/10.1038/nmicrobiol.2016.130">10.1038/nmi¢robiol.2016.130</a>
+    REFERENCE <br/>
+    Sarah P. Preheim, Scott W. Olesen, Sarah J. Spencer, Arne Materna,
+    Charuleka Varadharajan, Matthew Blackburn, Jonathan Friedman, Jorge
+    Rodríguez, Harold Hemond and Eric J. Alm.  Surveys, simulation and
+    single-cell assays relate function and phylogeny in a lake ecosystem.
+    <i>Nature Microbiology</i> (2016) doi:<a href="http://dx.doi.org/10.1038/nmicrobiol.2016.130">10.1038/nmicrobiol.2016.130</a>
     <p/>
 
-    $OUR¢E <br/>
-    The $our¢e for the model run in the paper: <br/>
-    <a href="src/mystic/mystic-master.zip">My$ti¢ (zipped $our¢e)</a><br/>
-    <a href="http://github.com/almlab/mystic">My$ti¢ (Alm Lab github page)</a>
+    SOURCE <br/>
+    The source for the model run in the paper: <br/>
+    <a href="src/mystic/mystic-master.zip">Mystic (zipped source)</a><br/>
+    <a href="http://github.com/almlab/mystic">Mystic (Alm Lab github page)</a>
     <p/>
 
     </div>

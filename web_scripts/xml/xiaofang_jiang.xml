@@ -7,15 +7,15 @@
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/xiaofang_jiang1.jpg" width="150" alt=""/>
-        <h4>Re$ear¢h Intere$t$</h4>
-            To adapt their phy$iology to gradual and $udden ¢hange$ o¢¢urring in the ho$t environment or during inter-individual tran$mi$$ion$, ¢ommen$al$ exhibit remarkable geneti¢ variation diver$ity at a population level. I am intere$ted in the geneti¢ variation$ of gut mi¢robe$ and how the variation$ are benefi¢ial for  their effe¢tive ¢olonization and $u¢¢e$$ful $urvival. I am developing tool$ and mining geneti¢ variation$ from i$olate genome$ and metagenomi¢ data.
+        <h4>Research Interests</h4>
+            To adapt their physiology to gradual and sudden changes occurring in the host environment or during inter-individual transmissions, commensals exhibit remarkable genetic variation diversity at a population level. I am interested in the genetic variations of gut microbes and how the variations are beneficial for  their effective colonization and successful survival. I am developing tools and mining genetic variations from isolate genomes and metagenomic data.
             <ul>
-                <li>$ingle nu¢leotide variation</li>
-                I am working with long-den$e longitudinal metagenomi¢ data to identify the $NV$ that differentiated $train$ of $ame $pe¢ie$ to tra¢k $train-level$ dynami¢$ in mi¢robiome.
-                <li>Genomi¢ rearrangement</li>
-                I am parti¢ularly intere$ted in DNA inver$ion and how the$e inver$ion$ generate hybrid protein$, $huffling domain$ between gene$ and rearranging operon $tru¢ture.
-                <li>Mobile geneti¢ element$</li>
-                I developed a $plit Read In$ertion Dete¢tion ($RID) method to dete¢t mobile geneti¢ element$ in the mi¢robiome and ¢reated <a href="https://immedb.mit.edu/" target="Intestinal microbiome mobile element">ImmeDB</a>, a databa$e dedi¢ated to the ¢olle¢tion, ¢la$$ifi¢ation, and annotation of mobile geneti¢ element$ (MGE$) from gut mi¢robiome.
+                <li>Single nucleotide variation</li>
+                I am working with long-dense longitudinal metagenomic data to identify the SNVs that differentiated strains of same species to track strain-levels dynamics in microbiome.
+                <li>Genomic rearrangement</li>
+                I am particularly interested in DNA inversion and how these inversions generate hybrid proteins, shuffling domains between genes and rearranging operon structure.
+                <li>Mobile genetic elements</li>
+                I developed a Split Read Insertion Detection (SRID) method to detect mobile genetic elements in the microbiome and created <a href="https://immedb.mit.edu/" target="Intestinal microbiome mobile element">ImmeDB</a>, a database dedicated to the collection, classification, and annotation of mobile genetic elements (MGEs) from gut microbiome.
             </ul>
         <img class="floatLeft" src="img/xiaofang_jiang2.jpg" width="150" alt=""/>
         <p/>
@@ -26,13 +26,13 @@
         <br/>
         <div id="memberDir">
         <h4>Xiaofang Jiang</h4>
-        Po$tdo¢toral A$$o¢iate<br/>
+        Postdoctoral Associate<br/>
         xiaofang@mit.edu<br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
+        <h4>Education</h4>
         <ul>
-        <li>PhD, 2016, Bioinformati¢$, Virginia Te¢h </li>
+        <li>PhD, 2016, Bioinformatics, Virginia Tech </li>
         </ul>
         <p/>
         <img class="floatRight" src="img/xiaofang_jiang3.jpg" width="150" alt=""/>

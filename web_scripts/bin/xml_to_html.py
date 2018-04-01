@@ -9,12 +9,10 @@ Author: Katherine Huang, Scott Olesen
 import sys, os, argparse, re
 from xml.dom.minidom import parseString
 
-import codecs
-
 def xml_to_html(xml_txt, template_txt, html_fn):
     '''
     xml and template to new html
-
+    
     parameters
     xml_txt : str
       text of the xml file
@@ -38,9 +36,9 @@ def xml_to_html(xml_txt, template_txt, html_fn):
             paneDom = xdom.getElementsByTagName(xmlTag)[0].toxml().replace(openTag, "").replace(closeTag, "") # itself an xdom object
             html_txt = html_txt.replace("_%s_" %(xmlTag), paneDom)
 
-            #if type(html_txt) is unicode:
-            #    # if this is python2, we need to convert from unicode to string
-            #    html_txt = html_txt.encode('ascii', 'ignore')
+            if type(html_txt) is unicode:
+                # if this is python2, we need to convert from unicode to string
+                html_txt = html_txt.encode('ascii', 'ignore')
         except:
             pass
 
@@ -59,5 +57,5 @@ if __name__== '__main__':
     html_content = xml_to_html(xml_content, template_content, args.output)
 
     # write the html content out
-    with codecs.open(args.output, 'w', 'utf-8') as f:
+    with open(args.output, 'w') as f:
         f.write(html_content)

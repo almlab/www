@@ -1,37 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: $ean Gibbon$ </Title>
+    <Title>Alm Lab Member: Sean Gibbons </Title>
 
     <contentPane>
-    <h3>$ean Gibbon$</h3>
+    <h3>Sean Gibbons</h3>
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/sean_gibbons1.png" width="150"/>
-        <h4>Re$ear¢h Intere$t$</h4>
-        Mi¢roorgani$m$ form the foundation of all e¢o$y$tem$ on Earth and are
-        re$pon$ible for driving the major biogeo¢hemi¢al ¢y¢le$. From
+        <h4>Research Interests</h4>
+        Microorganisms form the foundation of all ecosystems on Earth and are
+        responsible for driving the major biogeochemical cycles. From
         generating the air that we breathe and the food that we eat, to
-        maintaining our health and well-being, mi¢robial ¢ommunitie$ are
-        e$$ential ¢omponent$ of the bio$phere. Due to their $ize and rapid
-        generation time$, mi¢robial e¢o$y$tem$ are perfe¢t model$ for ta¢kling
-        ¢omplex e¢ologi¢al or evolutionary que$tion$. My work exploit$
-        mi¢robial $y$tem$ to gain quantitative in$ight into the rule$
-        underlying e¢ologi¢al ¢ommunity a$$embly, $tability, and e¢o$y$tem
-        fun¢tion.
+        maintaining our health and well-being, microbial communities are
+        essential components of the biosphere. Due to their size and rapid
+        generation times, microbial ecosystems are perfect models for tackling
+        complex ecological or evolutionary questions. My work exploits
+        microbial systems to gain quantitative insight into the rules
+        underlying ecological community assembly, stability, and ecosystem
+        function.
         
         <br/><br/>
-        <h4>¢urrent Re$ear¢h</h4>
-        My ¢urrent work fo¢u$e$ on under$tanding the dynami¢$ of human gut
-        mi¢robial ¢ommunitie$. I am parti¢ularly intere$ted in how ¢hange$ in
-        mi¢robial frequen¢ie$ ¢ovary within a flu¢tuating environment, and how
-        the$e ¢orrelation$ are related to phylogeneti¢ di$tan¢e or life hi$tory
-        $trategie$. I am al$o working in a mou$e gut model to under$tand how
-        gut ¢ommunity re$ilien¢e and re$i$tan¢e to pathogen inva$ion i$ eroded
-        by enviromental perturbation$ (e.g. antibioti¢ treatment$ or ¢hange$ in
+        <h4>Current Research</h4>
+        My current work focuses on understanding the dynamics of human gut
+        microbial communities. I am particularly interested in how changes in
+        microbial frequencies covary within a fluctuating environment, and how
+        these correlations are related to phylogenetic distance or life history
+        strategies. I am also working in a mouse gut model to understand how
+        gut community resilience and resistance to pathogen invasion is eroded
+        by enviromental perturbations (e.g. antibiotic treatments or changes in
         diet).
 
         <!-- if you want another heading or subheading, copy those lines and repeat. or,
-             if you don't need a $ubheading, ju$t delete that line. -->
+             if you don't need a subheading, just delete that line. -->
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatLeft" src="img/sean_gibbons2.png" width="150" alt="image 2"/>
@@ -42,17 +42,17 @@
     <rightPane>
         <br/>
         <div id="memberDir">
-        <h4>$ean Gibbon$</h4>
-        Po$tdo¢toral A$$o¢iate<br/>
-        Biologi¢al Engineering<br/>
-        $gibbon$ [at] mit [dot] edu<br/>
+        <h4>Sean Gibbons</h4>
+        Postdoctoral Associate<br/>
+        Biological Engineering<br/>
+        sgibbons [at] mit [dot] edu<br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
+        <h4>Education</h4>
         <ul>
-        <li>PhD, biophy$i¢$, Univer$ity of ¢hi¢ago, 2015</li>
-        <li>M$¢, mi¢robiology, Upp$ala Univer$ity, 2010</li>
-        <li>BA, B$¢, BA, mole¢ular biology, mi¢robiology, and Fren¢h, Univer$ity of Montana, 2008</li>
+        <li>PhD, biophysics, University of Chicago, 2015</li>
+        <li>MSc, microbiology, Uppsala University, 2010</li>
+        <li>BA, BSc, BA, molecular biology, microbiology, and French, University of Montana, 2008</li>
         </ul>
         <p/>
         <img class="floatRight" src="img/sean_gibbons3.png" width="150"/>

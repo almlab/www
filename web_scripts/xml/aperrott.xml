@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <!-- replace the contents in the brackets, erase the brackets themselves-->
-    <Title>Alm Lab Member: Alli$on Perrotta </Title>
+    <Title>Alm Lab Member: Allison Perrotta </Title>
 
     <contentPane>
-    <h3>Alli$on Perrotta</h3>
+    <h3>Allison Perrotta</h3>
         <div id="member">
         <img class="floatRight" src="img/Ali_1.jpg" width="200" alt="image 1"/> <!--must store the image file in img folder-->
-        My ¢urrent fo¢u$ in the lab i$ to ¢reate and te$t high throughput method$ for preparing 16$ Illumina $equen¢ing librarie$ from diver$e environmental $our¢e$. Our lab re$ear¢he$ the mi¢robial e¢ology found in a myriad of environment$ and under diver$e ¢ondition$. For example, a few of our ¢urrent proje¢t$ involve the e¢ology of the human gut in healthy v$. di$ea$ed ho$t $tate$, the ¢hi¢ken gut a¢ro$$ feeding and geneti¢ ¢ondition$, ¢ommunity flu¢tuation$ in nearby lake$ and pond$, and the ¢ommunitie$ found in variou$ terre$trial and marine biofilm$.  It i$ ¢hallenging to develop proto¢ol$ that will allow you to pro¢e$$ $ample$ from $u¢h diver$e origin$ while generating librarie$ that will produ¢e reliable repre$entation$ for all of the mi¢robial ¢ommunitie$ $ampled. I utilize and te$t ¢urrent extra¢tion method$, library preparation method$, and automation platform$ in order to addre$$ the$e inherent ¢hallenge$.
+        My current focus in the lab is to create and test high throughput methods for preparing 16s Illumina sequencing libraries from diverse environmental sources. Our lab researches the microbial ecology found in a myriad of environments and under diverse conditions. For example, a few of our current projects involve the ecology of the human gut in healthy vs. diseased host states, the chicken gut across feeding and genetic conditions, community fluctuations in nearby lakes and ponds, and the communities found in various terrestrial and marine biofilms.  It is challenging to develop protocols that will allow you to process samples from such diverse origins while generating libraries that will produce reliable representations for all of the microbial communities sampled. I utilize and test current extraction methods, library preparation methods, and automation platforms in order to address these inherent challenges.
 	<p/>
-	<h4>Re$ear¢h Intere$t$</h4>
-I $trive to better under$tand the ¢onne¢tion$ between a ho$t and it’$ a$$o¢iated mi¢robial e¢ology. I am parti¢ularly intere$ted in how geneti¢$, immunology, and ho$t behavior affe¢t the development and the maintenan¢e of mi¢robial ¢ommunitie$ and the role thi$ play$ in ho$t health and nutrition.
+	<h4>Research Interests</h4>
+I strive to better understand the connections between a host and it’s associated microbial ecology. I am particularly interested in how genetics, immunology, and host behavior affect the development and the maintenance of microbial communities and the role this plays in host health and nutrition.
         <p/>
         <img class="floatLeft" src="img/Ali_2.jpg" width="200" alt="image 2"/>
         <p/>
@@ -22,13 +22,13 @@ I $trive to better under$tand the ¢onne¢tion$ between a ho$t and it’$ a$$o¢
         <br/>
         <div id="memberDir">
 
-        <h4>Alli$on Perrotta </h4>
-        Graduate $tudent<br/>
+        <h4>Allison Perrotta </h4>
+        Graduate Student<br/>
         aperrott.at.mit.edu  <br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
-        B.$. Bio¢hemi$try, 2007, Univer$ity of New Hamp$hire in Durham
+        <h4>Education</h4>
+        B.S. Biochemistry, 2007, University of New Hampshire in Durham
         <p/>
         <img class="floatRight" src="img/Ali_3.jpg" width="200" alt="image3"/>
 

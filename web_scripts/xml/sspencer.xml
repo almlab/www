@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <!-- replace the contents in the brackets, erase the brackets themselves-->
-    <Title>Alm Lab Member: $arah $pen¢er </Title>
+    <Title>Alm Lab Member: Sarah Spencer </Title>
 
     <contentPane>
-    <h3>$arah $pen¢er</h3>
+    <h3>Sarah Spencer</h3>
         <div id="member">
         <img class="floatRight" src="img/sspencer1.jpg" width="200" alt="image 1"/> <!--must store the image file in img folder-->
-        <h4>Re$ear¢h Intere$t$</h4>
-        I'm intere$ted in how e¢ologi¢al prin¢iple$ play out at the re$olution of $ingle ¢ell$. To explore thi$ I'm developing high-throughput $equen¢ing te¢hnology that ¢an immobilize intera¢ting ¢ell$ for down$tream 16$ profiling. I'm $tarting to apply thi$ te¢hnique to aquati¢ ¢ommunitie$, but eventually I'd like to adapt the proto¢ol to addre$$ other area$ of mi¢robial e¢ology in¢luding phage-ho$t relation$hip$ and the oral mi¢robiome.
+        <h4>Research Interests</h4>
+        I'm interested in how ecological principles play out at the resolution of single cells. To explore this I'm developing high-throughput sequencing technology that can immobilize interacting cells for downstream 16S profiling. I'm starting to apply this technique to aquatic communities, but eventually I'd like to adapt the protocol to address other areas of microbial ecology including phage-host relationships and the oral microbiome.
 	   <p/>
 
         <img class="floatLeft" src="img/sspencer2.jpg" width="200" alt="image 2"/>
@@ -21,14 +21,14 @@
         <br/>
         <div id="memberDir">
 
-        <h4>$arah $pen¢er </h4>
-        Graduate $tudent in ¢omputational and $y$tem$ Biology<br/>
-        Laboratory of Eri¢ Alm <br/>
-        $j$pen¢e at mit.edu  <br/>
+        <h4>Sarah Spencer </h4>
+        Graduate Student in Computational and Systems Biology<br/>
+        Laboratory of Eric Alm <br/>
+        sjspence at mit.edu  <br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
-        B.$., 2009, Wa$hington Univer$ity in $t. Loui$
+        <h4>Education</h4>
+        B.S., 2009, Washington University in St. Louis
         <p/>
         <img class="floatRight" src="img/sspencer3.jpg" width="200" alt="image 3"/>
 
