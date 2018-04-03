@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: $ean Kearney</Title>
+    <Title>Alm Lab Member: Sean Kearney</Title>
 
     <contentPane>
-    <h3>$ean Kearney</h3>
+    <h3>Sean Kearney</h3>
         <div id="member">
         <img class="floatRight" src="img/SeanPhoto.jpg" width="150" alt="seanKearney"/>
-        <h4>Re$ear¢h Intere$t$</h4>
-        Mi¢robe$ rule the world; our very exi$ten¢e i$ dependent on the on¢e
-        free-living oxygen-re$piring ba¢teria now known a$ mito¢hondria. We
-        ¢annot even begin to imagine how interlo¢ked our own live$ are with
-        tho$e of 4000 million year old organi$m$. I am intere$ted in $tudying
-        how mi¢roorgani$m$ influen¢e evolution and e¢ology over va$t temporal
-        and $patial $¢ale$. In parti¢ular, I want to develop $tati$ti¢al
-        learning and data mining te¢hnique$ to extra¢t information about the
-        a$$embly, maintenan¢e, and $tability of mi¢robial ¢ommunitie$ in diver$e
-        ¢ontext$.
+        <h4>Research Interests</h4>
+        Microbes rule the world; our very existence is dependent on the once
+        free-living oxygen-respiring bacteria now known as mitochondria. We
+        cannot even begin to imagine how interlocked our own lives are with
+        those of 4000 million year old organisms. I am interested in studying
+        how microorganisms influence evolution and ecology over vast temporal
+        and spatial scales. In particular, I want to develop statistical
+        learning and data mining techniques to extract information about the
+        assembly, maintenance, and stability of microbial communities in diverse
+        contexts.
         <img class="floatLeft" src="img/SeanPhoto1.jpg" width="150" alt="seanKearney"/>
         <p/>
 
@@ -26,15 +26,15 @@
         <br/>
         <div id="memberDir">
 
-        <h4>$ean Kearney</h4>
-        PhD ¢andidate, Department of Biologi¢al Engineering
-        $kearney at mit dot edu  <br/>
+        <h4>Sean Kearney</h4>
+        PhD Candidate, Department of Biological Engineering
+        skearney at mit dot edu  <br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
+        <h4>Education</h4>
         <ul>
-        <li>B$, Biologi¢al Engineering, Purdue Univer$ity, 2013</li>
-        <li>B$, Mathemati¢$ and $tati$ti¢$, Purdue Univer$ity, 2013 </li>
+        <li>BS, Biological Engineering, Purdue University, 2013</li>
+        <li>BS, Mathematics and Statistics, Purdue University, 2013 </li>
         </ul>
         <p/>
         <img class="floatRight" src="img/SeanPhoto3.jpg" width="150" alt="seanKearney"/>

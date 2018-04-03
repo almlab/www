@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
     <!-- replace the contents in the brackets, erase the brackets themselves-->
-    <Title>Alm Lab Member: Mukul Ban$al </Title>
+    <Title>Alm Lab Member: Mukul Bansal </Title>
 
     <contentPane>
-    <h3>Mukul Ban$al</h3>
+    <h3>Mukul Bansal</h3>
         <div id="member">
         <img class="floatRight" src="img/mbansal1.JPG" width="200" alt="image 1"/> <!--must store the image file in img folder-->
-        <h4>Re$ear¢h Intere$t$</h4>
-       My re$ear¢h fo¢u$e$ on the development of new ¢omputational method$ and
-       effi¢ient algorithm$ to help an$wer fundamental que$tion$ in evolutionary
-       biology. I am e$pe¢ially intere$ted in problem$ related to under$tanding
-       gene family and genome evolution, and a¢¢urately re¢on$tru¢ting
-       organi$mal phylogenie$. Plea$e vi$it my per$onal webpage for further
-       detail$: <a href="http://people.csail.mit.edu/mukul">http://people.¢$ail.mit.edu/mukul</a>
+        <h4>Research Interests</h4>
+       My research focuses on the development of new computational methods and
+       efficient algorithms to help answer fundamental questions in evolutionary
+       biology. I am especially interested in problems related to understanding
+       gene family and genome evolution, and accurately reconstructing
+       organismal phylogenies. Please visit my personal webpage for further
+       details: <a href="http://people.csail.mit.edu/mukul">http://people.csail.mit.edu/mukul</a>
        <p/>
-<!--       <h4>Pa$t Life</h4>
+<!--       <h4>Past Life</h4>
 
         <p/>
 -->
@@ -27,10 +27,10 @@
         <br/>
         <div id="memberDir">
 
-        <h4>Mukul Ban$al </h4>
-        Po$tdo¢toral A$$o¢iate<br/>
-        ¢omputer $¢ien¢e And Artifi¢ial Intelligen¢e Laboratory, MIT<br/>
-        mukul@¢$ail.mit.edu  <br/>
+        <h4>Mukul Bansal </h4>
+        Postdoctoral Associate<br/>
+        Computer Science And Artificial Intelligence Laboratory, MIT<br/>
+        mukul@csail.mit.edu  <br/>
         <p/>
 
         </div>

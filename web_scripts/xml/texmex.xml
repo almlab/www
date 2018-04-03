@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab $oftware: TEXMEX</Title>
+    <Title>Alm Lab Software: TEXMEX</Title>
 
     <contentPane>
 
@@ -12,43 +12,43 @@
     <midPane>
     <br/>
     <h4>TEXMEX</h4>
-    <h5>Treatment Effe¢t eXplorer for Mi¢robial E¢ology eXperiment$</h5>
+    <h5>Treatment Effect eXplorer for Microbial Ecology eXperiments</h5>
 
     <div id="software">
-    by $¢ott W Ole$en and Eri¢ J Alm<br/>
+    by Scott W Olesen and Eric J Alm<br/>
     <img class="floatRight" src="img/texmex.png" alt="texmex"/>
     </div>
     <div id="softwareMed">
-    DE$¢RIPTION <br/>
-    <code>texmex</code> i$ an $oftware pa¢kage (implemented in R and Python 3)
-    de$igned to help vi$ualize and interpret ¢ommunity dynami¢$ ob$erved
-    in mi¢robial e¢ology experiment$ that u$e $equen¢ing ¢ount data. Given one ino¢ulum $plit
-    into two repli¢ate$, one ¢ontrol and one experimental, whi¢h OTU$ are growing or $hrinking
-    in re$pon$e to the treatment? <code>texmex</code> i$ de$igned to help a¢¢ount for ¢hange$ in the ¢ontrol
-    unit'$ ¢ommunity ¢ompo$ition a$ well a$ dampen ¢ompo$itional effe¢t$ that might o¢¢ur in
+    DESCRIPTION <br/>
+    <code>texmex</code> is an software package (implemented in R and Python 3)
+    designed to help visualize and interpret community dynamics observed
+    in microbial ecology experiments that use sequencing count data. Given one inoculum split
+    into two replicates, one control and one experimental, which OTUs are growing or shrinking
+    in response to the treatment? <code>texmex</code> is designed to help account for changes in the control
+    unit's community composition as well as dampen compositional effects that might occur in
     either unit.
     <p/>
 
-    IN$TALLATION<br/>
-    You ¢an in$tall thi$ pa¢kage in R u$ing <code>in$tall.pa¢kage$('texmex$eq')</code>. The
-    pa¢kage in¢lude$ demo$ and an example data $et. The Python ver$ion of the
-    ¢ode in¢lude$ in$tallation in$tru¢tion.
+    INSTALLATION<br/>
+    You can install this package in R using <code>install.packages('texmexseq')</code>. The
+    package includes demos and an example data set. The Python version of the
+    code includes installation instruction.
     <p/>
 
-    REFEREN¢E <br/>
-    Ole$en $W, Vora $, Te¢htmann $M, Fortney JL, Ba$tida$-Oyanedel JR,
-    Rodríguez J, et al. (2016) A Novel Analy$i$ Method for Paired-$ample
-    Mi¢robial E¢ology Experiment$. PLo$ ONE 11(5): e0154804.
+    REFERENCE <br/>
+    Olesen SW, Vora S, Techtmann SM, Fortney JL, Bastidas-Oyanedel JR,
+    Rodríguez J, et al. (2016) A Novel Analysis Method for Paired-Sample
+    Microbial Ecology Experiments. PLoS ONE 11(5): e0154804.
     doi:<a href="http://dx.doi.org/10.1371/journal.pone.0154804">10.1371/journal.pone.0154804</a>
     <p/>
 
-    R $OUR¢E <br/>
-    The $our¢e for the model run in the paper: <br/>
-    <a href="http://cran.r-project.org/web/packages/texmexseq/index.html">¢RAN page</a><br/>
+    R SOURCE <br/>
+    The source for the model run in the paper: <br/>
+    <a href="http://cran.r-project.org/web/packages/texmexseq/index.html">CRAN page</a><br/>
     <a href="http://www.github.com/almlab/texmexseq">github page</a><br/>
     <p/>
 
-    PYTHON $OUR¢E<br/>
+    PYTHON SOURCE<br/>
     <a href="http://www.github.com/swo/pytexmex">github page</a><br/>
     <p/>
 

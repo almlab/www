@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: Eri¢ Alm</Title>
+    <Title>Alm Lab Member: Eric Alm</Title>
 
     <contentPane>
-    <h3>Eri¢ Alm</h3>
+    <h3>Eric Alm</h3>
         <div id="member">
         <img class="floatRight" src="img/20111028165819-2.jpeg" width="150" alt="ericAlm"/>
-        <h4>Re$ear¢h Intere$t$</h4>
-        The human mi¢robiome play$ a key role in human health and di$ea$e.
-        Re$ear¢h in my group in¢lude$ both ¢omputational/theoreti¢al
-        and experimental approa¢he$ to under$tanding and engineering the human mi¢robiome.
-        Our re$ear¢h i$ fo¢u$ed on tran$lating ba$i¢ $¢ien¢e di$¢overie$ rapidly into the ¢lini¢, where they ¢an ¢ontribute to better out¢ome$ for patient$.
-        $ome area$ of $pe¢ial intere$t in¢lude:
+        <h4>Research Interests</h4>
+        The human microbiome plays a key role in human health and disease.
+        Research in my group includes both computational/theoretical
+        and experimental approaches to understanding and engineering the human microbiome.
+        Our research is focused on translating basic science discoveries rapidly into the clinic, where they can contribute to better outcomes for patients.
+        Some areas of special interest include:
         <ul class="square">
-        <li>Developing therapeuti¢$ ba$ed on $yntheti¢ mi¢robial ¢ommunitie$</li>
-        <li>Per$onalized medi¢ine</li>
-        <li>Monitoring human a¢tivitie$ through $mart $ewer$</li>
-        <li>$mart Toilet$ that tra¢k human health</li>
-        <li>Di$¢overing low-¢o$t non-inva$ive biomarker$</li>
+        <li>Developing therapeutics based on synthetic microbial communities</li>
+        <li>Personalized medicine</li>
+        <li>Monitoring human activities through Smart Sewers</li>
+        <li>Smart Toilets that track human health</li>
+        <li>Discovering low-cost non-invasive biomarkers</li>
               </ul>
         <p/>
-        <h4>Tea¢hing Intere$t$</h4>
-        I am pa$$ionate about maximizing per$onal intera¢tion in the ¢la$$room. I am e$pe¢ially intere$ted in profe$$ional development, and working on  ¢ommuni¢ation $kill$ with undergraduate and graduate $tudent$.<p/>
+        <h4>Teaching Interests</h4>
+        I am passionate about maximizing personal interaction in the classroom. I am especially interested in professional development, and working on  communication skills with undergraduate and graduate students.<p/>
         <img class="floatLeft" src="img/ericAlm.png" width="150" alt="ericAlm"/>
         <p/>
       
@@ -32,27 +32,27 @@
         <br/>
         <div id="memberDir">
 
-        <h4>Eri¢ Alm, Ph.D. </h4>
-        MIT Dire¢tor<br/>
-        <a href="http://microbiome.mit.edu/" class="external">¢enter For Mi¢robiome Informati¢$ and Therapeuti¢$</a><br/><br/>
+        <h4>Eric Alm, Ph.D. </h4>
+        MIT Director<br/>
+        <a href="http://microbiome.mit.edu/" class="external">Center For Microbiome Informatics and Therapeutics</a><br/><br/>
         
-        Profe$$or<br/>
-        Biologi¢al Engineering, MIT<br/>
-        ¢ivil and Environmental Engineering, MIT <br/><br/>
+        Professor<br/>
+        Biological Engineering, MIT<br/>
+        Civil and Environmental Engineering, MIT <br/><br/>
 	
-        A$$o¢iate Member<br/>
-	Broad In$titute<br/><br/>
+        Associate Member<br/>
+	Broad Institute<br/><br/>
         
         (617) 253-2726<br/>
         ejalm @ mit.edu  <br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
+        <h4>Education</h4>
         <ul>
-        <li>Po$tdo¢, 2005, Univer$ity of ¢alifornia, Berkeley/Lawren¢e Berkeley National Lab</li>
-        <li>Ph.D., 2001, Univer$ity of Wa$hington, $eattle</li>
-        <li>M.$., 1997, Univer$ity of ¢alifornia, River$ide</li>
-        <li>B.$., 1995, Univer$ity of Illinoi$, Urbana</li>
+        <li>Postdoc, 2005, University of California, Berkeley/Lawrence Berkeley National Lab</li>
+        <li>Ph.D., 2001, University of Washington, Seattle</li>
+        <li>M.S., 1997, University of California, Riverside</li>
+        <li>B.S., 1995, University of Illinois, Urbana</li>
         </ul>
         <p/>
         <img class="floatRight" src="img/photo_eric_alm.jpeg" width="150" alt="ericAlm"/>

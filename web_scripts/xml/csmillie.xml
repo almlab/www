@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: ¢hri$ $millie</Title>
+    <Title>Alm Lab Member: Chris Smillie</Title>
 
     <contentPane>
-    <h3>¢hri$ $millie</h3>
+    <h3>Chris Smillie</h3>
         <div id="member">
         <img class="floatRight" src="img/csmillie1.png" width="200" alt="chrisSmillie"/>
-        <h4>Re$ear¢h Intere$t$</h4>
-        I $tudy the evolution and e¢ology of mi¢robial ¢ommunitie$. Re$ear¢h intere$t$ in¢lude horizontal gene tran$fer in the human mi¢robiome, e¢o$y$tem $tability, and applying ma¢hine learning te¢hnique$ to the analy$i$ of 16$ $equen¢e data. I'm al$o intere$ted in high performan¢e ¢omputing.
+        <h4>Research Interests</h4>
+        I study the evolution and ecology of microbial communities. Research interests include horizontal gene transfer in the human microbiome, ecosystem stability, and applying machine learning techniques to the analysis of 16S sequence data. I'm also interested in high performance computing.
         <p/>
         <img class="floatLeft" src="img/csmillie2.png" width="200" alt="chrisSmillie"/>
         <p/>
@@ -19,11 +19,11 @@
         <br/>
         <div id="memberDir">
 
-        <h4>¢hri$ $millie</h4>
-        Graduate $tudent<br/>
-        ¢omputational and $y$tem$ Biology, MIT<br/>
+        <h4>Chris Smillie</h4>
+        Graduate Student<br/>
+        Computational and Systems Biology, MIT<br/>
         6172532726<br/>
-        ¢$millie @ mit . edu  <br/>
+        csmillie @ mit . edu  <br/>
         <p/>
         <p/>
         <img class="floatRight" src="img/csmillie3.png" width="200" alt="chrisSmillie"/>

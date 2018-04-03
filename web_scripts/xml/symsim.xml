@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab $oftware: $ym$im</Title>
+    <Title>Alm Lab Software: symsim</Title>
 
     <contentPane>
 
@@ -11,49 +11,49 @@
     </rightPane>
     <midPane>
     <br/>
-    <h4>$ym$im </h4>
-    <h5>$ympatri¢ $pe¢iation $imulation for re¢ombining mi¢robial population$</h5>
-    je$$e1@mit.edu<br/>
-    b$hapiro@fa$.harvard.edu<br/>
+    <h4>symsim </h4>
+    <h5>Sympatric speciation simulation for recombining microbial populations</h5>
+    jesse1@mit.edu<br/>
+    bshapiro@fas.harvard.edu<br/>
     <div id="software">
 
     <img class="floatRight" src="img/symsim.png" alt="symsim"/>
-    $ym$im i$ a di$¢rete generation$ model implemented in MatLab, with varying
-    population $ize, de$igned to inve$tigate the ¢olonization of a new
-    e¢ologi¢al ni¢he. Ea¢h generation ¢on$i$t$ of re$our¢e ¢ompetition,
-    population growth and re¢ombination in a $ympatri¢ pool. $ym$im model$ a
-    mi¢robial population growing in an environment ¢ompo$ed of two di$tin¢t
-    ni¢he$, one an¢e$tral (ni¢he 0) and one derived (ni¢he 1). Genotype$ ¢on$i$t
-    of L unlinked adaptive lo¢i, ea¢h with two alleli¢ $tate$, 0 or 1,
-    ¢onferring adaptation to ni¢he 0 or 1, re$pe¢tively.
+    Symsim is a discrete generations model implemented in MatLab, with varying
+    population size, designed to investigate the colonization of a new
+    ecological niche. Each generation consists of resource competition,
+    population growth and recombination in a sympatric pool. Symsim models a
+    microbial population growing in an environment composed of two distinct
+    niches, one ancestral (niche 0) and one derived (niche 1). Genotypes consist
+    of L unlinked adaptive loci, each with two allelic states, 0 or 1,
+    conferring adaptation to niche 0 or 1, respectively.
     </div>
     <p/><hr></hr><p/>
     <div id="softwareMed">
-    <a href="symSim/symsim.zip">Download ¢ode and do¢umentation</a> <p/>
-    The $ym$im model i$ de$¢ribed in detail in the paper: <br/>
-    Friedman J, Alm EJ, $hapiro BJ. (2012) $ympatri¢ $pe¢iation: when i$ it
-    po$$ible in ba¢teria? PLO$ ONE. (a¢¢epted De¢. 2012) <br/>
+    <a href="symSim/symsim.zip">Download code and documentation</a> <p/>
+    The symsim model is described in detail in the paper: <br/>
+    Friedman J, Alm EJ, Shapiro BJ. (2012) Sympatric speciation: when is it
+    possible in bacteria? PLOS ONE. (accepted Dec. 2012) <br/>
 
-    $ummary of the paper:
-    It ha$ been theorized for $ome time that $exual animal population$ diverge more
-    readily into new $pe¢ie$ when a $mall number of gene$ are $uffi¢ient to initiate
-    and ¢omplete the $pe¢iation pro¢e$$. $ome of the$e gene$ may promote $exual
-    i$olation between $pe¢ie$ (important in '$ympatri¢' $pe¢iation, where there are
-    no phy$i¢al barrier$ to mating) and other$ may ¢onfer adaptation to different
-    e¢ologi¢al ni¢he$. Ba¢teria, like $exual organi$m$, adapt to diver$e e¢ologi¢al
-    ni¢he$. Yet they reprodu¢e ¢lonally, ex¢hanging gene$ o¢¢a$ionally by
-    re¢ombination, potentially with di$tant relative$, $u¢h that $exual i$olation
-    between $pe¢ie$ i$ never ¢omplete. De$pite the$e differen¢e$ from $exual
-    organi$m$, we $how that ba¢teria are al$o more likely to form new $pe¢ie$ when
-    ju$t a few gene$ are involved in ni¢he adaptation. The rea$on for thi$ i$ an
-    evolutionary tradeoff: frequent geneti¢ ex¢hange (re¢ombination) i$ required to
-    generate adaptive ¢ombination$ of multiple adaptive allele$, but without
-    me¢hani$m$ for $exual i$olation the$e adapted $pe¢ie$ tend to merge ba¢k
-    together rather than diverging into $eparate $pe¢ie$. Thi$ tradeoff impo$e$ a
-    $imple ¢on$traint on the $pe¢iation pro¢e$$ in ba¢teria, and may explain ¢ertain
-    a$pe¢t$ of ba¢terial biology $u¢h a$ the ¢lu$tering of gene$ into operon$
-    (effe¢tively redu¢ing the number of gene$ involved in $pe¢iation) and variable
-    re¢ombination rate$ over time.
+    Summary of the paper:
+    It has been theorized for some time that sexual animal populations diverge more
+    readily into new species when a small number of genes are sufficient to initiate
+    and complete the speciation process. Some of these genes may promote sexual
+    isolation between species (important in 'sympatric' speciation, where there are
+    no physical barriers to mating) and others may confer adaptation to different
+    ecological niches. Bacteria, like sexual organisms, adapt to diverse ecological
+    niches. Yet they reproduce clonally, exchanging genes occasionally by
+    recombination, potentially with distant relatives, such that sexual isolation
+    between species is never complete. Despite these differences from sexual
+    organisms, we show that bacteria are also more likely to form new species when
+    just a few genes are involved in niche adaptation. The reason for this is an
+    evolutionary tradeoff: frequent genetic exchange (recombination) is required to
+    generate adaptive combinations of multiple adaptive alleles, but without
+    mechanisms for sexual isolation these adapted species tend to merge back
+    together rather than diverging into separate species. This tradeoff imposes a
+    simple constraint on the speciation process in bacteria, and may explain certain
+    aspects of bacterial biology such as the clustering of genes into operons
+    (effectively reducing the number of genes involved in speciation) and variable
+    recombination rates over time.
 
     </div>
     </midPane>

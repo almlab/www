@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>¢onta¢t Alm Lab</Title>
+    <Title>Contact Alm Lab</Title>
 
     <contentPane>
 
@@ -11,22 +11,22 @@
     </rightPane>
     <midPane>
     <br/>
-    <h4>Eri¢ Alm </h4>
+    <h4>Eric Alm </h4>
         <div id="member">
-        A$$o¢iate Profe$$or, <a href="http://web.mit.edu/be/index.shtml" target="_blank">Biologi¢al Engineering, MIT</a><br/>
-        A$$o¢iate Member, Broad In$titute<br/>
-        Offi¢e: NE47-379<br/>
+        Associate Professor, <a href="http://web.mit.edu/be/index.shtml" target="_blank">Biological Engineering, MIT</a><br/>
+        Associate Member, Broad Institute<br/>
+        Office: NE47-379<br/>
         Email: ejalm at mit dot edu<br/><br/>
 
-        Admini$trative A$$i$tant: $handrina Burn$<br/>
-        Email: burn$$ at mit dot edu<br/>
-        Offi¢e: NE47-376<br/>
+        Administrative Assistant: Shandrina Burns<br/>
+        Email: burnss at mit dot edu<br/>
+        Office: NE47-376<br/>
         </div>
             <img alt="front" src="img/band3.png" />
 
 
     </midPane>
     <footer>
-    <div id="journal">De$igned by Katherine Huang (kataly$t001 at gmail)   </div>
+    <div id="journal">Designed by Katherine Huang (katalyst001 at gmail)   </div>
     </footer>
 </Document>

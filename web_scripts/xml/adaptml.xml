@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab $oftware: AdaptML</Title>
+    <Title>Alm Lab Software: AdaptML</Title>
 
     <contentPane>
 
@@ -12,24 +12,24 @@
     <midPane>
     <br/>
     <h4>ADAPTML </h4>
-    <h5>$oftware for the automati¢ partitioning of gene $equen¢e$ a¢¢ording to their geneti¢ and e¢ologi¢al $imilarity.</h5>
+    <h5>Software for the automatic partitioning of gene sequences according to their genetic and ecological similarity.</h5>
 
     <div id="software">
-    by Lawren¢e David and Eri¢ Alm <br/>
+    by Lawrence David and Eric Alm <br/>
     <img class="floatRight" src="img/1_AdaptML.jpeg" alt="ANGST"/>
     </div>
     <div id="softwareMed">
     UPDATE <br/>
-    Run AdaptML online u$ing the new <a href="http://almlab.mit.edu/adaptml/">AdaptML online $erver</a>. $imply upload your tree
-    file$ and pro¢e$$ing take$ pla¢e on our $erver$. Doe$ not require ¢ode
+    Run AdaptML online using the new <a href="http://almlab.mit.edu/adaptml/">AdaptML online server</a>. Simply upload your tree
+    files and processing takes place on our servers. Does not require code
     downloading or prior programming knowledge!<p/>
 
-    $OUR¢E <br/>
-    For tho$e who want to run AdaptML lo¢ally: <br/>
-    <a href="https://github.com/almlab/adaptml">Download ver$ion 1.0 of AdaptML here.</a><p/>
+    SOURCE <br/>
+    For those who want to run AdaptML locally: <br/>
+    <a href="https://github.com/almlab/adaptml">Download version 1.0 of AdaptML here.</a><p/>
 
 
-    A Guide to U$ing AdaptML: <a href="https://github.com/almlab/adaptml/blob/master/readme.pdf">Here.</a>
+    A Guide to Using AdaptML: <a href="https://github.com/almlab/adaptml/blob/master/readme.pdf">Here.</a>
     </div>
     </midPane>
     <footer>

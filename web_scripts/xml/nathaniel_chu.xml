@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: Nathaniel D. ¢hu </Title>
+    <Title>Alm Lab Member: Nathaniel D. Chu </Title>
 
     <contentPane>
-    <h3>Nathaniel D. ¢hu</h3>
+    <h3>Nathaniel D. Chu</h3>
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/nathaniel_chu1.jpg" width="150" alt="Nathaniel"/>
- I am fa$¢inated by two que$tion$: What pro¢e$$e$ govern the evolution and e¢ology of mi¢robial ¢ommunitie$? 
-And how ¢an we harne$$ the$e pro¢e$$e$ to ¢reate pra¢ti¢al $olution$ to problem$ in human and e¢ologi¢al health? 
-Toward thi$ end, I am ¢urrently inve$tigating the ¢onne¢tion$ between our gut mi¢robe$ and behavior: the "gut-brain axi$." 
-In parti¢ular, what bio¢hemi¢al and e¢ologi¢al me¢hani$m$ underpin the ¢omorbidity of ga$trointe$tinal di$order$, metaboli¢ 
-di$ea$e$ (e.g., obe$ity and diabete$), and behavioral di$order$ (e.g., depre$$ion and anxiety)? 
-Working with ¢ollaborator$ from MIT and private biote¢hnology ¢ompanie$, I am u$ing experimental and ¢omputational tool$ to 
-di$¢over new target$ and pathway$ for treating the$e di$ea$e familie$. I am al$o developing new tool$ to improve therapie$ 
-involving fe¢al mi¢robiota tran$plant$ and $tudying hypermutation in marine mi¢robial ¢ommunitie$. 
-Be$ide$ $¢ien¢e, I get ex¢ited about alpini$m, outdoor edu¢ation, and environmental ¢on$ervation. For more information, plea$e $ee. 
-        <a href="https://nathanieldavidchu.wordpress.com">my web$ite</a>.
+ I am fascinated by two questions: What processes govern the evolution and ecology of microbial communities? 
+And how can we harness these processes to create practical solutions to problems in human and ecological health? 
+Toward this end, I am currently investigating the connections between our gut microbes and behavior: the "gut-brain axis." 
+In particular, what biochemical and ecological mechanisms underpin the comorbidity of gastrointestinal disorders, metabolic 
+diseases (e.g., obesity and diabetes), and behavioral disorders (e.g., depression and anxiety)? 
+Working with collaborators from MIT and private biotechnology companies, I am using experimental and computational tools to 
+discover new targets and pathways for treating these disease families. I am also developing new tools to improve therapies 
+involving fecal microbiota transplants and studying hypermutation in marine microbial communities. 
+Besides science, I get excited about alpinism, outdoor education, and environmental conservation. For more information, please see. 
+        <a href="https://nathanieldavidchu.wordpress.com">my website</a>.
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatLeft" src="img/nathaniel_chu2.jpg" width="150" alt="Nathaniel"/>
@@ -27,16 +27,16 @@ Be$ide$ $¢ien¢e, I get ex¢ited about alpini$m, outdoor edu¢ation, and enviro
     <rightPane>
         <br/>
         <div id="memberDir">
-        <h4>Nathaniel D. ¢hu</h4>
-        PhD $tudent, Mi¢robiology Graduate Program<br/>
-        nd¢hu at mit dot edu<br/>
-        http$://nathanieldavid¢hu.wordpre$$.¢om/<br/>
+        <h4>Nathaniel D. Chu</h4>
+        PhD Student, Microbiology Graduate Program<br/>
+        ndchu at mit dot edu<br/>
+        https://nathanieldavidchu.wordpress.com/<br/>
         <p/>
 
-        <h4>Edu¢ation</h4>
+        <h4>Education</h4>
         <ul>
-        <li>Fulbright Fellow, $mith$onian Tropi¢al Re$ear¢h In$titute, Bo¢a$ Del Toro, Panama, 2013</li>
-        <li>B$, Biology, Brown Univer$ity, 2012</li>
+        <li>Fulbright Fellow, Smithsonian Tropical Research Institute, Bocas Del Toro, Panama, 2013</li>
+        <li>BS, Biology, Brown University, 2012</li>
         </ul>
         <p/>
         <img class="floatRight" src="img/nathaniel_chu3.jpg" width="150" alt="Nathaniel"/>
