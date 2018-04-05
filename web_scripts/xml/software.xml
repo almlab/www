@@ -1,90 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab $oftware</Title>
+    <Title>Alm Lab Software</Title>
 
     <contentPane></contentPane>
     <rightPane></rightPane>
     <midPane>
-    <h3>$oftware</h3>
+    <h3>Software</h3>
 
     <div id="leftTool">
         <h4>dbOTU3 (May 2017)</h4>
-        $¢ott Ole$en<br />
+        Scott Olesen<br />
 
-        ¢alling e¢ologi¢ally-informed operational taxonomi¢ unit$.<br/>
+        Calling ecologically-informed operational taxonomic units.<br/>
         <a href="dbotu3.html">Read more...</a><br/><br/>
         <img src="img/dbotu-logo.png" width="250" alt="dbotu3"/>
     </div>
 
     <div id="leftTool">
         <h4>TEXMEx (Mar 2015)</h4>
-        $¢ott Ole$en<br />
+        Scott Olesen<br />
 
-        Vi$ualizing mi¢robial ¢ommunity dynami¢$.<br/>
+        Visualizing microbial community dynamics.<br/>
         <a href="texmex.html">Read more...</a><br/><br/>
         <img src="img/texmex.png" width="100" alt="texmex"/>
     </div>
 
     <div id="leftTool">
-        <h4>My$ti¢ ($ep 2014)</h4>
-                $¢ott Ole$en and $arah Preheim<br />
+        <h4>Mystic (Sep 2014)</h4>
+                Scott Olesen and Sarah Preheim<br />
 
-                Inferred bioma$$ biogeo¢hemi¢al model of My$ti¢ Lake.<br/>
+                Inferred biomass biogeochemical model of Mystic Lake.<br/>
                 <a href="mystic.html">Read more...</a><br/><br/>
                 <img src="img/mystic.jpg" width="250" alt="mystic"/>
 
     </div>
 
     <div id="leftTool">
-        <h4>Di$tribution-ba$ed ¢lu$tering ($ep 2014)</h4>
-                $arah Preheim<br />
+        <h4>Distribution-based clustering (Sep 2014)</h4>
+                Sarah Preheim<br />
 
-                ¢alling e¢ologi¢ally-informed operational taxonomi¢ unit$.<br/>
+                Calling ecologically-informed operational taxonomic units.<br/>
                 <a href="dbc.html">Read more...</a><br/><br/>
                 <img src="img/dbc.png" width="250" alt="dbc"/>
     </div>
     <div id="leftTool">
-    <h4>$ym$im 12/05/2012</h4>
-        Je$$e $hapiro<br/>
-    $ym$im i$ a $imple $imulation of $ympatri¢ $pe¢iation in re¢ombining mi¢robial
-    population$. <a href="symsim.html">Read more...</a><br/><br/>
+    <h4>symsim 12/05/2012</h4>
+        Jesse Shapiro<br/>
+    Symsim is a simple simulation of sympatric speciation in recombining microbial
+    populations. <a href="symsim.html">Read more...</a><br/><br/>
     <img src="img/symsim.png" width="220" alt="symsim"/>
 
     </div>
     <div id="leftTool">
-    <h4>$TARRINIGHT$ 12/12/2011</h4>
-            Je$$e $hapiro<br />
-            $TARRInIGHT$ i$ a ¢omputational pipeline
-            for inferring homologou$ re¢ombination breakpoint$
-            inpopulation$ of
-            ¢lo$ely related ba¢terial genome$.
+    <h4>STARRINIGHTS 12/12/2011</h4>
+            Jesse Shapiro<br />
+            STARRInIGHTS is a computational pipeline
+            for inferring homologous recombination breakpoints
+            inpopulations of
+            closely related bacterial genomes.
             <a href="starrinights.html">Learn more...</a><br/><br/>
     <img src="img/12_STARRInIGHTS.jpeg" width="220" alt="starrnights"/>
     </div>
     <div id="leftTool">
-    <h4>$HE-RA 4/30/2010</h4>
-                $onia Timberlake<br />
-                $HE-RA i$ a tool that align$ the overlapping pair-end read$ and generate$ ¢ompo$ite long read$.
-                The algorithm i$ appli¢able to any $hort read $equen¢ing
-                te¢hnology, and i$ open $our¢e.
+    <h4>SHE-RA 4/30/2010</h4>
+                Sonia Timberlake<br />
+                SHE-RA is a tool that aligns the overlapping pair-end reads and generates composite long reads.
+                The algorithm is applicable to any short read sequencing
+                technology, and is open source.
                 <a href="shera.html">Read more...</a>
                                 <img class="floatRight" src="img/30_SHE-RA.jpeg" width="180" alt="shera"/>
 
     </div>
     <div id="leftTool">
-    <h4>ANG$T 3/29/2009</h4>
-                Lawren¢e David<br />
-                AnG$T i$ a $oftware pa¢kage for the inferen¢e of prokaryoti¢ gene
-                family evolutionary hi$torie$.<br/><br />
+    <h4>ANGST 3/29/2009</h4>
+                Lawrence David<br />
+                AnGST is a software package for the inference of prokaryotic gene
+                family evolutionary histories.<br/><br />
                 <a href="angst.html">Read more...</a>
                 <img class="floatRight" src="img/29_AnGST.png" width="220" alt="angst"/>
 
     </div>
     <div id="leftTool">
         <h4>ADAPTML 5/1/2008</h4>
-                Lawren¢e David<br />
+                Lawrence David<br />
 
-                AdaptML i$ a $oftware pa¢kage that will automati¢ally partition group$ of gene $equen¢e$...<br/>
+                AdaptML is a software package that will automatically partition groups of gene sequences...<br/>
                 <a href="adaptml.html">Read more...</a><br/><br/>
                 <img src="img/5_AdaptML_Online_Server.jpeg" width="250" alt="adaptml"/>
 
