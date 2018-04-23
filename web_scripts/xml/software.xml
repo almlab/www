@@ -8,6 +8,15 @@
     <h3>Software</h3>
 
     <div id="leftTool">
+        <h4>Percentile normalization (April 2018)</h4>
+        Sean Gibbons and Claire Duvallet<br />
+
+        Correcting batch effects in microbiome case-control studies.<br/>
+        <a href="percnorm.html">Read more...</a><br/><br/>
+        <img src="img/percnorm-logo.png" width="250" alt="dbotu3"/>
+    </div>
+
+    <div id="leftTool">
         <h4>dbOTU3 (May 2017)</h4>
         Scott Olesen<br />
 

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<Title>Alm Lab Software: Percentile normalization</Title>
+
+<contentPane>
+
+</contentPane>
+
+<rightPane>
+
+</rightPane>
+
+<midPane>
+<br/>
+<h4>Percentile normalization</h4>
+<h5>correcting batch effects in case-control studies</h5>
+<div id="software">
+by Sean Gibbons and Claire Duvallet<br/>
+sgibbons at mit dot edu <p/>
+
+<img class="floatRight" src="img/percnorm-logo.png" width="280" alt="Percentile normalization overview"/>
+
+Percentile Normalization is a non-parametric method for removing batch effects from case-control studies. This method was developed for amplicon sequencing data (e.g. 16S sequencing), but can be extended to other types of 'omics data. In brief, feature values (e.g. Operational Taxonomic Units, Sequence Variants, etc.) are converted to percentiles of their control distribution, separately for each study. This procedure establishes the control samples as a null-distribution (i.e. a uniform distribution between zero and 100). If the case percentiles are significantly non-uniform, then they differ from the control samples. Upon transformation, features can be pooled together across studies with similar case-control definitions. Pooling percentile-normalized data provides greater statistical power to detect smaller effect sizes.<p/>
+
+REFERENCE<br/>
+Gibbons SM, Duvallet C, Alm EJ (2018) Correcting for batch effects in case-control microbiome studies. <i>PLoS Comput Biol</i> 14(4): e1006102. <a href="https://doi.org/10.1371/journal.pcbi.1006102">https://doi.org/10.1371/journal.pcbi.1006102</a><p/>
+
+SOURCE<br/>
+The Python 3.0 version of the code is available on the <a href="https://github.com/seangibbons/percentile_normalization">github page</a>, which also includes installation and usage instructions.<p/>
+
+The method is also available as a <a href="https://qiime2.org/">QIIME 2</a> plugin. It is currently available on <a href="https://github.com/cduvallet/q2-perc-norm">this github page</a>, which also includes installation instructions.<p/>
+
+</div>
+
+<p/><hr></hr><p/>
+
+
+</midPane>
+<footer>
+
+</footer>
+</Document>
