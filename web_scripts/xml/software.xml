@@ -17,6 +17,15 @@
     </div>
 
     <div id="leftTool">
+        <h4>WaveClust (Oct 2017)</h4>
+        Brian Cleary<br />
+
+        COTU time series analysis by wavelet decomposition.<br/>
+        <a href="waveclust.html">Read more...</a><br/><br/>
+        <img src="img/waveclust.jpg" width="250" alt="waveclust"/>
+    </div>
+
+    <div id="leftTool">
         <h4>dbOTU3 (May 2017)</h4>
         Scott Olesen<br />
 
@@ -33,6 +42,16 @@
         <a href="texmex.html">Read more...</a><br/><br/>
         <img src="img/texmex.png" width="100" alt="texmex"/>
     </div>
+
+    <div id="leftTool">
+        <h4>Latent strain analysis (Jan 2015)</h4>
+        Brian Cleary<br />
+
+        Metagenomic read partitioning by latent factor analysis.<br/>
+        <a href="lsa.html">Read more...</a><br/><br/>
+        <img src="img/lsa-logo.jpg" width="180" alt="LSA"/>
+    </div>
+
 
     <div id="leftTool">
         <h4>Mystic (Sep 2014)</h4>

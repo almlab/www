@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<Title>Alm Lab Software: Latent Strain Analysis</Title>
+
+<contentPane>
+
+</contentPane>
+
+<rightPane>
+
+</rightPane>
+
+<midPane>
+<br/>
+<h4>Latent Strain Analysis</h4>
+<h5>Metagenomic read partitioning by latent factor analysis</h5>
+<div id="software">
+by Brian Cleary<br/>
+bcleary at mit dot edu <p/>
+
+Latent strain analysis partitions reads into sets likely belonging to the same genome, using the covariance of k-mers across many samples.<p/>
+
+Documentation for LSA, including a "getting started" tutorial with accompanying test data, and step-by-step instructions for analyzing large collections, can be found at: <a href="http://latentstrainanalysis.readthedocs.org/">http://latentstrainanalysis.readthedocs.org/</a>.<p/>
+
+The source code can be found on the <a href="https://github.com/brian-cleary/LatentStrainAnalysis">github page</a>.<p/>
+
+REFERENCE<br/>
+Cleary, B., Brito, I. L., Huang, K., Gevers, D., Shea, T., Young, S., and Alm, E. J. (2015). Detection of low-abundance bacterial strains in metagenomic datasets by eigengenome partitioning. <i>Nature biotechnology</i>, 33(10), 1053.<p/>
+
+
+</div>
+
+<p/><hr></hr><p/>
+
+
+</midPane>
+<footer>
+
+</footer>
+</Document>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<Title>Alm Lab Software: WaveClust</Title>
+
+<contentPane>
+
+</contentPane>
+
+<rightPane>
+
+</rightPane>
+
+<midPane>
+<br/>
+<h4>WaveClust</h4>
+<h5>OTU time series analysis by wavelet decomposition</h5>
+<div id="software">
+by Brian Cleary<br/>
+bcleary at mit dot edu <p/>
+
+Waveclust identifies communities of potentially interacting OTUs by analyzing correlations and anti-correlations at different temporal frequencies.<p/>
+
+The source code can be found on the <a href="https://github.com/brian-cleary/WaveletCombinatorics">github page</a>.<p/>
+
+REFERENCE<br/>
+Martin-Platero, A. M., Cleary, B., Kauffman, K., Preheim, S. P., McGillicuddy, D. J., Alm, E. J., and Polz, M. F. (2018). High resolution time series reveals cohesive but short-lived communities in coastal plankton. <i>Nature communications</i>, 9(1), 266.<p/>
+
+</div>
+
+<p/><hr></hr><p/>
+
+
+</midPane>
+<footer>
+
+</footer>
+</Document>
