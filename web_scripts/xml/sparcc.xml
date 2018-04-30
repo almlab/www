@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+<Title>Alm Lab Software: SparCC</Title>
+
+<contentPane>
+
+</contentPane>
+
+<rightPane>
+
+</rightPane>
+
+<midPane>
+<br/>
+<h4>SparCC</h4>
+<h5>Inferring correlations from 16S sequencing data</h5>
+<div id="software">
+by Jonathan Friedman<br/>
+ yonatan.friedman at mail.huji.ac.il <p/>
+
+SparCC infers correlations between OTUs from 16S data, accounting for compositional effects.<p/>
+
+The source code can be found on at <a href="https://bitbucket.org/yonatanf/sparcc">https://bitbucket.org/yonatanf/sparcc</a>.<p/>
+
+REFERENCE<br/>
+Jonathan Friedman and Eric J. Alm. "Inferring correlation networks from genomic survey data." <i>PLoS computational biology</i> 8, no. 9 (2012): e1002687.<p/>
+
+</div>
+
+<p/><hr></hr><p/>
+
+
+</midPane>
+<footer>
+
+</footer>
+</Document>

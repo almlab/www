@@ -89,6 +89,16 @@
             <a href="starrinights.html">Learn more...</a><br/><br/>
     <img src="img/12_STARRInIGHTS.jpeg" width="220" alt="starrnights"/>
     </div>
+
+    <div id="leftTool">
+        <h4>SparCC (July 2011)</h4>
+        Jonathan Friedman<br />
+
+        Inference of correlations from 16S sequencing data.<br/>
+        <a href="sparcc.html">Read more...</a><br/><br/>
+        <img src="img/sparcc-logo.png" width="180" alt="SparCC"/>
+    </div>
+
     <div id="leftTool">
     <h4>SHE-RA 4/30/2010</h4>
                 Sonia Timberlake<br />

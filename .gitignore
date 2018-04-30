@@ -13,3 +13,7 @@ angstoutput/*
 .my.cnf
 .sql
 web_scripts_tmp/*
+
+# Annoying files
+*~
+.DS_Store
