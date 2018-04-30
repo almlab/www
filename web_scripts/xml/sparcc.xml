@@ -20,7 +20,7 @@ by Jonathan Friedman<br/>
 
 SparCC infers correlations between OTUs from 16S data, accounting for compositional effects.<p/>
 
-The source code can be found on at <a href="https://bitbucket.org/yonatanf/sparcc">https://bitbucket.org/yonatanf/sparcc</a>.<p/>
+The source code can be found at <a href="https://bitbucket.org/yonatanf/sparcc">https://bitbucket.org/yonatanf/sparcc</a>.<p/>
 
 REFERENCE<br/>
 Jonathan Friedman and Eric J. Alm. "Inferring correlation networks from genomic survey data." <i>PLoS computational biology</i> 8, no. 9 (2012): e1002687.<p/>
