@@ -97,17 +97,6 @@
          <font class="fontTitle">Fuqing Wu</font><br/>
      </div>
 
-     <div id="member">
-        <img class="floatLeft" src="img/avihu2.jpg" width="150" alt="avihu"/>
-        <font class="fontTitle">Avihu Yona</font><br/>
-        During my doctoral research I utilized experimental evolution to study
-        the evolutionary dynamics of genomic duplications like aneuploidy and
-        tRNA genes. Now, I’m interested in the way complex communities evolve as
-        an integral entity and in how evolutionary forces can be applied to
-        reshape such communities towards desirable traits.... <a href="avihuYona.html">Read more</a>
-
-     </div>
-
     <hr/>
 
      <!--
@@ -211,7 +200,6 @@
 	 <li>Tsultrim Palden</li>
          <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
          <li>Fuqing Wu</li>
-         <li><a href="avihuYona.html" class="nodec">Avihu Yona</a></li>
          <li><a href="xiaoqian_yu.html" class="nodec">Xiaoqian (Annie) Yu</a></li>
          <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
     </ul>
@@ -231,7 +219,7 @@
     <li><a href="http://eapsweb.mit.edu/people/g4nier" class="external">Greg Fournier</a></li>
     <li>Jonathan Friedman</li>
     <li><a href="https://gibbons.systemsbiology.org/" class="external">Sean Gibbons</a></li>
-    <li><a href="https://scholar.google.com/citations?user=nuoJAMAAAAAJ&hl=en" class="external">Sean Kearney</a></li>
+    <li><a href="https://scholar.google.com/citations?user=nuoJAMAAAAAJ&amp;hl=en" class="external">Sean Kearney</a></li>
     <li><a href="http://lieberman.science/" class="external">Tami Lieberman</a></li>
     <li>Fangqiong Ling</li>
     <li><a href="http://www.linkedin.com/in/arnematerna" class="external">Arne Materna</a></li>
@@ -251,6 +239,7 @@
     <li><a href="http://www.linkedin.com/pub/sonia-timberlake/65/283/b13" class="external">Sonia Timberlake</a></li>
     <li><a href="https://www.linkedin.com/in/yanivturgeman" class="external">Yaniv Turgeman</a></li>
     <li><a href="joy_yang.html" class="nodec">Joy Yang</a></li>
+    <li><a href="avihuYona.html" class="nodec">Avihu Yona</a></li>
     </ul>
     </div>
 
