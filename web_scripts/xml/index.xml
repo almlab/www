@@ -3,26 +3,26 @@
     <Title>Alm Lab Website</Title>
     <contentPane>
     </contentPane>
-    
+
     <rightPane>
             <div id="frontpress"><br/><br/>
-                
+
             The Alm lab develops <br/>
-            complementary computational and <br/>
-            experimental methods <br/>
+            complementary computational <br/>
+            and experimental methods <br/>
             to engineer the human microbiome.<br/>
             </div>
-            
-                <a href="http://microbiome.mit.edu/"><img alt="microbiome.mit.edu" src="img/mbit_color_horizontal.png" width="250"/></a><br/><br/>
-                <a href="http://openBiome.org"><img alt="openBiome.org" src="img/static.squarespace.png" width="275"/></a><br/>
-  
+
+                <a href="http://microbiome.mit.edu/" class="img_link"><img alt="microbiome.mit.edu" src="img/mbit_color_horizontal.png" width="170"/></a>
+                <a href="http://openBiome.org" class="img_link"><img alt="openBiome.org" src="img/static.squarespace.png" width="175"/></a>
+                <a href="http://microbiomeconservancy.org/" class="img_link"><img alt="microbiomeconservancy.org" src="img/GMC_logo.jpg" width="180"/></a><br/>
+
     </rightPane>
     <midPane>
             <br/>
              <img alt="front" src="img/band2.png"  />
-             <img alt="front" src="img/band.png"  width="620"/>
+             <img alt="front" src="img/band.png"  width="620"/><br/>
              <img alt="front" src="img/band4.png" width="630"/>
-  
 
     </midPane>
     <footer>
