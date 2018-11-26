@@ -80,3 +80,8 @@ a.nodec:hover {
 a.img_link:hover {
     background-color: #fff;
 }
+
+/* make news links bold text */
+a.news_link:link {
+    font-weight: bold;
+}
