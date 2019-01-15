@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <!-- replace the contents in the brackets, erase the brackets themselves-->
+    <Title>Alm Lab Member: An-Ni Zhang</Title>
+
+    <contentPane>
+    <h3>An-Ni Zhang</h3>
+        <div id="member">
+        <img class="floatRight" src="img/anniz2.JPG" width="200" alt="anniz_2"/> <!--must store the image file in img folder-->
+        <h4>Research interests</h4>
+Over the last 4 years, I build a framework to mine new knowledge and potential applications by bioinformatics and big data analysis. This framework insights the linkages between data to knowledge and applications in the field of environment microbiology.
+        <h4>Interfaces:</h4>
+        <ul class="square">
+        <li>Big data mining + bioinformatics</li>
+        <li>Clinical health + risk</li>
+        <li>Microbiome + metabolism</li>
+        </ul>
+        <h4>Techniques:</h4>
+        <ul class="square">
+        <li>Method development</li>
+        <li>Bioinformatics pipeline development</li>
+        <li>Big data integration and visualization</li>
+        </ul>
+        <h4>Topics:</h4>
+        <ul class="square">
+        <li>Antibiotic resistance</li>
+        <li>Mobile genetic elements</li>
+        <li>Not-yet-cultured functional microbes</li>
+        </ul>
+    <p/>
+
+        <h4>Current projects</h4>
+I’m developing the next stage of my career and appling my whole package to this brand new field of human microbiome. I'm building an integrated analysis method to combine genomes, meta-omics, isolates, and model animals to mining new knowledge and applications. I'm also a new member in the Global Microbiome Conservancy Proect. My current research focuses on:
+        <ul class="square">
+        <li>The evolution of functional genes and microbial groups</li>
+        <li>Traits that shape, maintain and disturb our gut microbes</li>
+        <li>Diseases-related gut microbes and functions</li>
+        </ul>
+        <p/>
+
+        <img class="floatLeft" src="img/anniz3.JPG" width="200" alt="anniz_3"/>
+        <p/>
+
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+
+        <h4>An-Ni Zhang</h4>
+        Postdoc Research Fellow<br/>
+        anniz44 at mit dot edu<br/>
+        caozhichongchong at gmail dot com<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Ph.D., Environmental Engineering, University of Hong Kong, <a href="https://smile.hku.hk/">Environmental Biotechnology Lab @ HKU</a>. 2018.</li>
+        <li>B.S., Environmental Biology, Nanjing University. 2014.</li>
+        </ul>
+        <p/>
+
+        <h4>Webpage</h4>
+        <ul>
+        <li><a href="https://github.com/caozhichongchong">Github</a>.</li>
+        <li><a href="https://www.researchgate.net/profile/An_Ni_Zhang">Researchgate</a>.</li>
+        <li><a href="https://youtu.be/4RQBEILzm-4">Youtube</a>.</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/anniz4.JPG" width="200" alt="anniz4"/>
+
+
+        </div>
+
+    </rightPane>
+    <midPane>
+
+    </midPane>
+    <footer>
+        <hr />
+        <!--Evolutionary, Ecological and Environmental Systems Biology-->
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

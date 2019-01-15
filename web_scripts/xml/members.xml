@@ -100,6 +100,17 @@
          <font class="fontTitle">Fuqing Wu</font><br/>
      </div>
 
+     <div id="member">
+          <img class="floatLeft" src="img/anniz1.JPG" width="150" alt="anniz"/>
+          <font class="fontTitle">An-Ni Zhang</font><br/>
+          Over the last 4 years, I build a framework to mine new knowledge and potential
+          applications by bioinformatics and big data analysis.
+          I’m now developing the next stage of my career and appling my whole package
+          to this brand new field of human microbiome. I'm building an integrated
+          analysis method to combine genomes, meta-omics, and isolates...
+          <a href="anni_zhang.html">Read more</a><br/><br/>
+     </div>
+
     <hr/>
 
      <!--
@@ -203,6 +214,7 @@
 	 <li>Tsultrim Palden</li>
          <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
          <li>Fuqing Wu</li>
+         <li><a href="anni_zhang.html" class="nodec">An-Ni Zhang</a></li>
          <li><a href="xiaoqian_yu.html" class="nodec">Xiaoqian (Annie) Yu</a></li>
          <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
     </ul>
