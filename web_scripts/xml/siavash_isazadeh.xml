@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Siavash Isazadeh </Title>
+
+    <contentPane>
+    <h3>Siavash Isazadeh</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/siavash_isazadeh1.jpg" width="150"/>
+        <h4>Research Interests</h4>
+My research is inspired by the vision that understanding the role of microbial community in natural and engineered systems will allow us to fully harness their power towards achieving sustainable water and wastewater treatment process which ultimately contribute to improving environmental and public health. I am excited to use interdisciplinary approaches of microbial ecology, chemistry, and environmental health to develop innovative solutions to cope with emerging and/or challenging environmental problems.
+
+In Alm lab, I focus on developing a sewer surveillance platform to perform near real-time urban epidemiology to study human health and behavior in cities. Specifically, I explore the origin, fate, and evolution of antibiotic resistant bacteria in cities. I use automated robots and omics technologies with bioinformatic tools to examine how abiotic stressors affect antibiotic-resistant genes in sewage. To expand the scope of my research in antibiotic resistance, I coordinate with the Center for Molecular Dynamics in Nepal (CMDN) to explore the origin, fate, and transportation of antibiotic-resistant
+bacteria from livestock production into riverways in Kathmandu.
+
+        <!-- if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. -->
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/siavash_isazadeh2.jpg" width="150"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Siavash Isazadeh</h4>
+        Postdoctoral Fellow, Biological Engineering<br/>
+        sisazade at mit.edu<br/>
+        <p/>
+
+        <h4>Education </h4>
+        <ul>
+        <li>PhD, 2014, Environmental Engineering, McGill University</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/siavash_isazadeh3.jpg" width="150" alt="siavash"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

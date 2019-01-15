@@ -69,7 +69,10 @@
      </div>
 
      <div id="member">
+         <img class="floatLeft" src="img/siavash_isazadeh1.jpg" width="150" alt="siavash"/>
          <font class="fontTitle">Siavash Isazadeh</font><br/>
+         My research is inspired by the vision that understanding the role of microbial community in natural and engineered systems will allow us to fully harness their power towards achieving sustainable water and wastewater treatment process which ultimately contribute to improving environmental and public health. I am excited to use interdisciplinary approaches of microbial ecology, chemistry, and environmental health...
+         <a href="siavash_isazadeh.html">Read more</a>
      </div>
 
      <div id="member">
@@ -194,7 +197,7 @@
 	 <li>Katya Frois-Moniz</li>
          <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
          <li><a href="thomas_gurry.html" class="nodec">Thomas Gurry</a></li>
-         <li>Siavash Isazadeh</li>
+         <li><a href="siavash_isazadeh.html" class="nodec">Siavash Isazadeh</a></li>
          <li>Britta Lotstedt</li>
          <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
 	 <li>Tsultrim Palden</li>
