@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Xiaoqiong Gu </Title>
+
+    <contentPane>
+    <h3> Xiaoqiong Gu </h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/xiaoqiong_gu3.JPG" width="150" alt="xiaoqiong"/>
+        <h4> Research Interests </h4>
+
+        I am interested in the relationship between the viromes, human-inducted factors and public health in the city based ecosystem. Briefly, my research area keywords include: viral metagenomics, microbial ecology, virus-host interactions and water quality. I am also interested in expanding the virome database and discovering novel viruses/phages by wet lab and bioinformatics analysis. In the future, I would like to apply the viral metagenomics not only in environmental samples, but also human clinical samples, to capture the virome patterns in these clinical samples and correlate with human disease.
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/xiaoqiong_gu2.JPG" width="150" alt="xiaoqiong"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Xiaoqiong Gu</h4>
+        Postdoctoral Associate<br/>
+        xiaoqiong at smart.mit.edu<br/>
+	<a href="https://www.researchgate.net/profile/Xiaoqiong_Gu">Researchgate</a><br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Ph.D., Environmental Engineering, National University of Singapore 2018.</li>
+        <li>B.S., Environmental Planning and Management, Nanjing University. 2014.</li>
+        </ul>
+        <p/>
+
+        <img class="floatRight" src="img/xiaoqiong_gu4.JPG" width="150" alt="xiaoqiong"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

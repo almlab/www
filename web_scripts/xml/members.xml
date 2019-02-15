@@ -111,6 +111,17 @@
           <a href="anni_zhang.html">Read more</a><br/><br/>
      </div>
 
+     <div id="member">
+          <img class="floatLeft" src="img/xiaoqiong_gu1.JPG" width="150" alt="xiaoqiong"/>
+          <font class="fontTitle">Xiaoqiong Gu</font><br/>
+          I am interested in the relationship between the viromes, human-inducted factors
+          and public health in the city based ecosystem. In the future,
+          I would like to apply the viral metagenomics not only in environmental samples,
+          but also human clinical samples, to capture the virome patterns in these clinical
+          samples and correlate with human disease...
+          <a href="xiaoqiong_gu.html">Read more</a><br/><br/>
+     </div>
+
     <hr/>
 
      <!--
@@ -215,6 +226,7 @@
          <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
          <li>Fuqing Wu</li>
          <li><a href="anni_zhang.html" class="nodec">An-Ni Zhang</a></li>
+         <li><a href="xiaoqiong_gu.html" class="nodec">Xiaoqiong Gu</a></li>
          <li><a href="xiaoqian_yu.html" class="nodec">Xiaoqian (Annie) Yu</a></li>
          <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
     </ul>
