@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Brittany Berdy</Title>
+
+    <contentPane>
+    <h3>Brittany Berdy</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/brit2.jpg" width="150" alt="brit3"/>
+        <h4>Research Interests</h4>
+        <h5>Cultivation</h5>
+        During graduate school I focused on microbiological cultivation techniques, including in situ cultivation. I love trying new cultivation techniques and trying to culture bacteria that are typically recalcitrant to cultivation. It doesn't always work, but I am up for the challenge!
+       <h5>Honey bees</h5>
+       My postdoc work focused on the honey bee microbiome, and I developed a passion for bees and beekeeping! Honey bees are so important for our ecosystems and agriculture, so anything I can do to help strengthen their numbers - I am on board! I am co-founder of a small company that works to develop devices to monitor honey bee hives to prevent unnecessary human intervention and aims to predict when problems are coming to give beekeepers a chance to save their hive. We also work with the natural honey bee microbiome to promote health for colonies.
+        <h5>The Microbiome</h5>
+        After living in the Boston area studying microbiology for the last 8 years, I have developed a deep appreciation for host-associated microbiomes and the intricate balance that exists between us and our microbiome, particularly our gut microbiome
+         <h4>Current Work</h4>
+         I am currently working on curating a microbiome strain collection for researchers all over the world to have access to. This includes getting the collection in sharable form, cataloguing isolates, as well as isolating new and exciting species and exploring their potentials!
+         I also work very closely with the  <a href="http://microbiomeconservancy.org/">Global Microbiome Conservancy</a>
+        <p/>
+
+        <img class="floatLeft" src="img/brit4.jpg" width="200" alt="brit4"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Brittany Berdy</h4>
+        Project Manager<br/>
+        bberdy at broadinstitute dot org <br/>
+        <br/>
+        <p/>
+
+        <h4>Education and Research</h4>
+        <ul>
+        <li>Postdoc, Honey bee microbiome, Rowland Institute at Harvard. 2017-2019</li>
+        <li>Ph.D. Biology (Microbiology), Northeastern University. 2017 </li>
+        <li>B.A., Biology, Skidmore College. 2010</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/brit3.jpg" width="150" alt="brit3"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>
