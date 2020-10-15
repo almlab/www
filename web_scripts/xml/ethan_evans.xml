@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: ethan evans </Title>
+
+    <contentPane>
+    <h3>ethan evans</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/ethan_evans4.jpg" width="150" alt="[mouseover text 1]"/>
+        <h4>research interests</h4>
+        i'm generally fascinated by problems at the interface of machine learning with chemistry and biology. particularly questions surrounding networks and time series, spanning multiple orders of magnitude. this ranges from atomistic simulations for understanding molecular interactions to cellular networks, metabolic states and systems biology with time scales from picoseconds to years. 
+        <h5>current work</h5>
+        developing general analysis methods for metabolomics data using a mixture of machine learning, statistics, linear algebra, graph theory and computer science. 
+
+        transfer/representation learning + metabolomics.
+
+        human/environmental metabolomic (and/or 16s sequencing) time series analysis. moving toward causal inference and multiscale interaction modeling. 
+
+        other research: molecular dynamics of intrinsically disordered proteins and modulating their conformational landscapes. molecular design. characterization and modeling of protein interfaces, allostery and networks. ml-based atomistic potentials. ml for functional inference and biophysical property prediction.
+        <img class="floatLeft" src="img/ethan_evans2.jpg" width="150" alt="image 2"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>ethan evans</h4>
+        postdoctoral associate<br/>
+        email: eevans@mit.edu<br/>
+        twitter: @_e_evans<br/>
+        researchgate: https://www.researchgate.net/profile/Ethan_Evans3 <br/>
+        linkedin: https://www.linkedin.com/in/ethan-evans-mit/ <br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Ph.D. @ MIT Chemistry 2018 | Pentelute Lab</li>
+        <li>B.A. Chemistry and Biochemistry @ University of Colorado, Boulder 2013 </li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/ethan_evans3.jpg" width="150" alt="(image3)"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

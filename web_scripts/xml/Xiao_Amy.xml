@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Amy Xiao </Title>
+
+    <contentPane>
+    <h3>Amy Xiao</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/amy_xiao4.jpg" width="150" alt="image 1"/>
+        <h4>Research Interests</h4>
+        Wastewater offers a rich source of public health information. Biomarkers of infectious disease, diet, and other population health metrics are constantly shed in feces and wind up in a community's wastewater. I am interested in developing methods to use wastewater surveillance data to track infectious diseases and infer their incidence/prevalence in a population. In particular, I have been working with Alm lab members and collaborators at Biobot Analytics to track COVID-19 in wastewater across the United States and model viral shedding. I am excited to combine expertise from mechanical, electrical, and biological engineering to build a device to detect pathogens at the building level. Such a device will help apartment complexes, workplaces, and hospitals respond to outbreaks in near real time.
+        <!-- if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. -->
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/amy_xiao2.jpg" width="150" alt="image 2"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Amy Xiao</h4>
+        Graduate student<br/>
+        Department of Biological Engineering<br/>
+        amyxiao at mit.edu<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>BS Biomedical Engineering, Johns Hopkins University, 2018</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/amy_xiao3.jpg" width="150" alt="image3"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

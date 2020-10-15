@@ -46,82 +46,80 @@
 
     <h4>Postdocs</h4>
 
-    <div id="member">
-        <font class="fontTitle">Ethan Evans</font><br/>
-    </div>
+        <div id="member">
+            <img class="floatLeft" src="img/brit4.jpg" width="150" alt="brittany"/>
+             <font class="fontTitle">Brittany Berdy</font><br/>
+             I am currently working on curating a microbiome strain collection for researchers
+            all over the world to have access to. This includes getting the collection in sharable
+            form, cataloguing isolates, as well as isolating new and exciting species and exploring their potentials!... <a href="Brittany_Berdy.html">Read more</a>
+        </div>
+        <br/><br/>
+        <div id="member">
+            <table style="width:100%">
+                      <tr>
+                        <td><img class="floatLeft" src="img/ethan_evans1.jpg" width="150" alt="ethan"/></td>
+                        <td> <font class="fontTitle">Ethan Evans</font><br/>
+                            i'm generally fascinated by problems at the interface of machine learning with
+            chemistry and biology. particularly questions surrounding networks and time series,
+            spanning multiple orders of magnitude. this ranges from atomistic simulations for
+            understanding molecular interactions to cellular networks, metabolic states and systems biology... <a href="ethan_evans.html">Read more</a></td>
+                      </tr>
+            </table>
+        </div>
 
-     <div id="member">
-         <img class="floatLeft" src="img/groussin1.jpg" width="150" alt="mathieu"/>
-         <font class="fontTitle">Mathieu Groussin</font><br/>
-         Broadly speaking, I am interested in the inference of biological
-         properties of ancient prokaryotic life and in how bacterial and archaeal
-         communities evolve. My main interests focus on the study of genetic data
-         (DNA, proteins) to understand the main evolutionary processes... <a href="mathieu_groussin.html">Read more</a>
-     </div>
+         <div id="member">
+             <img class="floatLeft" src="img/groussin1.jpg" width="150" alt="mathieu"/>
+             <font class="fontTitle">Mathieu Groussin</font><br/>
+             Broadly speaking, I am interested in the inference of biological
+             properties of ancient prokaryotic life and in how bacterial and archaeal
+             communities evolve. My main interests focus on the study of genetic data
+             (DNA, proteins) to understand the main evolutionary processes... <a href="mathieu_groussin.html">Read more</a>
+         </div>
 
-     <div id="member">
-         <img class="floatLeft" src="img/thomas_gurry1.jpg" width="150" alt="thomas"/>
-         <font class="fontTitle">Thomas Gurry</font><br/>
-         The relationship between our health and our microbial inhabitants is poorly
-         understood and likely to be vast in its implications.  I am interested
-         in integrating different types of physiological data that have been collected
-         in a continuous fashion, including data pertaining to the microbiome... <a href="thomas_gurry.html">Read more</a>
-     </div>
+        <div id="member">
+              <img class="floatLeft" src="img/xiaoqiong_gu1.JPG" width="150" alt="xiaoqiong"/>
+              <font class="fontTitle">Xiaoqiong Gu</font><br/>
+              I am interested in the relationship between the viromes, human-inducted factors
+              and public health in the city based ecosystem. In the future,
+              I would like to apply the viral metagenomics not only in environmental samples,
+              but also human clinical samples, to capture the virome patterns in these clinical
+              samples and correlate with human disease...
+              <a href="xiaoqiong_gu.html">Read more</a><br/><br/>
+         </div>
 
-     <div id="member">
-         <img class="floatLeft" src="img/siavash_isazadeh1.jpg" width="150" alt="siavash"/>
-         <font class="fontTitle">Siavash Isazadeh</font><br/>
-         My research is inspired by the vision that understanding the role of microbial community in natural and engineered systems will allow us to fully harness their power towards achieving sustainable water and wastewater treatment process which ultimately contribute to improving environmental and public health. I am excited to use interdisciplinary approaches of microbial ecology, chemistry, and environmental health...
-         <a href="siavash_isazadeh.html">Read more</a>
-     </div>
+         <div id="member">
+              <img class="floatLeft" src="img/mathilde_nov2018.jpg" width="150" alt="mathilde"/>
+              <font class="fontTitle">Mathilde Poyet</font><br/>
+              I am an ecologist with a special interest in biological communities.
+              During my PhD, I characterized the invasion processes of an insect
+              (<i>Drosophila suzukii</i>) and its impact on the invaded communities at different
+              levels of organization. Now, I keep on studying community and ecosystem stability...
+              <a href="mathilde_poyet.html">Read more</a><br/><br/>
+         </div>
 
-     <div id="member">
-       <img class="floatLeft" src="img/xiaofang_jiang1.jpg" width="150" alt="xiaofang"/>
-       <font class="fontTitle">Xiaofang Jiang</font><br/>
-       To adapt their physiology to gradual and sudden changes occurring in the host environment or
-       during inter-individual transmissions, commensals exhibit remarkable genetic variation diversity
-       at a population level. I am interested in the genetic variations of gut microbes and how the
-       variations are beneficial for  their effective colonization and successful survival. I am
-       developing tools and mining genetic variations from isolate genomes and metagenomic data...
-       <a href="xiaofang_jiang.html">Read more</a>
-     </div>
+         <div id="member">
+             <font class="fontTitle">Fuqing Wu</font><br/>
+         </div>
 
-     <div id="member">
-          <img class="floatLeft" src="img/mathilde_nov2018.jpg" width="150" alt="mathilde"/>
-          <font class="fontTitle">Mathilde Poyet</font><br/>
-          I am an ecologist with a special interest in biological communities.
-          During my PhD, I characterized the invasion processes of an insect
-          (<i>Drosophila suzukii</i>) and its impact on the invaded communities at different
-          levels of organization. Now, I keep on studying community and ecosystem stability...
-          <a href="mathilde_poyet.html">Read more</a><br/><br/>
-     </div>
+         <div id="member">
+              <img class="floatLeft" src="img/anniz1.JPG" width="150" alt="anniz"/>
+              <font class="fontTitle">An-Ni Zhang</font><br/>
+              Over the last 4 years, I build a framework to mine new knowledge and potential
+              applications by bioinformatics and big data analysis.
+              I'm now developing the next stage of my career by applying my whole package
+              to this brand new field of human microbiome. I'm building an integrated
+              framework to combine genomes, meta-omics, and isolates...
+              <a href="anni_zhang.html">Read more</a><br/><br/>
+         </div>
 
-     <div id="member">
-         <font class="fontTitle">Fuqing Wu</font><br/>
-     </div>
-
-     <div id="member">
-          <img class="floatLeft" src="img/anniz1.JPG" width="150" alt="anniz"/>
-          <font class="fontTitle">An-Ni Zhang</font><br/>
-          Over the last 4 years, I build a framework to mine new knowledge and potential
-          applications by bioinformatics and big data analysis.
-          I'm now developing the next stage of my career by applying my whole package
-          to this brand new field of human microbiome. I'm building an integrated
-          framework to combine genomes, meta-omics, and isolates...
-          <a href="anni_zhang.html">Read more</a><br/><br/>
-     </div>
-
-     <div id="member">
-          <img class="floatLeft" src="img/xiaoqiong_gu1.JPG" width="150" alt="xiaoqiong"/>
-          <font class="fontTitle">Xiaoqiong Gu</font><br/>
-          I am interested in the relationship between the viromes, human-inducted factors
-          and public health in the city based ecosystem. In the future,
-          I would like to apply the viral metagenomics not only in environmental samples,
-          but also human clinical samples, to capture the virome patterns in these clinical
-          samples and correlate with human disease...
-          <a href="xiaoqiong_gu.html">Read more</a><br/><br/>
-     </div>
-
+        <div id="member">
+            <img class="floatLeft" src="img/shijie_zhao1.jpg" width="150" alt="jay"/>
+            <font class="fontTitle">Shijie (Jay) Zhao</font><br/>
+            The sequencing revolution has immense promises for improving human
+            health. In the Alm lab, I have the opportunity to apply cutting edge
+            genomic technique to study the interplay of microbes and human diseases...
+            <a href="shijie_zhao.html">Read more</a>
+        </div>
     <hr/>
 
      <!--
@@ -138,68 +136,19 @@
     -->
 
     <h4>Graduate Students</h4>
-    <div id="member">
-        <img class="floatLeft" src="img/nathaniel_chu1.jpg" width="150" alt="Nathaniel"/>
-        <font class="fontTitle">Nathaniel Chu</font><br/>
-        I am fascinated by two questions: What processes govern the evolution
-        and ecology of microbial communities? And how can we harness these
-        processes to create practical solutions to problems in human and
-        ecological health? <a href="nathaniel_chu.html">Read more</a>
-    </div>
 
-    <div id="member">
-        <font class="fontTitle">Chengzhen Dai</font><br/>
-    </div>
+        <div id="member">
+          <font class="fontTitle">Haixin Sarah Bi</font><br/>
+        </div>
 
-    <div id="member">
-        <img class="floatLeft" src="img/claire_duvallet1.jpg" width="150" alt="Claire"/>
-        <font class="fontTitle">Claire Duvallet</font><br/>
-        Studying the relationships between the microbiome, health, and lifestyle
-        provides incredible opportunities for translational medical discoveries
-        and public health impacts. I'm excited by the possibility of using various
-        physiological data to predict disease states, both on the individualized
-        and broader community levels. <a href="claire_duvallet.html">Read more</a>
-    </div>
-
-    <div id="member">
-        <font class="fontTitle">Britta Lotstedt</font><br/>
-    </div>
-
-    <div id="member">
-        <img class="floatLeft" src="img/lttu_nguyen0.jpg" width="150" alt="tu"/>
-        <font class="fontTitle">Tu Nguyen</font><br/>
-        Our body is in constant interaction with the microbial communities inhabiting
-        not only our gastrointestinal tract but also our respiratory system, skin
-        and the reproductive tissues. These diverse microbial communities outnumber
-        our own cells by a 10 to 1 ratio and have been increasingly reported to
-        play important roles in human health and diseases... <a href="lttu_nguyen.html">Read more</a>
-    </div>
-
-    <div id="member">
-        <img class="floatLeft" src="img/xiaoqian_yu1.JPG" width="150" alt="annie"/>
-        <font class="fontTitle">Xiaoqian (Annie) Yu</font><br/>
-		I am particularly interested in investigating two things: how does bacterial
-		diversity affect ecosystem processes and how genetic variations of
-		Carbohydrate Active Enzymes in Vibrios are distributed according to their
-		ecological context. We also hope that these investigations will help us
-		become more capable of harnessing the enzymatic capabilities of bacteria
-		for biofuel production.
-        <a href="xiaoqian_yu.html">Read more</a>
-    </div>
-
-    <div id="member">
-        <img class="floatLeft" src="img/shijie_zhao1.jpg" width="150" alt="jay"/>
-        <font class="fontTitle">Shijie (Jay) Zhao</font><br/>
-        The sequencing revolution has immense promises for improving human
-        health. In the Alm lab, I have the opportunity to apply cutting edge
-        genomic technique to study the interplay of microbes and human diseases...
-        <a href="shijie_zhao.html">Read more</a>
-    </div>
-
-    <div id="member">
-      <font class="fontTitle">Haixin Sarah Bi</font><br/>
-    </div>
-
+        <div id="member">
+            <img class="floatLeft" src="img/amy_xiao1.jpg" width="150" alt="amy"/>
+             <font class="fontTitle">Amy Xiao</font><br/>
+            I am interested in developing methods to use wastewater surveillance data to track
+            infectious diseases and infer their incidence/prevalence in a population. In particular,
+            I have been working with Alm lab members and collaborators at Biobot Analytics to track
+            COVID-19 in wastewater across the United States and model viral shedding.... <a href="Xiao_Amy.html">Read more</a>
+        </div>
     <br />
     <hr />
     </contentPane>
@@ -212,22 +161,16 @@
          <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
 	 <li>Haixin Sarah Bi</li>
 	 <li>Shandrina Burns</li>
-         <li><a href="nathaniel_chu.html" class="nodec">Nathaniel Chu</a></li>
-         <li>Chengzhen Dai</li>
-         <li><a href="claire_duvallet.html" class="nodec">Claire Duvallet</a></li>
-         <li>Ethan Evans</li>
+        <li><a href="Brittany_Berdy.html" class="nodec">Brittany Berdy</a></li>
+        <li><a href="ethan_evans.html" class="nodec">Ethan Evans</a></li>
 	 <li>Katya Frois-Moniz</li>
          <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
-         <li><a href="thomas_gurry.html" class="nodec">Thomas Gurry</a></li>
-         <li><a href="siavash_isazadeh.html" class="nodec">Siavash Isazadeh</a></li>
-         <li>Britta Lotstedt</li>
-         <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
+         <li><a href="xiaoqiong_gu.html" class="nodec">Xiaoqiong Gu</a></li>
 	 <li>Tsultrim Palden</li>
          <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
          <li>Fuqing Wu</li>
+        <li><a href="Xiao_Amy.html" class="nodec">Amy Xiao</a></li>
          <li><a href="anni_zhang.html" class="nodec">An-Ni Zhang</a></li>
-         <li><a href="xiaoqiong_gu.html" class="nodec">Xiaoqiong Gu</a></li>
-         <li><a href="xiaoqian_yu.html" class="nodec">Xiaoqian (Annie) Yu</a></li>
          <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
     </ul>
     </div>
@@ -235,38 +178,47 @@
     Former Members
     <div id="memberDir">
     <ul>
-    <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
-    <li><a href="http://www.engr.uconn.edu/~mukul/ " class="external">Mukul Bansal</a></li>
-    <li><a href="http://microfluidics.epfl.ch/twiki/bin/view/MaerklLab/LbncPeople" class="external">Matthew Blackburn</a></li>
-    <li><a href="https://www.bme.cornell.edu/people/profile.cfm?netid=ilb8" class="external">Ilana Brito</a></li>
-    <li><a href="franciscocamas.html" class="nodec">Francisco Camas</a></li>
-    <li><a href="https://be.mit.edu/directory/sean-clarke" class="external">Sean Clarke</a></li>
-    <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
-    <li><a href="http://www.ladlab.org" class="external">Lawrence David</a></li>
-    <li><a href="http://eapsweb.mit.edu/people/g4nier" class="external">Greg Fournier</a></li>
-    <li>Jonathan Friedman</li>
-    <li><a href="https://gibbons.systemsbiology.org/" class="external">Sean Gibbons</a></li>
-    <li><a href="https://scholar.google.com/citations?user=nuoJAMAAAAAJ&amp;hl=en" class="external">Sean Kearney</a></li>
-    <li><a href="http://lieberman.science/" class="external">Tami Lieberman</a></li>
-    <li>Fangqiong Ling</li>
-    <li><a href="http://www.linkedin.com/in/arnematerna" class="external">Arne Materna</a></li>
-    <li><a href="mariana_matus.html" class="nodec">Mariana Matus</a></li>
-    <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
-    <li><a href="http://www.scottolesen.com" class="external">Scott Olesen</a></li>
-    <li>Sepideh Pakpour</li>
-    <li><a href="elipapa.html" class="nodec">Eli Papa</a></li>
-    <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
-    <li>Isaac Rockafellow</li>
-    <li><a href="http://www.shapirolab.ca/" class="external">B. Jesse Shapiro</a></li>
-    <li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>
-    <li><a href="http://www.openbiome.org/team" class="external">Mark Smith</a></li>
-    <li><a href="https://www.linkedin.com/in/sarah-spencer-2451604a/" class="external">Sarah Spencer</a></li>
-    <li><a href="http://engineering.jhu.edu/dogee/faculty/sarah-preheim/" class="external">Sarah Preheim</a></li>
-    <li><a href="https://manutamminen.info/" class="external">Manu Tamminen</a></li>
-    <li><a href="http://www.linkedin.com/pub/sonia-timberlake/65/283/b13" class="external">Sonia Timberlake</a></li>
-    <li><a href="https://www.linkedin.com/in/yanivturgeman" class="external">Yaniv Turgeman</a></li>
-    <li><a href="joy_yang.html" class="nodec">Joy Yang</a></li>
-    <li><a href="avihuYona.html" class="nodec">Avihu Yona</a></li>
+        <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
+        <li><a href="http://www.engr.uconn.edu/~mukul/ " class="external">Mukul Bansal</a></li>
+        <li><a href="http://microfluidics.epfl.ch/twiki/bin/view/MaerklLab/LbncPeople" class="external">Matthew Blackburn</a></li>
+        <li><a href="https://www.bme.cornell.edu/people/profile.cfm?netid=ilb8" class="external">Ilana Brito</a></li>
+        <li><a href="franciscocamas.html" class="nodec">Francisco Camas</a></li>
+        <li><a href="https://www.tezzafoods.com/" class="nodec">Nathaniel Chu</a></li>
+        <li><a href="https://be.mit.edu/directory/sean-clarke" class="external">Sean Clarke</a></li>
+        <li><a href="corzett.html" class="nodec">Christopher Corzett</a></li>
+        <li>Chengzhen Dai</li>
+        <li><a href="http://www.ladlab.org" class="external">Lawrence David</a></li>
+        <li><a href="http://cduvallet.github.io" class="nodec">Claire Duvallet</a></li>
+        <li><a href="http://eapsweb.mit.edu/people/g4nier" class="external">Greg Fournier</a></li>
+        <li>Jonathan Friedman</li>
+        <li><a href="https://gibbons.systemsbiology.org/" class="external">Sean Gibbons</a></li>
+        <li><a href="thomas_gurry.html" class="nodec">Thomas Gurry</a></li>
+        <li><a href="siavash_isazadeh.html" class="nodec">Siavash Isazadeh</a></li>
+        <li>Xiaofang Jiang</li>
+        <li><a href="https://scholar.google.com/citations?user=nuoJAMAAAAAJ&amp;hl=en" class="external">Sean Kearney</a></li>
+        <li><a href="http://lieberman.science/" class="external">Tami Lieberman</a></li>
+        <li>Fangqiong Ling</li>
+        <li>Britta Lotstedt</li>
+        <li><a href="http://www.linkedin.com/in/arnematerna" class="external">Arne Materna</a></li>
+        <li><a href="mariana_matus.html" class="nodec">Mariana Matus</a></li>
+        <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
+        <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
+        <li><a href="http://www.scottolesen.com" class="external">Scott Olesen</a></li>
+        <li>Sepideh Pakpour</li>
+        <li><a href="elipapa.html" class="nodec">Eli Papa</a></li>
+        <li><a href="aperrott.html" class="nodec">Allison Perrotta</a></li>
+        <li>Isaac Rockafellow</li>
+        <li><a href="http://www.shapirolab.ca/" class="external">B. Jesse Shapiro</a></li>
+        <li><a href="csmillie.html" class="nodec">Chris Smillie</a></li>
+        <li><a href="http://www.openbiome.org/team" class="external">Mark Smith</a></li>
+        <li><a href="https://www.linkedin.com/in/sarah-spencer-2451604a/" class="external">Sarah Spencer</a></li>
+        <li><a href="http://engineering.jhu.edu/dogee/faculty/sarah-preheim/" class="external">Sarah Preheim</a></li>
+        <li><a href="https://manutamminen.info/" class="external">Manu Tamminen</a></li>
+        <li><a href="http://www.linkedin.com/pub/sonia-timberlake/65/283/b13" class="external">Sonia Timberlake</a></li>
+        <li><a href="https://www.linkedin.com/in/yanivturgeman" class="external">Yaniv Turgeman</a></li>
+        <li><a href="joy_yang.html" class="nodec">Joy Yang</a></li>
+        <li><a href="avihuYona.html" class="nodec">Avihu Yona</a></li>
+        <li><a href="xiaoqian_yu.html" class="nodec">Xiaoqian (Annie) Yu</a></li>
     </ul>
     </div>
 
