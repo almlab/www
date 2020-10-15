@@ -34,7 +34,12 @@ def xml_to_html(xml_txt, template_txt, html_fn):
         closeTag = "</%s>" %xmlTag
         try:
             paneDom = xdom.getElementsByTagName(xmlTag)[0].toxml().replace(openTag, "").replace(closeTag, "") # itself an xdom object
+            if xmlTag == 'footer':
+                if 'img/bar1.png' in paneDom:
+                    paneDom += '\n<br>'
+                paneDom += '\n<a  id="journal" href="http://accessibility.mit.edu">Accessibility</a>'
             html_txt = html_txt.replace("_%s_" %(xmlTag), paneDom)
+
 
             if type(html_txt) is unicode:
                 # if this is python2, we need to convert from unicode to string

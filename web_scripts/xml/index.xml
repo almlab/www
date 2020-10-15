@@ -26,12 +26,10 @@
 
     </midPane>
     <footer>
-        <hr />
-        <!--Evolutionary, Ecological and Environmental Systems Biology-->
-        <img src="img/almlab.webtools.png" alt="bar1" width="300"/>
+      <!--Evolutionary, Ecological and Environmental Systems Biology-->
+      <img src="img/almlab.webtools.png" alt="bar1" width="300"/>
         <div id="journal">Designed by Katherine Huang </div>
         <div id="journal">Updated on Oct 14, 2020  </div>
-        <a  id="journal" href="http://accessibility.mit.edu">Accessibility</a>
 
 
     </footer>

@@ -42,6 +42,12 @@
       kmoniz at mit dot edu
     </div>
 
+    <div id="member">
+      <font class="fontTitle">Franciscus Chandra</font><br/>
+      Lab Technologist (SMART Alm Lab)<br/>
+      franciscus.chandra at smart dot mit dot edu
+    </div>
+
     <hr/>
 
     <h4>Postdocs</h4>
@@ -150,7 +156,6 @@
             COVID-19 in wastewater across the United States and model viral shedding.... <a href="Xiao_Amy.html">Read more</a>
         </div>
     <br />
-    <hr />
     </contentPane>
 
     <rightPane>
@@ -158,20 +163,21 @@
     Current Members
     <div id="memberDir">
     <ul>
-         <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
-	 <li>Haixin Sarah Bi</li>
-	 <li>Shandrina Burns</li>
-        <li><a href="Brittany_Berdy.html" class="nodec">Brittany Berdy</a></li>
-        <li><a href="ethan_evans.html" class="nodec">Ethan Evans</a></li>
-	 <li>Katya Frois-Moniz</li>
-         <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
-         <li><a href="xiaoqiong_gu.html" class="nodec">Xiaoqiong Gu</a></li>
-	 <li>Tsultrim Palden</li>
-         <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
-         <li>Fuqing Wu</li>
-        <li><a href="Xiao_Amy.html" class="nodec">Amy Xiao</a></li>
-         <li><a href="anni_zhang.html" class="nodec">An-Ni Zhang</a></li>
-         <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
+      <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
+      <li>Haixin Sarah Bi</li>
+      <li>Shandrina Burns</li>
+     <li><a href="Brittany_Berdy.html" class="nodec">Brittany Berdy</a></li>
+     <li>Franciscus Chandra</li>
+     <li><a href="ethan_evans.html" class="nodec">Ethan Evans</a></li>
+      <li>Katya Frois-Moniz</li>
+      <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
+      <li><a href="xiaoqiong_gu.html" class="nodec">Xiaoqiong Gu</a></li>
+       <li>Tsultrim Palden</li>
+      <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
+      <li>Fuqing Wu</li>
+     <li><a href="Xiao_Amy.html" class="nodec">Amy Xiao</a></li>
+      <li><a href="anni_zhang.html" class="nodec">An-Ni Zhang</a></li>
+      <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
     </ul>
     </div>
     <br/>

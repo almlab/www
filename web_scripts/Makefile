@@ -10,5 +10,5 @@ HTMLS=$(addprefix $(OUTPUT_DIR)/,$(notdir $(XMLS:.xml=.html)))
 
 all: $(HTMLS)
 
-$(OUTPUT_DIR)/%.html: $(SOURCE_DIR)/%.xml
+$(OUTPUT_DIR)/%.html: $(SOURCE_DIR)/%.xml $(SCRIPT)
 	$(SCRIPT) $< --template $(HTML_TEMPLATE) $@
