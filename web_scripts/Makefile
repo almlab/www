@@ -1,6 +1,6 @@
 # user-defined variables
 SOURCE_DIR=xml
-OUTPUT_DIR=.
+OUTPUT_DIR=..
 SCRIPT=bin/xml_to_html.py
 HTML_TEMPLATE=templates/almSite.template.html
 

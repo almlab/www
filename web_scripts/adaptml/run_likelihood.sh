@@ -1,0 +1,1 @@
+python /mit/almlab/adaptmlprogram/wrapper/WrapLikelihood.py tree=/mit/almlab/adaptmloutput/3509/tree.tree outgroup=5S_OUTGROUP write_dir=/mit/almlab/adaptmloutput/3509 color=/mit/almlab/adaptmloutput/3509/color.file thresh=0.95 &> /mit/almlab/adaptmloutput/3509/output &
