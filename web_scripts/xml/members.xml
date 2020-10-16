@@ -94,6 +94,15 @@
          </div>
 
          <div id="member">
+             <img class="floatLeft" src="img/weilin_lee2.jpg" width="150" alt="weilin"/>
+             <font class="fontTitle">Wei Lin Lee</font><br/>
+             As part of the Alm lab in Singapore, I work on wastewater-based methods for proactive
+              early infectious disease outbreak detection. Disease transmission commonly go undetected when populations
+                with symptoms below the testing threshold fail to be clinically detected and reported,
+                as epitomized by COVID-19. <a href="weilin_lee.html">Read more</a>
+         </div>
+
+         <div id="member">
               <img class="floatLeft" src="img/mathilde_nov2018.jpg" width="150" alt="mathilde"/>
               <font class="fontTitle">Mathilde Poyet</font><br/>
               I am an ecologist with a special interest in biological communities.
