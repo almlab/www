@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Imran Muhammad </Title>
+
+    <contentPane>
+    <h3>Imran Muhammad</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/Imran_muhammad1.jpg" width="150" alt="Imran_muhammad"/>
+        <h4>Research Interests</h4>
+        Microbial communities play a pivotal role in human and animal productivity as well as overall wellbeing. Understanding and modelling the naturally occurring complex microbial communities of gut and indigenously fermented foods and might have a potential to enhance the productivity and prevent various diseases. I'm interested in the development of food and feed based bio-therapeutics with wide array of applications for human and animals. More precisely, the areas of interests are:
+        <h5>Understanding the Microbial Diversity of Indigenous Fermented Foods and Human Gut.</h5>
+        <h5>Development of Biotherapeutics for humans and animals.</h5>
+        <h5>Formulation of microbial starters for antagonism and detoxification in food ecosystem.</h5>
+
+        <h4>Teaching interests</h4>
+        I teach subjects related to microbiology, especially Food and Nutrition and industrial microbiology at Graduate and undergraduate level.
+        <br/>
+        <img class="floatLeft" src="img/Imran_muhammad3.jpg" width="150" alt="Imran_muhammad"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="member">
+        <h4>Imran Muhammad</h4>
+        Visiting Scientist (MIT) and Associate Professor (QAU-Pakistan)<br/>
+        8573264141 /+923465459904<br/>
+        mimran at mit.edu / mmimran at qau.edu.pk<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Postdoc- 2016. University de Caen, Normandy-France</li>
+        <li>Ph.D 2011. University de Caen, Normandy-France</li>
+        <li>M.Sc (Hons) 2006. University of Arid Agriculture, Rawalpindi, Pakistan</li>
+        </ul>
+        <p/>
+        <br/>
+        <img class="floatLeft" src="img/Imran_muhammad2.jpg" width="150" alt="Imran_muhammad"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

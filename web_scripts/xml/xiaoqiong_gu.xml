@@ -13,6 +13,7 @@
 
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatLeft" src="img/xiaoqiong_gu2.JPG" width="150" alt="xiaoqiong"/>
+        <br/><br/>
         <p/>
     </div>
     </contentPane>
@@ -33,13 +34,14 @@
         </ul>
         <p/>
 
-        <img class="floatRight" src="img/xiaoqiong_gu4.JPG" width="150" alt="xiaoqiong"/>
+        <img class="floatLeft" src="img/xiaoqiong_gu4.JPG" width="150" alt="xiaoqiong"/>
         </div>
     </rightPane>
         <!-- Don't change anything below here! -->
     <midPane>
     </midPane>
     <footer>
+      <br/><br/><br/>
         <hr />
         <img src="img/bar1.png" alt="bar1"/>
     </footer>

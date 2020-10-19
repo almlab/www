@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Federica Armas </Title>
+
+    <contentPane>
+    <h3>Federica Armas</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/federica_armas1.jpg" width="150" alt="federica_armas"/>
+        <h4>Research Interests</h4>
+I am passionate about the damned and blessed tiny beings, also called bacteria. The ones that can cause infection and the "good ones" that keep our body healthy. I am particularly interested in infectious diseases, especially those that can spread from animals to humans, and their importance in public health.  My field of expertise ranges from the mycobacteria to probiotics. I have always focused on a single, one person, one animal, but now, I am moving my attention to a population level, looking at a neighbourhood or entire cities. I am excited to work with the Alm Singaporean group to look into into new wastewater population biomarkers to study public health in cities that will help us predict an infectious disease outbreak to act promptly and maintain our population health. I am fascinated by the idea of answering the question, "is the population healthy?"
+
+        <h4>Something else about me</h4>
+        "How can a population be more healthy?". To answer this question, I am looking to learn more about the amazing challenge of human behaviour. How we interact with each other and how we can have good relationships. I am interested in the communication challenges that we are facing every day. As Italian, I feel very excited to be in Asia, knowing more about human habits here and being part of a multicultural group like the Alm's one.
+        <!-- if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. -->
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <br/>  
+        <img class="floatLeft" src="img/federica_armas2.jpg" width="150" alt="federica_armas"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="member">
+        <h4>Federica Armas</h4>
+        Postdoctoral Associate<br/>
+        armas at smart.mit.edu<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>PhD in Biomedical Science and Technologies, Roma Tre University, Italy 2017</li>
+        <li>Master’s degree in Genetic and Molecular Biology, Sapienza University of Rome, Italy</li>
+        </ul>
+        <p/>
+        <img class="floatLeft" src="img/federica_armas3.jpg" width="150" alt="federica_armas"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

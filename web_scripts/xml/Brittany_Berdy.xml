@@ -40,7 +40,7 @@
         <li>B.A., Biology, Skidmore College. 2010</li>
         </ul>
         <p/>
-        <img class="floatRight" src="img/brit3.jpg" width="150" alt="brit3"/>
+        <img class="floatLeft" src="img/brit3.jpg" width="150" alt="brit3"/>
         </div>
     </rightPane>
         <!-- Don't change anything below here! -->

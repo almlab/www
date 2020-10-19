@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Document>
-    <Title>Alm Lab Member: Shijie (Jay) Zhao </Title>
+    <Title>Alm Lab Member: Jay Zhao </Title>
 
     <contentPane>
-    <h3>Shijie (Jay) Zhao</h3>
+    <h3>Jay Zhao</h3>
         <div id="member">
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/shijie_zhao1.jpg" width="150" alt="top of the Met"/>
@@ -22,7 +22,7 @@
     <rightPane>
         <br/>
         <div id="memberDir">
-        <h4>Shijie (Jay) Zhao</h4>
+        <h4>Jay Zhao</h4>
         Graduate Student<br/>
         shijie at mit dot edu <br/>
         <p/>
@@ -32,7 +32,7 @@
         <li>BS, Biological Sciences, Peking University.</li>
         </ul>
         <p/>
-        
+
         <img class="floatRight" src="img/shijie_zhao3.jpg" width="150" alt="just a girl and her car"/>
         </div>
     </rightPane>

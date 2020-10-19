@@ -25,6 +25,16 @@
 
     <h4>Staff</h4>
     <div id="member">
+        <img class="floatLeft" src="img/brit4.jpg" width="150" alt="brittany"/>
+         <font class="fontTitle">Brittany Berdy</font><br/>
+         Project manager (manager of bacterial strain collections)<br/>
+         I am currently working on curating a microbiome strain collection for researchers
+        all over the world to have access to. This includes getting the collection in sharable
+        form, cataloguing isolates, as well as isolating new and exciting species and exploring their potentials!... <a href="Brittany_Berdy.html">Read more</a>
+    </div>
+    <br/><br/>
+
+    <div id="member">
       <font class="fontTitle">Shandrina Burns</font><br/>
       Administrative assistant<br/>
       burnss at mit dot edu
@@ -48,18 +58,35 @@
       franciscus.chandra at smart dot mit dot edu
     </div>
 
+    <div id="member">
+        <img class="floatLeft" src="img/Imran_muhammad1.jpg" width="150" alt="Imran"/>
+         <font class="fontTitle">Imran Muhammad</font><br/>
+         Visiting Scientist (MIT) and Associate Professor (QAU-Pakistan)<br/>
+         Understanding and modelling the naturally occurring
+         complex microbial communities of gut and indigenously fermented foods and
+         might have a potential to enhance the productivity and prevent various diseases.
+         I'm interested in the development of food and feed based bio-therapeutics with
+         wide array of applications for human and animals... <a href="Imran.html">Read more</a>
+    </div>
+
     <hr/>
 
     <h4>Postdocs</h4>
-
         <div id="member">
-            <img class="floatLeft" src="img/brit4.jpg" width="150" alt="brittany"/>
-             <font class="fontTitle">Brittany Berdy</font><br/>
-             I am currently working on curating a microbiome strain collection for researchers
-            all over the world to have access to. This includes getting the collection in sharable
-            form, cataloguing isolates, as well as isolating new and exciting species and exploring their potentials!... <a href="Brittany_Berdy.html">Read more</a>
+            <table style="width:100%">
+                      <tr>
+                        <td><img class="floatLeft" src="img/federica_armas1.jpg" width="150" alt="federica_armas"/></td>
+                        <td> <font class="fontTitle">Federica Armas</font><br/>
+                            My field of expertise ranges from the mycobacteria to probiotics.
+                             I have always focused on a single, one person, one animal, but now, I am moving my attention to a population level,
+                             looking at a neighbourhood or entire cities. I am excited to work with the Alm Singaporean group to look
+                             into into new wastewater population biomarkers to study public health in cities that will help us predict an
+                             infectious disease outbreak to act promptly and maintain our population health...
+                              <a href="Federica.armas.html">Read more</a></td>
+                      </tr>
+            </table>
         </div>
-        <br/><br/>
+
         <div id="member">
             <table style="width:100%">
                       <tr>
@@ -103,6 +130,16 @@
          </div>
 
          <div id="member">
+             <img class="floatLeft" src="img/lttu_nguyen0.jpg" width="150" alt="tu"/>
+             <font class="fontTitle">Tu Nguyen</font><br/>
+             Our body is in constant interaction with the microbial communities inhabiting
+             not only our gastrointestinal tract but also our respiratory system, skin
+             and the reproductive tissues. These diverse microbial communities outnumber
+             our own cells by a 10 to 1 ratio and have been increasingly reported to
+             play important roles in human health and diseases... <a href="lttu_nguyen.html">Read more</a>
+           </div>
+
+         <div id="member">
               <img class="floatLeft" src="img/mathilde_nov2018.jpg" width="150" alt="mathilde"/>
               <font class="fontTitle">Mathilde Poyet</font><br/>
               I am an ecologist with a special interest in biological communities.
@@ -129,7 +166,7 @@
 
         <div id="member">
             <img class="floatLeft" src="img/shijie_zhao1.jpg" width="150" alt="jay"/>
-            <font class="fontTitle">Shijie (Jay) Zhao</font><br/>
+            <font class="fontTitle">Jay Zhao</font><br/>
             The sequencing revolution has immense promises for improving human
             health. In the Alm lab, I have the opportunity to apply cutting edge
             genomic technique to study the interplay of microbes and human diseases...
@@ -173,21 +210,24 @@
     <div id="memberDir">
     <ul>
       <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
+      <li><a href="Federica.armas.html" class="nodec">Federica Armas</a></li>
+      <li><a href="Brittany_Berdy.html" class="nodec">Brittany Berdy</a></li>
       <li>Haixin Sarah Bi</li>
       <li>Shandrina Burns</li>
-     <li><a href="Brittany_Berdy.html" class="nodec">Brittany Berdy</a></li>
      <li>Franciscus Chandra</li>
      <li><a href="ethan_evans.html" class="nodec">Ethan Evans</a></li>
       <li>Katya Frois-Moniz</li>
       <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
       <li><a href="xiaoqiong_gu.html" class="nodec">Xiaoqiong Gu</a></li>
       <li><a href="weilin_lee.html" class="nodec">Wei Lin Lee</a></li>
+      <li><a href="Imran.html" class="nodec">Imran Muhammad</a></li>
+      <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
        <li>Tsultrim Palden</li>
       <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
       <li>Fuqing Wu</li>
      <li><a href="Xiao_Amy.html" class="nodec">Amy Xiao</a></li>
       <li><a href="anni_zhang.html" class="nodec">An-Ni Zhang</a></li>
-      <li><a href="shijie_zhao.html" class="nodec">Shijie (Jay) Zhao</a></li>
+      <li><a href="shijie_zhao.html" class="nodec">Jay Zhao</a></li>
     </ul>
     </div>
     <br/>
@@ -218,7 +258,6 @@
         <li><a href="http://www.linkedin.com/in/arnematerna" class="external">Arne Materna</a></li>
         <li><a href="mariana_matus.html" class="nodec">Mariana Matus</a></li>
         <li><a href="josh_michener.html" class="nodec">Josh Michener</a></li>
-        <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
         <li><a href="http://www.scottolesen.com" class="external">Scott Olesen</a></li>
         <li>Sepideh Pakpour</li>
         <li><a href="elipapa.html" class="nodec">Eli Papa</a></li>
