@@ -23,17 +23,6 @@
     </div>
     <hr/>
 
-    <h4>Staff</h4>
-    <div id="member">
-        <img class="floatLeft" src="img/brit4.jpg" width="150" alt="brittany"/>
-         <font class="fontTitle">Brittany Berdy</font><br/>
-         Project manager (manager of bacterial strain collections)<br/>
-         I am currently working on curating a microbiome strain collection for researchers
-        all over the world to have access to. This includes getting the collection in sharable
-        form, cataloguing isolates, as well as isolating new and exciting species and exploring their potentials!... <a href="Brittany_Berdy.html">Read more</a>
-    </div>
-    <br/><br/>
-
     <div id="member">
       <font class="fontTitle">Shandrina Burns</font><br/>
       Administrative assistant<br/>
@@ -41,34 +30,10 @@
     </div>
 
     <div id="member">
-      <font class="fontTitle">Tsultrim Palden</font><br/>
-      Lab manager<br/>
-      tpalden at mit dot edu
-    </div>
-
-    <div id="member">
-      <font class="fontTitle">Katya Frois-Moniz</font><br/>
-      Research Scientist/Research Lead<br/>
-      kmoniz at mit dot edu
-    </div>
-
-    <div id="member">
       <font class="fontTitle">Franciscus Chandra</font><br/>
       Lab Technologist (SMART Alm Lab)<br/>
       franciscus.chandra at smart dot mit dot edu
     </div>
-
-    <div id="member">
-        <img class="floatLeft" src="img/Imran_muhammad1.jpg" width="150" alt="Imran"/>
-         <font class="fontTitle">Imran Muhammad</font><br/>
-         Visiting Scientist (MIT) and Associate Professor (QAU-Pakistan)<br/>
-         Understanding and modelling the naturally occurring
-         complex microbial communities of gut and indigenously fermented foods and
-         might have a potential to enhance the productivity and prevent various diseases.
-         I'm interested in the development of food and feed based bio-therapeutics with
-         wide array of applications for human and animals... <a href="Imran.html">Read more</a>
-    </div>
-
     <hr/>
 
     <h4>Postdocs</h4>
@@ -99,15 +64,6 @@
                       </tr>
             </table>
         </div>
-
-         <div id="member">
-             <img class="floatLeft" src="img/groussin1.jpg" width="150" alt="mathieu"/>
-             <font class="fontTitle">Mathieu Groussin</font><br/>
-             Broadly speaking, I am interested in the inference of biological
-             properties of ancient prokaryotic life and in how bacterial and archaeal
-             communities evolve. My main interests focus on the study of genetic data
-             (DNA, proteins) to understand the main evolutionary processes... <a href="mathieu_groussin.html">Read more</a>
-         </div>
 
         <div id="member">
               <img class="floatLeft" src="img/xiaoqiong_gu1.JPG" width="150" alt="xiaoqiong"/>
@@ -140,20 +96,6 @@
            </div>
 
          <div id="member">
-              <img class="floatLeft" src="img/mathilde_nov2018.jpg" width="150" alt="mathilde"/>
-              <font class="fontTitle">Mathilde Poyet</font><br/>
-              I am an ecologist with a special interest in biological communities.
-              During my PhD, I characterized the invasion processes of an insect
-              (<i>Drosophila suzukii</i>) and its impact on the invaded communities at different
-              levels of organization. Now, I keep on studying community and ecosystem stability...
-              <a href="mathilde_poyet.html">Read more</a><br/><br/>
-         </div>
-
-         <div id="member">
-             <font class="fontTitle">Fuqing Wu</font><br/>
-         </div>
-
-         <div id="member">
               <img class="floatLeft" src="img/anniz1.JPG" width="150" alt="anniz"/>
               <font class="fontTitle">An-Ni Zhang</font><br/>
               Over the last 4 years, I build a framework to mine new knowledge and potential
@@ -163,15 +105,6 @@
               framework to combine genomes, meta-omics, and isolates...
               <a href="anni_zhang.html">Read more</a><br/><br/>
          </div>
-
-        <div id="member">
-            <img class="floatLeft" src="img/shijie_zhao1.jpg" width="150" alt="jay"/>
-            <font class="fontTitle">Jay Zhao</font><br/>
-            The sequencing revolution has immense promises for improving human
-            health. In the Alm lab, I have the opportunity to apply cutting edge
-            genomic technique to study the interplay of microbes and human diseases...
-            <a href="shijie_zhao.html">Read more</a>
-        </div>
     <hr/>
 
      <!--
@@ -211,29 +144,29 @@
     <ul>
       <li><a href="ealm.html" class="nodec">Eric Alm</a></li>
       <li><a href="Federica.armas.html" class="nodec">Federica Armas</a></li>
-      <li><a href="Brittany_Berdy.html" class="nodec">Brittany Berdy</a></li>
       <li>Haixin Sarah Bi</li>
       <li>Shandrina Burns</li>
-     <li>Franciscus Chandra</li>
-     <li><a href="ethan_evans.html" class="nodec">Ethan Evans</a></li>
-      <li>Katya Frois-Moniz</li>
-      <li><a href="mathieu_groussin.html" class="nodec">Mathieu Groussin</a></li>
+      <li>Franciscus Chandra</li>
+      <li><a href="ethan_evans.html" class="nodec">Ethan Evans</a></li>
       <li><a href="xiaoqiong_gu.html" class="nodec">Xiaoqiong Gu</a></li>
       <li><a href="weilin_lee.html" class="nodec">Wei Lin Lee</a></li>
-      <li><a href="Imran.html" class="nodec">Imran Muhammad</a></li>
       <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
-       <li>Tsultrim Palden</li>
-      <li><a href="mathilde_poyet.html" class="nodec">Mathilde Poyet</a></li>
-      <li>Fuqing Wu</li>
-     <li><a href="Xiao_Amy.html" class="nodec">Amy Xiao</a></li>
+      <li><a href="Xiao_Amy.html" class="nodec">Amy Xiao</a></li>
       <li><a href="anni_zhang.html" class="nodec">An-Ni Zhang</a></li>
-      <li><a href="shijie_zhao.html" class="nodec">Jay Zhao</a></li>
     </ul>
     </div>
     <br/>
     Former Members
     <div id="memberDir">
     <ul>
+        <li><a href="Brittany_Berdy.html" class="nodec">Brittany Berdy</a></li>
+        <li><a href="https://www.openbiome.org/team" class="nodec">Katya Frois-Moniz</a></li>
+        <li><a href="https://www.ikmb.uni-kiel.de/research/junior-research-groups/genomics-and-functions-host-microbiome-systems" class="nodec">Mathilde Poyet</a></li>
+        <li><a href="https://www.ikmb.uni-kiel.de/research/junior-research-groups/genomics-and-functions-host-microbiome-systems" class="nodec">Mathieu Groussin</a></li>
+        <li><a href="shijie_zhao.html" class="nodec">Jay Zhao</a></li>
+        <li>Fuqing Wu</li>
+        <li>Tsultrim Palden</li>
+        <li><a href="Imran.html" class="nodec">Imran Muhammad</a></li>
         <li><a href="antolik.html" class="nodec">Caroline Antolik</a></li>
         <li><a href="http://www.engr.uconn.edu/~mukul/ " class="external">Mukul Bansal</a></li>
         <li><a href="http://microfluidics.epfl.ch/twiki/bin/view/MaerklLab/LbncPeople" class="external">Matthew Blackburn</a></li>
