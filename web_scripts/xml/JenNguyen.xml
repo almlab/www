@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Jen Nguyen </Title>
+
+    <contentPane>
+    <h3>Jen Nguyen</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/planthome.jpeg" width="150" alt="jen loves plants"/>
+        <h4>Research Interests</h4>
+        I study how bacterial physiology influences ecology. In the Alm Lab, I'm developing synthetic microbial communities and culturing protocols to improve experimental models of the human microbiome. This project tickles my research fancies by (1) optimizing a model system that we can controllably perturb, observe, and explain what caused what and (2) illuminating how microbial communities respond to ecological change.
+        <p/>
+        I am also collecting data on which ice cream flavor is actually the best.
+
+        <img class="floatLeft" src="img/redrocks.JPG" width="240" alt="jen loves nature"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Jen Nguyen</h4>
+        Postdoctoral Fellow<br/>
+        j dot kimthu dot nguyen at gmail dot com<br/>
+        <li><a href="https://scholar.google.com/citations?user=Lfo-cxIAAAAJ&amp;hl=en&amp;oi=ao">Past projects</a>.</li>
+        <li><a href="https://jkimthu.github.io/modern_portfolio/index.html">Personal page</a>.</li>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>BS/MSc Biology @ UC San Diego (w/ Amy Kiger)</li>
+        <li>PhD Microbiology @ MIT/ETH Zürich (w/ Roman Stocker)</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/mochi.JPG" width="190" alt="jen and kitty"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Document>
+    <Title>Alm Lab Member: Fatima Aysha Hussain </Title>
+
+    <contentPane>
+    <h3>Fatima Aysha Hussain</h3>
+        <div id="member">
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatRight" src="img/hussain3.jpg" width="150" alt="[mouseover text 1]"/>
+        <h4>Research Interests</h4>
+        I study the ecology and evolution of microbes living in the human vagina, or the vaginal microbiome. The composition of a person’s vaginal microbiome can impact their susceptibility to preterm birth, bacterial vaginosis, and HIV infection. In the Alm lab, I am building an isolate and genome collection of vaginal microbes to use genome wide association studies (GWAS) to map genotypes to phenotypes of interest. I am particularly interested in (pro)phage-microbe and microbe-microbe interactions and how they shape the structure and function of microbial communities.
+        <br/>
+
+        <!-- if you want another heading or subheading, copy those lines and repeat. or,
+             if you don't need a subheading, just delete that line. -->
+
+            <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
+        <img class="floatLeft" src="img/hussain1.jpg" width="150" alt="image 2"/>
+        <p/>
+    </div>
+    </contentPane>
+
+    <rightPane>
+        <br/>
+        <div id="memberDir">
+        <h4>Fatima Aysha Hussain</h4>
+        Research Affiliate<br/>
+        <li><a href="https://schmidtsciencefellows.org/fellow/fatima-hussain/">Schmidt Science Fellow</a>.</li>
+        fatimah@mit.edu<br/>
+        <p/>
+
+        <h4>Education</h4>
+        <ul>
+        <li>Ph.D., Environmental Microbiology, MIT, 2020</li>
+        <li>M.S., Civil and Environmental Engineering, Stanford University, 2013</li>
+        <li>S.B., Environmental Engineering Science with minor in Women's and Gender Studies, MIT, 2011</li>
+        </ul>
+        <p/>
+        <img class="floatRight" src="img/hussain2.jpg" width="195" alt="(image3)"/>
+        </div>
+    </rightPane>
+        <!-- Don't change anything below here! -->
+    <midPane>
+    </midPane>
+    <footer>
+        <hr />
+        <img src="img/bar1.png" alt="bar1"/>
+    </footer>
+</Document>

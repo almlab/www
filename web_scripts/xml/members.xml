@@ -53,19 +53,6 @@
         </div>
 
         <div id="member">
-            <table style="width:100%">
-                      <tr>
-                        <td><img class="floatLeft" src="img/ethan_evans1.jpg" width="150" alt="ethan"/></td>
-                        <td> <font class="fontTitle">Ethan Evans</font><br/>
-                            i'm generally fascinated by problems at the interface of machine learning with
-            chemistry and biology. particularly questions surrounding networks and time series,
-            spanning multiple orders of magnitude. this ranges from atomistic simulations for
-            understanding molecular interactions to cellular networks, metabolic states and systems biology... <a href="ethan_evans.html">Read more</a></td>
-                      </tr>
-            </table>
-        </div>
-
-        <div id="member">
               <img class="floatLeft" src="img/xiaoqiong_gu1.JPG" width="150" alt="xiaoqiong"/>
               <font class="fontTitle">Xiaoqiong Gu</font><br/>
               I am interested in the relationship between the viromes, human-inducted factors
@@ -95,11 +82,34 @@
              play important roles in human health and diseases... <a href="lttu_nguyen.html">Read more</a>
            </div>
 
+           <div id="member">
+                <img class="floatLeft" src="img/planthome.jpeg" width="120" alt="jen"/>
+                <font class="fontTitle">Jen Nguyen</font><br/>
+                I study how bacterial physiology influences ecology.
+                In the Alm Lab, I'm developing synthetic microbial communities
+                and culturing protocols to improve experimental models of the human microbiome.
+                This project tickles my research fancies by (1) optimizing a model system that
+                we can controllably perturb, observe, and explain what caused what...
+                <a href="JenNguyen.html">Read more</a>
+           </div>
+           <br/>
+
+           <div id="member">
+                <img class="floatLeft" src="img/hussain1.jpg" width="120" alt="hussain1"/>
+                <font class="fontTitle">Fatima Aysha Hussain</font><br/>
+                I study the ecology and evolution of microbes living in the human vagina,
+                or the vaginal microbiome. The composition of a person’s vaginal microbiome
+                can impact their susceptibility to preterm birth, bacterial vaginosis, and HIV infection.
+                In the Alm lab, I am building an isolate and genome collection of vaginal
+                microbes to use genome wide association studies (GWAS) to map genotypes to phenotypes of interest...
+                <a href="FatimaHussain.html">Read more</a>
+           </div>
+
          <div id="member">
               <img class="floatLeft" src="img/anniz1.JPG" width="150" alt="anniz"/>
               <font class="fontTitle">An-Ni Zhang</font><br/>
               Over the last 4 years, I build a framework to mine new knowledge and potential
-              applications by bioinformatics and big data analysis.
+              applications by bioinformatics.
               I'm now developing the next stage of my career by applying my whole package
               to this brand new field of human microbiome. I'm building an integrated
               framework to combine genomes, meta-omics, and isolates...
@@ -152,6 +162,8 @@
       <li><a href="weilin_lee.html" class="nodec">Wei Lin Lee</a></li>
       <li><a href="lttu_nguyen.html" class="nodec">Tu Nguyen</a></li>
       <li><a href="Xiao_Amy.html" class="nodec">Amy Xiao</a></li>
+      <li><a href="JenNguyen.html" class="nodec">Jen Nguyen</a></li>
+      <li><a href="FatimaHussain.html" class="nodec">Fatima Aysha Hussain</a></li>
       <li><a href="anni_zhang.html" class="nodec">An-Ni Zhang</a></li>
     </ul>
     </div>
