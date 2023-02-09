@@ -8,7 +8,13 @@
             <!-- rename the image file here. jpgs, pngs, whatever are fine. -->
         <img class="floatRight" src="img/hussain3.jpg" width="150" alt="[mouseover text 1]"/>
         <h4>Research Interests</h4>
-        I study the ecology and evolution of microbes living in the human vagina, or the vaginal microbiome. The composition of a person’s vaginal microbiome can impact their susceptibility to preterm birth, bacterial vaginosis, and HIV infection. In the Alm lab, I am building an isolate and genome collection of vaginal microbes to use genome wide association studies (GWAS) to map genotypes to phenotypes of interest. I am particularly interested in (pro)phage-microbe and microbe-microbe interactions and how they shape the structure and function of microbial communities.
+            I study the ecology and evolution of microbes living in the human vagina, or the vaginal microbiome.
+            The composition of a person’s vaginal microbiome can impact their susceptibility to preterm birth,
+            bacterial vaginosis, and HIV infection. I am collaborating with the Alm lab to build an isolate and
+            genome collection of vaginal microbes. I aim to use genome wide association studies (GWAS) to map
+            genotypes to phenotypes of interest and compliment this computational work with lab experiments at
+            strain-level resolution. My expertise and focus are in (pro)phage-microbe and microbe-microbe interactions
+            and how they shape the structure and function of microbial communities.
         <br/>
 
         <!-- if you want another heading or subheading, copy those lines and repeat. or,
@@ -24,7 +30,7 @@
         <br/>
         <div id="memberDir">
         <h4>Fatima Aysha Hussain</h4>
-        Research Affiliate<br/>
+        Research Affiliate/Collaborator<br/>
         <li><a href="https://schmidtsciencefellows.org/fellow/fatima-hussain/">Schmidt Science Fellow</a>.</li>
         fatimah@mit.edu<br/>
         <p/>
